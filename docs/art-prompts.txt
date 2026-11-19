@@ -1,0 +1,21 @@
+MOON SHADOW — PROMPTS DE ARTE DE LA VERSIÓN 0.9.2
+
+Herramienta: image_gen integrada (sin API/CLI de respaldo).
+
+Archivos finales incorporados al proyecto de Unity:
+Assets\_Project\Art\PixelSteelColumn.png
+Assets\_Project\Art\PixelZombieWalkerMotion.png
+
+El soporte sustituye las columnas y estructuras planas en escenarios y subzonas inactivas.
+El zombi del primer acto usa 16 poses originales: desplazamiento, zarpazo y recuperación, con siluetas íntegras.
+
+PROMPT ZOMBI
+Production game sprite sheet for an ORIGINAL zombie enemy in Moon Shadow, a 2D pixel-art metroidvania. EXACTLY 16 animation cels in a regular 4-column by 4-row grid, all cells the same square size. Transparent background and transparent gutters. Every cel depicts the SAME complete zombie, facing RIGHT, camera orthographic side view, consistent anatomy, clothing, scale, line thickness and palette. Grey pallid adult male infected, bald damaged scalp, tattered burgundy worker jacket, grey pants, heavy scuffed black work boots, hunched back, long bare claw hands, no weapons. Sharp detailed pixel art, 1-pixel outlines, dark blue-grey shadow clusters. Make the zombie about 165 pixels tall on a 256x256 cel. Center each pose with both soles on the same baseline near 230 pixels, leave margins for outstretched arms. ROW 1 frames 1-4: walking cycle, contact right foot forward, weight lowers, foot passes, back foot pushes. ROW 2 frames 5-8: continue the SAME smooth walking cycle with the opposite leg, then return naturally toward the first contact. Clear alternating knee bend and alternating arm sway in these 8 frames. ROW 3 frames 9-12: claw attack sequence, rearward anticipation, upper body leans forward, right claw slashes, fully extended follow-through. ROW 4 frames 13-16: stagger and recovery, recoil chest backwards, bend knees and brace, settle and rise, return to the original neutral hunch. Completely intact silhouettes, readable hands and boots, precise consistent size and baseline in all 16 cells. No floating disconnected limbs, no text, no numbers, no labels, no grid lines, no scene, no glow effects. Draw every cel as a clean complete character.
+
+EDICIÓN DE TRANSPARENCIA
+Preserve the 4 by 4 grid, every zombie pose, the pixel colors and all character details exactly. Remove every background pixel and the faint white/translucent background behind and between the zombies. The entire background must be genuinely fully transparent with alpha 0. Preserve clean crisp pixel art edges and intact character silhouettes. No text, no added content, no shadows outside the character, no resizing or layout changes.
+
+
+PROMPT SOPORTE
+Herramienta integrada de generación de imágenes
+Original production-ready 2D pixel-art videogame sprite, a single narrow tall industrial steel support column for a dark blue ruined sci-fi city in Moon Shadow. Orthographic front view, absolutely straight vertical sides, width to height ratio 1:4.5. Two thick riveted gunmetal vertical steel rails, exactly four detailed transverse crossbars, diagonal steel braces in a repeating zigzag, dark steel reinforcement plates and visible large bolts at each joint, battered paint and rust, small yellow hazard bands, tiny restrained cyan status lights. The open spaces between beams are completely transparent. A readable silhouette with 1-pixel dark outlines and crisp clustered pixel shading at a native 96x432 pixel-art detail scale enlarged using nearest-neighbor. Place the complete isolated column in the center of a tall canvas with small transparent margins. Flat orthographic sprite, no background, no floor, no environment, no writing, no watermark. The top and bottom vertical rails end flush to join seamlessly when repeated vertically. Pixel art with believable steel material and clear structural detail, suitable for a side-scrolling Unity metroidvania.
