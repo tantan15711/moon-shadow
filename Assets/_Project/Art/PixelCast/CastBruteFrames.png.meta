@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: c7b233425fc2ab243afa2ce63df6637f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8163197040349874522
+    second: CastBruteFrames_0
+  - first:
+      213: -1157285711523403530
+    second: CastBruteFrames_1
+  - first:
+      213: 7252106663620730880
+    second: CastBruteFrames_2
+  - first:
+      213: 3730191698670647870
+    second: CastBruteFrames_3
+  - first:
+      213: -3765636745301059677
+    second: CastBruteFrames_4
+  - first:
+      213: -999606576210318017
+    second: CastBruteFrames_5
+  - first:
+      213: -99528175301087430
+    second: CastBruteFrames_6
+  - first:
+      213: 702096511367146975
+    second: CastBruteFrames_7
+  - first:
+      213: -1552660521881190296
+    second: CastBruteFrames_8
+  - first:
+      213: -3762150547887266475
+    second: CastBruteFrames_9
+  - first:
+      213: -5752276477698760819
+    second: CastBruteFrames_10
+  - first:
+      213: 8033326950175838453
+    second: CastBruteFrames_11
+  - first:
+      213: 6898395230039246193
+    second: CastBruteFrames_12
+  - first:
+      213: -8272293698516991914
+    second: CastBruteFrames_13
+  - first:
+      213: 175786853278743750
+    second: CastBruteFrames_14
+  - first:
+      213: 2542602652326666745
+    second: CastBruteFrames_15
+  - first:
+      213: -5377197571374876927
+    second: CastBruteFrames_16
+  - first:
+      213: -5624930777624516482
+    second: CastBruteFrames_17
+  - first:
+      213: -734724581643867064
+    second: CastBruteFrames_18
+  - first:
+      213: -7382121566194131056
+    second: CastBruteFrames_19
+  - first:
+      213: -7444597064596537790
+    second: CastBruteFrames_20
+  - first:
+      213: 8709986955197533983
+    second: CastBruteFrames_21
+  - first:
+      213: 396212694592809694
+    second: CastBruteFrames_22
+  - first:
+      213: -8969896889177546410
+    second: CastBruteFrames_23
+  - first:
+      213: 4792393431835307609
+    second: CastBruteFrames_24
+  - first:
+      213: 6881184280302279336
+    second: CastBruteFrames_25
+  - first:
+      213: 2320034622997141503
+    second: CastBruteFrames_26
+  - first:
+      213: 2315825457971582219
+    second: CastBruteFrames_27
+  - first:
+      213: -8912334996317276811
+    second: CastBruteFrames_28
+  - first:
+      213: -6412120705291034357
+    second: CastBruteFrames_29
+  - first:
+      213: -6854400979256974543
+    second: CastBruteFrames_30
+  - first:
+      213: 8848997076390003281
+    second: CastBruteFrames_31
+  - first:
+      213: 4406760953490389382
+    second: CastBruteFrames_32
+  - first:
+      213: -8983934986484390340
+    second: CastBruteFrames_33
+  - first:
+      213: 1960983624274128234
+    second: CastBruteFrames_34
+  - first:
+      213: -9062344974986542431
+    second: CastBruteFrames_35
+  - first:
+      213: 527464507078607175
+    second: CastBruteFrames_36
+  - first:
+      213: -5460657902691057552
+    second: CastBruteFrames_37
+  - first:
+      213: 4355558875058534709
+    second: CastBruteFrames_38
+  - first:
+      213: 8406460430565491663
+    second: CastBruteFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastBruteFrames_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 462
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6fc62da8f76be80800000000000000
+      internalID: -8163197040349874522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 462
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82305e6ce70ffe0800000000000000
+      internalID: -1157285711523403530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 462
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006b565698a4a460800000000000000
+      internalID: 7252106663620730880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 462
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aff57269d44c330800000000000000
+      internalID: 3730191698670647870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 462
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71c23d455cdbbc0800000000000000
+      internalID: -3765636745301059677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 462
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de6d57d1fa022f0800000000000000
+      internalID: -999606576210318017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 462
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f2902e6a76e9ef0800000000000000
+      internalID: -99528175301087430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 462
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6416ae095eb900800000000000000
+      internalID: 702096511367146975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 350
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860cf705b77d37ae0800000000000000
+      internalID: -1552660521881190296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 350
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55563a962082acbc0800000000000000
+      internalID: -3762150547887266475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 350
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1ee8350fcb20b0800000000000000
+      internalID: -5752276477698760819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 350
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09dcd7c4c1c7f60800000000000000
+      internalID: 8033326950175838453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_12
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 350
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750db699e50cbf50800000000000000
+      internalID: 6898395230039246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 350
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650413ea5b8e23d80800000000000000
+      internalID: -8272293698516991914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 350
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccfcd13635807200800000000000000
+      internalID: 175786853278743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 350
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a5e814a3294320800000000000000
+      internalID: 2542602652326666745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 238
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077b176c4b5065b0800000000000000
+      internalID: -5377197571374876927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 238
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786789824b30f1b0800000000000000
+      internalID: -5624930777624516482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 238
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cae5fb2ebbdc5f0800000000000000
+      internalID: -734724581643867064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 238
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f9f363c8f6d8990800000000000000
+      internalID: -7382121566194131056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 238
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ebec4b96a7fa890800000000000000
+      internalID: -7444597064596537790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 238
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc5defcf610e870800000000000000
+      internalID: 8709986955197533983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 238
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda64b4b851af7500800000000000000
+      internalID: 396212694592809694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 238
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e0b8cd46848380800000000000000
+      internalID: -8969896889177546410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 126
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e65706f60028240800000000000000
+      internalID: 4792393431835307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 126
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa5b6515a0ee7f50800000000000000
+      internalID: 6881184280302279336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 126
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71a52923b623020800000000000000
+      internalID: 2320034622997141503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 126
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d338fbf6732020800000000000000
+      internalID: 2315825457971582219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 126
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f9395a86015480800000000000000
+      internalID: -8912334996317276811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 126
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01633001329307a0800000000000000
+      internalID: -6412120705291034357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 126
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336c4320a640e0a0800000000000000
+      internalID: -6854400979256974543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 126
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15242bcf4f3fdca70800000000000000
+      internalID: 8848997076390003281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893bda3db5f72d30800000000000000
+      internalID: 4406760953490389382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e46d8ab6a25380800000000000000
+      internalID: -8983934986484390340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 14
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da73f6730d63b10800000000000000
+      internalID: 1960983624274128234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_35
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 14
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a281e572451c3280800000000000000
+      internalID: -9062344974986542431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_36
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 14
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7410c00bc2ee15700800000000000000
+      internalID: 527464507078607175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 14
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708b2eb198d734b0800000000000000
+      internalID: -5460657902691057552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 14
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f92a58bd027c30800000000000000
+      internalID: 4355558875058534709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastBruteFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 14
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3cb36e83fb9a470800000000000000
+      internalID: 8406460430565491663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastBruteFrames_0: -8163197040349874522
+      CastBruteFrames_1: -1157285711523403530
+      CastBruteFrames_10: -5752276477698760819
+      CastBruteFrames_11: 8033326950175838453
+      CastBruteFrames_12: 6898395230039246193
+      CastBruteFrames_13: -8272293698516991914
+      CastBruteFrames_14: 175786853278743750
+      CastBruteFrames_15: 2542602652326666745
+      CastBruteFrames_16: -5377197571374876927
+      CastBruteFrames_17: -5624930777624516482
+      CastBruteFrames_18: -734724581643867064
+      CastBruteFrames_19: -7382121566194131056
+      CastBruteFrames_2: 7252106663620730880
+      CastBruteFrames_20: -7444597064596537790
+      CastBruteFrames_21: 8709986955197533983
+      CastBruteFrames_22: 396212694592809694
+      CastBruteFrames_23: -8969896889177546410
+      CastBruteFrames_24: 4792393431835307609
+      CastBruteFrames_25: 6881184280302279336
+      CastBruteFrames_26: 2320034622997141503
+      CastBruteFrames_27: 2315825457971582219
+      CastBruteFrames_28: -8912334996317276811
+      CastBruteFrames_29: -6412120705291034357
+      CastBruteFrames_3: 3730191698670647870
+      CastBruteFrames_30: -6854400979256974543
+      CastBruteFrames_31: 8848997076390003281
+      CastBruteFrames_32: 4406760953490389382
+      CastBruteFrames_33: -8983934986484390340
+      CastBruteFrames_34: 1960983624274128234
+      CastBruteFrames_35: -9062344974986542431
+      CastBruteFrames_36: 527464507078607175
+      CastBruteFrames_37: -5460657902691057552
+      CastBruteFrames_38: 4355558875058534709
+      CastBruteFrames_39: 8406460430565491663
+      CastBruteFrames_4: -3765636745301059677
+      CastBruteFrames_5: -999606576210318017
+      CastBruteFrames_6: -99528175301087430
+      CastBruteFrames_7: 702096511367146975
+      CastBruteFrames_8: -1552660521881190296
+      CastBruteFrames_9: -3762150547887266475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 7a1017a108546814ea1c14983e6dbfa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 124824955958945055
+    second: CastVaneFrames_0
+  - first:
+      213: 4352949136741351134
+    second: CastVaneFrames_1
+  - first:
+      213: -1458537628437701470
+    second: CastVaneFrames_2
+  - first:
+      213: 7144041172961312191
+    second: CastVaneFrames_3
+  - first:
+      213: 230414256652221328
+    second: CastVaneFrames_4
+  - first:
+      213: 1804340619735562266
+    second: CastVaneFrames_5
+  - first:
+      213: -7132511122814895255
+    second: CastVaneFrames_6
+  - first:
+      213: 5217109392186248101
+    second: CastVaneFrames_7
+  - first:
+      213: -3816506120612297742
+    second: CastVaneFrames_8
+  - first:
+      213: 7379066522810781496
+    second: CastVaneFrames_9
+  - first:
+      213: 803407169395333464
+    second: CastVaneFrames_10
+  - first:
+      213: 2998813703511318265
+    second: CastVaneFrames_11
+  - first:
+      213: 7109707857282872168
+    second: CastVaneFrames_12
+  - first:
+      213: 8230300367205035486
+    second: CastVaneFrames_13
+  - first:
+      213: -2801898393313399521
+    second: CastVaneFrames_14
+  - first:
+      213: 5201295178814281999
+    second: CastVaneFrames_15
+  - first:
+      213: -5085187399619738770
+    second: CastVaneFrames_16
+  - first:
+      213: 789786291270652235
+    second: CastVaneFrames_17
+  - first:
+      213: -2170856447068680391
+    second: CastVaneFrames_18
+  - first:
+      213: 5953978777343412593
+    second: CastVaneFrames_19
+  - first:
+      213: 4540492701289633984
+    second: CastVaneFrames_20
+  - first:
+      213: -27905669341727553
+    second: CastVaneFrames_21
+  - first:
+      213: -1634628736975862507
+    second: CastVaneFrames_22
+  - first:
+      213: -8888962826762060921
+    second: CastVaneFrames_23
+  - first:
+      213: -4614197438611980330
+    second: CastVaneFrames_24
+  - first:
+      213: 6003090408932723610
+    second: CastVaneFrames_25
+  - first:
+      213: -1652680675187640173
+    second: CastVaneFrames_26
+  - first:
+      213: -195605069617247999
+    second: CastVaneFrames_27
+  - first:
+      213: 8425316635817345875
+    second: CastVaneFrames_28
+  - first:
+      213: 1577648502398104473
+    second: CastVaneFrames_29
+  - first:
+      213: -6440886985590734428
+    second: CastVaneFrames_30
+  - first:
+      213: 5140093989586694858
+    second: CastVaneFrames_31
+  - first:
+      213: -3989999857221310239
+    second: CastVaneFrames_32
+  - first:
+      213: -516257695140367101
+    second: CastVaneFrames_33
+  - first:
+      213: 2549449853582809857
+    second: CastVaneFrames_34
+  - first:
+      213: -2575562875698852831
+    second: CastVaneFrames_35
+  - first:
+      213: 2270566610245594144
+    second: CastVaneFrames_36
+  - first:
+      213: -4678215122639045868
+    second: CastVaneFrames_37
+  - first:
+      213: 3226380390034203712
+    second: CastVaneFrames_38
+  - first:
+      213: -6952568580669374901
+    second: CastVaneFrames_39
+  - first:
+      213: 3480831331458035080
+    second: CastVaneFrames_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastVaneFrames_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 462
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156907d2a77bb100800000000000000
+      internalID: 124824955958945055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 462
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edebfcc4d28c86c30800000000000000
+      internalID: 4352949136741351134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 462
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1e6d21cb32cbe0800000000000000
+      internalID: -1458537628437701470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 462
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdbf17989bb42360800000000000000
+      internalID: 7144041172961312191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf0feab88923300800000000000000
+      internalID: 230414256652221328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 462
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18752ddb3e4a0910800000000000000
+      internalID: 1804340619735562266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 462
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b78186cea340d90800000000000000
+      internalID: -7132511122814895255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 462
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab8d9bc955e66840800000000000000
+      internalID: 5217109392186248101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 462
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3cccd67eb090bc0800000000000000
+      internalID: -3816506120612297742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 350
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0d1218e5b76660800000000000000
+      internalID: 7379066522810781496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 350
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8599fcd5096462b00800000000000000
+      internalID: 803407169395333464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 350
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9d59cc2ded9920800000000000000
+      internalID: 2998813703511318265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 350
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863362a90a1caa260800000000000000
+      internalID: 7109707857282872168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 350
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde506f396e73270800000000000000
+      internalID: 8230300367205035486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 350
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d21d1a148ad19d0800000000000000
+      internalID: -2801898393313399521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 350
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f095d215866be2840800000000000000
+      internalID: 5201295178814281999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_16
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 350
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638f55a009cd69b0800000000000000
+      internalID: -5085187399619738770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 238
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4119ab8272e5fa00800000000000000
+      internalID: 789786291270652235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 238
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fca1620919fd1e0800000000000000
+      internalID: -2170856447068680391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 238
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c4c70728c0a250800000000000000
+      internalID: 5953978777343412593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 238
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85f952e02130f30800000000000000
+      internalID: 4540492701289633984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 238
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4baab01fbdc9ff0800000000000000
+      internalID: -27905669341727553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_22
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 238
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51588e803d1a059e0800000000000000
+      internalID: -1634628736975862507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 238
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf131a76f04a480800000000000000
+      internalID: -8888962826762060921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_24
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 238
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff30c60e317ffb0800000000000000
+      internalID: -4614197438611980330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 126
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4df2dbe24f4350800000000000000
+      internalID: 6003090408932723610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 126
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398b944aeaf7019e0800000000000000
+      internalID: -1652680675187640173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 126
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109c23db932194df0800000000000000
+      internalID: -195605069617247999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 126
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353051e47dcbce470800000000000000
+      internalID: 8425316635817345875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 126
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993bdd544fee4e510800000000000000
+      internalID: 1577648502398104473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_30
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 126
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18d61796f5d96a0800000000000000
+      internalID: -6440886985590734428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 126
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27f690048455740800000000000000
+      internalID: 5140093989586694858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_32
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 126
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8e670154ca0a8c0800000000000000
+      internalID: -3989999857221310239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 14
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305b89c8c52e5d8f0800000000000000
+      internalID: -516257695140367101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 14
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b997f5227716320800000000000000
+      internalID: 2549449853582809857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 14
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c4941e533c14cd0800000000000000
+      internalID: -2575562875698852831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_36
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 14
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2d825d4ca28f10800000000000000
+      internalID: 2270566610245594144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_37
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 14
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b3d38d124a31fb0800000000000000
+      internalID: -4678215122639045868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_38
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 14
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446642eed766cc20800000000000000
+      internalID: 3226380390034203712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 14
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef8a056b3838f90800000000000000
+      internalID: -6952568580669374901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVaneFrames_40
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 14
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2b9a57a56e4030800000000000000
+      internalID: 3480831331458035080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastVaneFrames_0: 124824955958945055
+      CastVaneFrames_1: 4352949136741351134
+      CastVaneFrames_10: 803407169395333464
+      CastVaneFrames_11: 2998813703511318265
+      CastVaneFrames_12: 7109707857282872168
+      CastVaneFrames_13: 8230300367205035486
+      CastVaneFrames_14: -2801898393313399521
+      CastVaneFrames_15: 5201295178814281999
+      CastVaneFrames_16: -5085187399619738770
+      CastVaneFrames_17: 789786291270652235
+      CastVaneFrames_18: -2170856447068680391
+      CastVaneFrames_19: 5953978777343412593
+      CastVaneFrames_2: -1458537628437701470
+      CastVaneFrames_20: 4540492701289633984
+      CastVaneFrames_21: -27905669341727553
+      CastVaneFrames_22: -1634628736975862507
+      CastVaneFrames_23: -8888962826762060921
+      CastVaneFrames_24: -4614197438611980330
+      CastVaneFrames_25: 6003090408932723610
+      CastVaneFrames_26: -1652680675187640173
+      CastVaneFrames_27: -195605069617247999
+      CastVaneFrames_28: 8425316635817345875
+      CastVaneFrames_29: 1577648502398104473
+      CastVaneFrames_3: 7144041172961312191
+      CastVaneFrames_30: -6440886985590734428
+      CastVaneFrames_31: 5140093989586694858
+      CastVaneFrames_32: -3989999857221310239
+      CastVaneFrames_33: -516257695140367101
+      CastVaneFrames_34: 2549449853582809857
+      CastVaneFrames_35: -2575562875698852831
+      CastVaneFrames_36: 2270566610245594144
+      CastVaneFrames_37: -4678215122639045868
+      CastVaneFrames_38: 3226380390034203712
+      CastVaneFrames_39: -6952568580669374901
+      CastVaneFrames_4: 230414256652221328
+      CastVaneFrames_40: 3480831331458035080
+      CastVaneFrames_5: 1804340619735562266
+      CastVaneFrames_6: -7132511122814895255
+      CastVaneFrames_7: 5217109392186248101
+      CastVaneFrames_8: -3816506120612297742
+      CastVaneFrames_9: 7379066522810781496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

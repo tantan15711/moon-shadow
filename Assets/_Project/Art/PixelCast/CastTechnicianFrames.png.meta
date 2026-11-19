@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: a767179486102864f9a2553a6931f2bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1132328092290566819
+    second: CastTechnicianFrames_0
+  - first:
+      213: -8501692199733773759
+    second: CastTechnicianFrames_1
+  - first:
+      213: 489097468063807352
+    second: CastTechnicianFrames_2
+  - first:
+      213: -8640363629932622647
+    second: CastTechnicianFrames_3
+  - first:
+      213: -1594743492063521290
+    second: CastTechnicianFrames_4
+  - first:
+      213: -4975102198038601598
+    second: CastTechnicianFrames_5
+  - first:
+      213: -8646764800138315856
+    second: CastTechnicianFrames_6
+  - first:
+      213: 4897081452860855978
+    second: CastTechnicianFrames_7
+  - first:
+      213: 6044387966598444414
+    second: CastTechnicianFrames_8
+  - first:
+      213: 3055829439390078821
+    second: CastTechnicianFrames_9
+  - first:
+      213: 8154790011857541961
+    second: CastTechnicianFrames_10
+  - first:
+      213: -6323851017379695841
+    second: CastTechnicianFrames_11
+  - first:
+      213: -8064576838109823382
+    second: CastTechnicianFrames_12
+  - first:
+      213: -8767085944590939610
+    second: CastTechnicianFrames_13
+  - first:
+      213: 6837125899073718845
+    second: CastTechnicianFrames_14
+  - first:
+      213: -4314177088575250935
+    second: CastTechnicianFrames_15
+  - first:
+      213: 1671029840412814663
+    second: CastTechnicianFrames_16
+  - first:
+      213: 1791249896558602898
+    second: CastTechnicianFrames_17
+  - first:
+      213: 5775563448095877516
+    second: CastTechnicianFrames_18
+  - first:
+      213: -1549443414060628955
+    second: CastTechnicianFrames_19
+  - first:
+      213: 6138459962822509457
+    second: CastTechnicianFrames_20
+  - first:
+      213: 6475240657991660727
+    second: CastTechnicianFrames_21
+  - first:
+      213: 9124615744931323064
+    second: CastTechnicianFrames_22
+  - first:
+      213: -911941348766077445
+    second: CastTechnicianFrames_23
+  - first:
+      213: -1952004211369751832
+    second: CastTechnicianFrames_24
+  - first:
+      213: 6036287375452756819
+    second: CastTechnicianFrames_25
+  - first:
+      213: 1677713446428507894
+    second: CastTechnicianFrames_26
+  - first:
+      213: 5599237232449089421
+    second: CastTechnicianFrames_27
+  - first:
+      213: -5097027847376817269
+    second: CastTechnicianFrames_28
+  - first:
+      213: 7037988700777585939
+    second: CastTechnicianFrames_29
+  - first:
+      213: 8202486048187369045
+    second: CastTechnicianFrames_30
+  - first:
+      213: 2703125320780919627
+    second: CastTechnicianFrames_31
+  - first:
+      213: -2778659999622547387
+    second: CastTechnicianFrames_32
+  - first:
+      213: 947176003028220401
+    second: CastTechnicianFrames_33
+  - first:
+      213: -6976875658147155984
+    second: CastTechnicianFrames_34
+  - first:
+      213: -1123817620590198373
+    second: CastTechnicianFrames_35
+  - first:
+      213: 4774913207191545454
+    second: CastTechnicianFrames_36
+  - first:
+      213: -315540638315268114
+    second: CastTechnicianFrames_37
+  - first:
+      213: 516311343190424458
+    second: CastTechnicianFrames_38
+  - first:
+      213: -5692990721954313200
+    second: CastTechnicianFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastTechnicianFrames_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aacc2e8666d6bf00800000000000000
+      internalID: 1132328092290566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 462
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab82dfcfbe30a80800000000000000
+      internalID: -8501692199733773759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 462
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777c7c4e8f99c600800000000000000
+      internalID: 489097468063807352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 462
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc49a3ae03471880800000000000000
+      internalID: -8640363629932622647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 462
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f510b74e355ed9e0800000000000000
+      internalID: -1594743492063521290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 462
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e4acf8e2e4fab0800000000000000
+      internalID: -4975102198038601598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 462
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7776f0a35800880800000000000000
+      internalID: -8646764800138315856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 462
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6dce1b2ade5f340800000000000000
+      internalID: 4897081452860855978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75feb1c4daf1e350800000000000000
+      internalID: 6044387966598444414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 350
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d6054fac786a20800000000000000
+      internalID: 3055829439390078821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 350
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b1ca25f42ab2170800000000000000
+      internalID: 8154790011857541961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 350
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133790410b2d38a0800000000000000
+      internalID: -6323851017379695841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 350
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6efe9cf71ed41090800000000000000
+      internalID: -8064576838109823382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 350
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a465d88cd055680800000000000000
+      internalID: -8767085944590939610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 350
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a89e2d7c952ee50800000000000000
+      internalID: 6837125899073718845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 350
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed751abc6f024c0800000000000000
+      internalID: -4314177088575250935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 238
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d22ee49c0b03710800000000000000
+      internalID: 1671029840412814663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 238
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa45c5a4ccbd810800000000000000
+      internalID: 1791249896558602898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 238
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892c751b5ce62050800000000000000
+      internalID: 5775563448095877516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 238
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52409599c654f7ae0800000000000000
+      internalID: -1549443414060628955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_20
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 238
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934eff20d0303550800000000000000
+      internalID: 6138459962822509457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_21
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 238
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b472c6321dacd950800000000000000
+      internalID: 6475240657991660727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 238
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc519cfca521ae70800000000000000
+      internalID: 9124615744931323064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 238
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdaecacc222853f0800000000000000
+      internalID: -911941348766077445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4d3d038619e4e0800000000000000
+      internalID: -1952004211369751832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b5908e26335c350800000000000000
+      internalID: 6036287375452756819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 126
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe74499d7f684710800000000000000
+      internalID: 1677713446428507894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 126
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fe44dc89c74bd40800000000000000
+      internalID: 5599237232449089421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b4d29d28b349b0800000000000000
+      internalID: -5097027847376817269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 126
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9f0b3f65fba160800000000000000
+      internalID: 7037988700777585939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 126
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564e492a9515d170800000000000000
+      internalID: 8202486048187369045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 126
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b280582e638520800000000000000
+      internalID: 2703125320780919627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54839eac3773079d0800000000000000
+      internalID: -2778659999622547387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f975407e8b052d00800000000000000
+      internalID: 947176003028220401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa112dd882d2f90800000000000000
+      internalID: -6976875658147155984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 14
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91856c04d56760f0800000000000000
+      internalID: -1123817620590198373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 14
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6629fb6346e34240800000000000000
+      internalID: 4774913207191545454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 14
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7b4051679fe9bf0800000000000000
+      internalID: -315540638315268114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 14
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bbe5c5e6e4a2700800000000000000
+      internalID: 516311343190424458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastTechnicianFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 14
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8154e91f6ef0b0800000000000000
+      internalID: -5692990721954313200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastTechnicianFrames_0: 1132328092290566819
+      CastTechnicianFrames_1: -8501692199733773759
+      CastTechnicianFrames_10: 8154790011857541961
+      CastTechnicianFrames_11: -6323851017379695841
+      CastTechnicianFrames_12: -8064576838109823382
+      CastTechnicianFrames_13: -8767085944590939610
+      CastTechnicianFrames_14: 6837125899073718845
+      CastTechnicianFrames_15: -4314177088575250935
+      CastTechnicianFrames_16: 1671029840412814663
+      CastTechnicianFrames_17: 1791249896558602898
+      CastTechnicianFrames_18: 5775563448095877516
+      CastTechnicianFrames_19: -1549443414060628955
+      CastTechnicianFrames_2: 489097468063807352
+      CastTechnicianFrames_20: 6138459962822509457
+      CastTechnicianFrames_21: 6475240657991660727
+      CastTechnicianFrames_22: 9124615744931323064
+      CastTechnicianFrames_23: -911941348766077445
+      CastTechnicianFrames_24: -1952004211369751832
+      CastTechnicianFrames_25: 6036287375452756819
+      CastTechnicianFrames_26: 1677713446428507894
+      CastTechnicianFrames_27: 5599237232449089421
+      CastTechnicianFrames_28: -5097027847376817269
+      CastTechnicianFrames_29: 7037988700777585939
+      CastTechnicianFrames_3: -8640363629932622647
+      CastTechnicianFrames_30: 8202486048187369045
+      CastTechnicianFrames_31: 2703125320780919627
+      CastTechnicianFrames_32: -2778659999622547387
+      CastTechnicianFrames_33: 947176003028220401
+      CastTechnicianFrames_34: -6976875658147155984
+      CastTechnicianFrames_35: -1123817620590198373
+      CastTechnicianFrames_36: 4774913207191545454
+      CastTechnicianFrames_37: -315540638315268114
+      CastTechnicianFrames_38: 516311343190424458
+      CastTechnicianFrames_39: -5692990721954313200
+      CastTechnicianFrames_4: -1594743492063521290
+      CastTechnicianFrames_5: -4975102198038601598
+      CastTechnicianFrames_6: -8646764800138315856
+      CastTechnicianFrames_7: 4897081452860855978
+      CastTechnicianFrames_8: 6044387966598444414
+      CastTechnicianFrames_9: 3055829439390078821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

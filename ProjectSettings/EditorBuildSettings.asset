@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Inicio.unity
+    guid: 73e59f4204ff1844d8bcc43262c0a669
+  - enabled: 1
+    path: Assets/_Project/Scenes/RuinasUrbanas.unity
+    guid: 12b6bcb096fdac54f987fb9f38064e62
+  - enabled: 1
+    path: Assets/_Project/Scenes/Catacumbas.unity
+    guid: fd95fc1d19e917842817e5dce90dc4d8
+  - enabled: 1
+    path: Assets/_Project/Scenes/Cumbres.unity
+    guid: 016559e1b7488ea4a89c382d1a381512
+  - enabled: 1
+    path: Assets/_Project/Scenes/EstacionOrbital.unity
+    guid: 89c1bc737a08cc044bd1f98d2ee13ee9
+  - enabled: 1
+    path: Assets/_Project/Scenes/SantuarioLunar.unity
+    guid: 12864760c65314b44b098a3b4f3410f5
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

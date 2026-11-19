@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 568be81ca3199a24ca4605b1c8120a30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4514165348860183374
+    second: CastOjoFrames_0
+  - first:
+      213: -6457709400243321454
+    second: CastOjoFrames_1
+  - first:
+      213: -4719754894481068073
+    second: CastOjoFrames_2
+  - first:
+      213: -8928294650511867242
+    second: CastOjoFrames_3
+  - first:
+      213: -643429777956720929
+    second: CastOjoFrames_4
+  - first:
+      213: -3005187148663113447
+    second: CastOjoFrames_5
+  - first:
+      213: -2664647497178414152
+    second: CastOjoFrames_6
+  - first:
+      213: -2958299468302876863
+    second: CastOjoFrames_7
+  - first:
+      213: -7202443007326493121
+    second: CastOjoFrames_8
+  - first:
+      213: -5404475480417141044
+    second: CastOjoFrames_9
+  - first:
+      213: 4931305052132809163
+    second: CastOjoFrames_10
+  - first:
+      213: -1717999440667069934
+    second: CastOjoFrames_11
+  - first:
+      213: -3166977515245596084
+    second: CastOjoFrames_12
+  - first:
+      213: 515671508097360239
+    second: CastOjoFrames_13
+  - first:
+      213: -4941987066149367708
+    second: CastOjoFrames_14
+  - first:
+      213: -1314390988816090920
+    second: CastOjoFrames_15
+  - first:
+      213: 7507461558225350454
+    second: CastOjoFrames_16
+  - first:
+      213: -6062029901015361498
+    second: CastOjoFrames_17
+  - first:
+      213: -5511234147830745829
+    second: CastOjoFrames_18
+  - first:
+      213: -5216178621174527174
+    second: CastOjoFrames_19
+  - first:
+      213: 9126103810114473943
+    second: CastOjoFrames_20
+  - first:
+      213: 7166446464048761080
+    second: CastOjoFrames_21
+  - first:
+      213: 6110301190944836560
+    second: CastOjoFrames_22
+  - first:
+      213: -8071113036796739852
+    second: CastOjoFrames_23
+  - first:
+      213: 834667482552511285
+    second: CastOjoFrames_24
+  - first:
+      213: -2132308182749953995
+    second: CastOjoFrames_25
+  - first:
+      213: -3760981873930519946
+    second: CastOjoFrames_26
+  - first:
+      213: -1037317944339925552
+    second: CastOjoFrames_27
+  - first:
+      213: -5236155006074252101
+    second: CastOjoFrames_28
+  - first:
+      213: 3205291063977559858
+    second: CastOjoFrames_29
+  - first:
+      213: 246489797819094942
+    second: CastOjoFrames_30
+  - first:
+      213: -6251140562309303553
+    second: CastOjoFrames_31
+  - first:
+      213: 327563783232107321
+    second: CastOjoFrames_32
+  - first:
+      213: 3824827324182881929
+    second: CastOjoFrames_33
+  - first:
+      213: -2829351615727173336
+    second: CastOjoFrames_34
+  - first:
+      213: -8101044978549569458
+    second: CastOjoFrames_35
+  - first:
+      213: -253630892514934631
+    second: CastOjoFrames_36
+  - first:
+      213: 5809138896777032355
+    second: CastOjoFrames_37
+  - first:
+      213: 7776104742668727403
+    second: CastOjoFrames_38
+  - first:
+      213: 7356921504420227928
+    second: CastOjoFrames_39
+  - first:
+      213: 5229533233837662402
+    second: CastOjoFrames_40
+  - first:
+      213: 6686878601846708576
+    second: CastOjoFrames_41
+  - first:
+      213: -1870758633575283028
+    second: CastOjoFrames_42
+  - first:
+      213: 6986822338349924535
+    second: CastOjoFrames_43
+  - first:
+      213: -3132582290988491788
+    second: CastOjoFrames_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastOjoFrames_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 462
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcbfc348867a51c0800000000000000
+      internalID: -4514165348860183374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 462
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295cbcfc38b9166a0800000000000000
+      internalID: -6457709400243321454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 462
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df6b870eef008eb0800000000000000
+      internalID: -4719754894481068073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 462
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692483ac153581480800000000000000
+      internalID: -8928294650511867242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 462
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2bf6a6041217f0800000000000000
+      internalID: -643429777956720929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 514
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919bd50e53e6b46d0800000000000000
+      internalID: -3005187148663113447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 462
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b30c0f1835450bd0800000000000000
+      internalID: -2664647497178414152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 462
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f749cae4202f6d0800000000000000
+      internalID: -2958299468302876863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 462
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ee49be38cb0c90800000000000000
+      internalID: -7202443007326493121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 465
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7d684f227ff4b0800000000000000
+      internalID: -5404475480417141044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 465
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9177751d38f6440800000000000000
+      internalID: 4931305052132809163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21238be6c907828e0800000000000000
+      internalID: -1717999440667069934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 350
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c421320bab2ac04d0800000000000000
+      internalID: -3166977515245596084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 350
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61eee42188082700800000000000000
+      internalID: 515671508097360239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 404
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460979572f88a6bb0800000000000000
+      internalID: -4941987066149367708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_15
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 350
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d874af0c5852cde0800000000000000
+      internalID: -1314390988816090920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 350
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2ceec28cdf2860800000000000000
+      internalID: 7507461558225350454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_17
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 350
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628de2c4ce75fdba0800000000000000
+      internalID: -6062029901015361498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_18
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 350
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15bb880eb92483b0800000000000000
+      internalID: -5511234147830745829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_19
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 350
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc7e73e296c97b0800000000000000
+      internalID: -5216178621174527174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 238
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4639201f66ae70800000000000000
+      internalID: 9126103810114473943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 238
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f80b7fe615547360800000000000000
+      internalID: 7166446464048761080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 238
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc9e43f862cc450800000000000000
+      internalID: 6110301190944836560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 238
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb4b3a475adff80800000000000000
+      internalID: -8071113036796739852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 238
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bac1337a5559b00800000000000000
+      internalID: 834667482552511285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 238
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c78751058862e0800000000000000
+      internalID: -2132308182749953995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_26
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 244
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a30b589ee4ecbc0800000000000000
+      internalID: -3760981873930519946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_27
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 238
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5fa7853d4ba91f0800000000000000
+      internalID: -1037317944339925552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_28
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 238
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb49f0aa3c07557b0800000000000000
+      internalID: -5236155006074252101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 126
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237cd168d3b7b7c20800000000000000
+      internalID: 3205291063977559858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_30
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 126
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d3c74a25bb6300800000000000000
+      internalID: 246489797819094942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 126
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b48e47cc7f39a0800000000000000
+      internalID: -6251140562309303553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 126
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93335dc768dbb8400800000000000000
+      internalID: 327563783232107321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 126
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e021cf24841530800000000000000
+      internalID: 3824827324182881929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 126
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82187ef22bf1cb8d0800000000000000
+      internalID: -2829351615727173336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_35
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 126
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e484710638e439f80800000000000000
+      internalID: -8101044978549569458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_36
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 126
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990059b0c0cea7cf0800000000000000
+      internalID: -253630892514934631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 14
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2bc496c053e9050800000000000000
+      internalID: 5809138896777032355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64fffa50164aeb60800000000000000
+      internalID: 7776104742668727403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b666f2129091660800000000000000
+      internalID: 7356921504420227928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 14
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c06ef7d4c8039840800000000000000
+      internalID: 5229533233837662402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_41
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 14
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069db37e8a09ccc50800000000000000
+      internalID: 6686878601846708576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_42
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 14
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca600493feab906e0800000000000000
+      internalID: -1870758633575283028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_43
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 14
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b08c1226ed26f060800000000000000
+      internalID: 6986822338349924535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOjoFrames_44
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 14
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb93f3e005d684d0800000000000000
+      internalID: -3132582290988491788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastOjoFrames_0: -4514165348860183374
+      CastOjoFrames_1: -6457709400243321454
+      CastOjoFrames_10: 4931305052132809163
+      CastOjoFrames_11: -1717999440667069934
+      CastOjoFrames_12: -3166977515245596084
+      CastOjoFrames_13: 515671508097360239
+      CastOjoFrames_14: -4941987066149367708
+      CastOjoFrames_15: -1314390988816090920
+      CastOjoFrames_16: 7507461558225350454
+      CastOjoFrames_17: -6062029901015361498
+      CastOjoFrames_18: -5511234147830745829
+      CastOjoFrames_19: -5216178621174527174
+      CastOjoFrames_2: -4719754894481068073
+      CastOjoFrames_20: 9126103810114473943
+      CastOjoFrames_21: 7166446464048761080
+      CastOjoFrames_22: 6110301190944836560
+      CastOjoFrames_23: -8071113036796739852
+      CastOjoFrames_24: 834667482552511285
+      CastOjoFrames_25: -2132308182749953995
+      CastOjoFrames_26: -3760981873930519946
+      CastOjoFrames_27: -1037317944339925552
+      CastOjoFrames_28: -5236155006074252101
+      CastOjoFrames_29: 3205291063977559858
+      CastOjoFrames_3: -8928294650511867242
+      CastOjoFrames_30: 246489797819094942
+      CastOjoFrames_31: -6251140562309303553
+      CastOjoFrames_32: 327563783232107321
+      CastOjoFrames_33: 3824827324182881929
+      CastOjoFrames_34: -2829351615727173336
+      CastOjoFrames_35: -8101044978549569458
+      CastOjoFrames_36: -253630892514934631
+      CastOjoFrames_37: 5809138896777032355
+      CastOjoFrames_38: 7776104742668727403
+      CastOjoFrames_39: 7356921504420227928
+      CastOjoFrames_4: -643429777956720929
+      CastOjoFrames_40: 5229533233837662402
+      CastOjoFrames_41: 6686878601846708576
+      CastOjoFrames_42: -1870758633575283028
+      CastOjoFrames_43: 6986822338349924535
+      CastOjoFrames_44: -3132582290988491788
+      CastOjoFrames_5: -3005187148663113447
+      CastOjoFrames_6: -2664647497178414152
+      CastOjoFrames_7: -2958299468302876863
+      CastOjoFrames_8: -7202443007326493121
+      CastOjoFrames_9: -5404475480417141044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

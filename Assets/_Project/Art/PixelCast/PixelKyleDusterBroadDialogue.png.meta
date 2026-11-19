@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 54d1318a79c074143bf41088f0583746
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6970328518766189031
+    second: PixelKyleDusterBroadDialogue_0
+  - first:
+      213: 7123359290332683404
+    second: PixelKyleDusterBroadDialogue_1
+  - first:
+      213: -913369680797836802
+    second: PixelKyleDusterBroadDialogue_2
+  - first:
+      213: -846443154270424911
+    second: PixelKyleDusterBroadDialogue_3
+  - first:
+      213: 491296396453972256
+    second: PixelKyleDusterBroadDialogue_4
+  - first:
+      213: -1620472227477101684
+    second: PixelKyleDusterBroadDialogue_5
+  - first:
+      213: -7959771768429742537
+    second: PixelKyleDusterBroadDialogue_6
+  - first:
+      213: 4290063436911415848
+    second: PixelKyleDusterBroadDialogue_7
+  - first:
+      213: -3078539136144545970
+    second: PixelKyleDusterBroadDialogue_8
+  - first:
+      213: 6672842900733159531
+    second: PixelKyleDusterBroadDialogue_9
+  - first:
+      213: 4001784096472990632
+    second: PixelKyleDusterBroadDialogue_10
+  - first:
+      213: 4222883424484329043
+    second: PixelKyleDusterBroadDialogue_11
+  - first:
+      213: -5786304637369134498
+    second: PixelKyleDusterBroadDialogue_12
+  - first:
+      213: 2812658082961010336
+    second: PixelKyleDusterBroadDialogue_13
+  - first:
+      213: -4988191008335371946
+    second: PixelKyleDusterBroadDialogue_14
+  - first:
+      213: -8838278314044439063
+    second: PixelKyleDusterBroadDialogue_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 859
+        width: 158
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916aa2f742b644f90800000000000000
+      internalID: -6970328518766189031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 859
+        width: 156
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c12cb88814bd260800000000000000
+      internalID: 7123359290332683404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 859
+        width: 154
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9de635d1f0353f0800000000000000
+      internalID: -913369680797836802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 859
+        width: 151
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b076239f64d044f0800000000000000
+      internalID: -846443154270424911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 579
+        width: 151
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0298116387f61d600800000000000000
+      internalID: 491296396453972256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 579
+        width: 154
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8367d0481de289e0800000000000000
+      internalID: -1620472227477101684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 579
+        width: 156
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736ff81dfb5398190800000000000000
+      internalID: -7959771768429742537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 579
+        width: 158
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8221ff457fd598b30800000000000000
+      internalID: 4290063436911415848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 299
+        width: 107
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4767fa67f4d645d0800000000000000
+      internalID: -3078539136144545970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 299
+        width: 103
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ef249343ba9c50800000000000000
+      internalID: 6672842900733159531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 299
+        width: 101
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a38412fe61398730800000000000000
+      internalID: 4001784096472990632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 299
+        width: 151
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356064cc912ba9a30800000000000000
+      internalID: 4222883424484329043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 151
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52da67e69ae2bfa0800000000000000
+      internalID: -5786304637369134498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 101
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea585df91980720800000000000000
+      internalID: 2812658082961010336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 19
+        width: 103
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6516f5cd4b266cab0800000000000000
+      internalID: -4988191008335371946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadDialogue_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 19
+        width: 107
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c75953b0285580800000000000000
+      internalID: -8838278314044439063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelKyleDusterBroadDialogue_0: -6970328518766189031
+      PixelKyleDusterBroadDialogue_1: 7123359290332683404
+      PixelKyleDusterBroadDialogue_10: 4001784096472990632
+      PixelKyleDusterBroadDialogue_11: 4222883424484329043
+      PixelKyleDusterBroadDialogue_12: -5786304637369134498
+      PixelKyleDusterBroadDialogue_13: 2812658082961010336
+      PixelKyleDusterBroadDialogue_14: -4988191008335371946
+      PixelKyleDusterBroadDialogue_15: -8838278314044439063
+      PixelKyleDusterBroadDialogue_2: -913369680797836802
+      PixelKyleDusterBroadDialogue_3: -846443154270424911
+      PixelKyleDusterBroadDialogue_4: 491296396453972256
+      PixelKyleDusterBroadDialogue_5: -1620472227477101684
+      PixelKyleDusterBroadDialogue_6: -7959771768429742537
+      PixelKyleDusterBroadDialogue_7: 4290063436911415848
+      PixelKyleDusterBroadDialogue_8: -3078539136144545970
+      PixelKyleDusterBroadDialogue_9: 6672842900733159531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

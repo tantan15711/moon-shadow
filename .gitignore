@@ -1,0 +1,66 @@
+# Unity caches and generated outputs
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/_Logs/
+/_Tools/
+/.utmp/
+/.vs/
+/.idea/
+/.vscode/
+/.gradle/
+/.android/
+
+# IDE and debugging artifacts
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+*.log
+sysinfo.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and signing material
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+
+# QA sources are copied into Assets only while the test runner is active
+/Assets/_Project/Scripts/MoonDemoSmoke.cs*
+/Assets/_Project/Scripts/MoonMotionReview.cs*
+/Assets/_Project/Scripts/MoonTouchReview.cs*
+/Assets/_Project/Scripts/MoonPerformanceReview.cs*
+/Assets/_Project/Editor/BuildSmoke.cs*
+
+# Playable distributions are attached to GitHub Releases
+*.apk
+*.aab
+*.unitypackage
+*.zip
+*_BackUpThisFolder_ButDontShipItWithYourGame/

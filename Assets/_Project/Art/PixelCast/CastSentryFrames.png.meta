@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 08b97e09f13adac4da468a7fbd9ee24a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8735099823494194115
+    second: CastSentryFrames_0
+  - first:
+      213: -3006535906419917476
+    second: CastSentryFrames_1
+  - first:
+      213: 539032377087668569
+    second: CastSentryFrames_2
+  - first:
+      213: -1035841335733946950
+    second: CastSentryFrames_3
+  - first:
+      213: -4920430133031758090
+    second: CastSentryFrames_4
+  - first:
+      213: -6287679659334374198
+    second: CastSentryFrames_5
+  - first:
+      213: 8401678627175527690
+    second: CastSentryFrames_6
+  - first:
+      213: 1389586392114715245
+    second: CastSentryFrames_7
+  - first:
+      213: 2134522534455726842
+    second: CastSentryFrames_8
+  - first:
+      213: -6394153752907387599
+    second: CastSentryFrames_9
+  - first:
+      213: -7807894506104254368
+    second: CastSentryFrames_10
+  - first:
+      213: -1163055698211170245
+    second: CastSentryFrames_11
+  - first:
+      213: -5506395743110867337
+    second: CastSentryFrames_12
+  - first:
+      213: 7228454996159502030
+    second: CastSentryFrames_13
+  - first:
+      213: 7084245584402758473
+    second: CastSentryFrames_14
+  - first:
+      213: 5814122531289037628
+    second: CastSentryFrames_15
+  - first:
+      213: -2920127336147619335
+    second: CastSentryFrames_16
+  - first:
+      213: 5800440874261860302
+    second: CastSentryFrames_17
+  - first:
+      213: -6482177470462749431
+    second: CastSentryFrames_18
+  - first:
+      213: 3052416001011836431
+    second: CastSentryFrames_19
+  - first:
+      213: -7275597141694763647
+    second: CastSentryFrames_20
+  - first:
+      213: -3763817636150806613
+    second: CastSentryFrames_21
+  - first:
+      213: -8519526941590909627
+    second: CastSentryFrames_22
+  - first:
+      213: -1378375708875570473
+    second: CastSentryFrames_23
+  - first:
+      213: 3586046688283815155
+    second: CastSentryFrames_24
+  - first:
+      213: -8397095941351114034
+    second: CastSentryFrames_25
+  - first:
+      213: -7616670378365635554
+    second: CastSentryFrames_26
+  - first:
+      213: -3077560353204915481
+    second: CastSentryFrames_27
+  - first:
+      213: 1206361849342823511
+    second: CastSentryFrames_28
+  - first:
+      213: 7279325174884758171
+    second: CastSentryFrames_29
+  - first:
+      213: -6548547906770871532
+    second: CastSentryFrames_30
+  - first:
+      213: 177517445043291582
+    second: CastSentryFrames_31
+  - first:
+      213: -8401078923176700583
+    second: CastSentryFrames_32
+  - first:
+      213: -4219237899146254225
+    second: CastSentryFrames_33
+  - first:
+      213: -6175350081142983800
+    second: CastSentryFrames_34
+  - first:
+      213: -5533562601849513198
+    second: CastSentryFrames_35
+  - first:
+      213: 8934515894212060781
+    second: CastSentryFrames_36
+  - first:
+      213: -8152395522740941881
+    second: CastSentryFrames_37
+  - first:
+      213: 136713868893127472
+    second: CastSentryFrames_38
+  - first:
+      213: 3084942038978769020
+    second: CastSentryFrames_39
+  - first:
+      213: 5401262375187841234
+    second: CastSentryFrames_40
+  - first:
+      213: -5829747752657913658
+    second: CastSentryFrames_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastSentryFrames_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 462
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1d07bdf0b6c680800000000000000
+      internalID: -8735099823494194115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 519
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d326db583a646d0800000000000000
+      internalID: -3006535906419917476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 462
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951bebe47170b7700800000000000000
+      internalID: 539032377087668569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 519
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab579e31bc3ff91f0800000000000000
+      internalID: -1035841335733946950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 462
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f693821dde17bbb0800000000000000
+      internalID: -4920430133031758090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 462
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accece3d9acadb8a0800000000000000
+      internalID: -6287679659334374198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 462
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f9c98232c89470800000000000000
+      internalID: 8401678627175527690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 462
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad6b6167dc84310800000000000000
+      internalID: 1389586392114715245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_8
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 462
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2dc479fe85f9d10800000000000000
+      internalID: 2134522534455726842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 462
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d69b61a076347a0800000000000000
+      internalID: -6394153752907387599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 350
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609eef8059c4a390800000000000000
+      internalID: -7807894506104254368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 350
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38112e210ffbdfe0800000000000000
+      internalID: -1163055698211170245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 350
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776572bee3a5593b0800000000000000
+      internalID: -5506395743110867337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 350
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61cf06581a05460800000000000000
+      internalID: 7228454996159502030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 350
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb4f733db405260800000000000000
+      internalID: 7084245584402758473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 350
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf31e33a9efa050800000000000000
+      internalID: 5814122531289037628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_16
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 350
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f17306c8af9977d0800000000000000
+      internalID: -2920127336147619335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_17
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 350
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc80b3e3e4f7050800000000000000
+      internalID: 5800440874261860302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 238
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90517064fedaa06a0800000000000000
+      internalID: -6482177470462749431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 238
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0667073e2c5c5a20800000000000000
+      internalID: 3052416001011836431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 238
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18daf6882f2e70b90800000000000000
+      internalID: -7275597141694763647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 238
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba771ed2dcb34cbc0800000000000000
+      internalID: -3763817636150806613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 238
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8a10926f84c980800000000000000
+      internalID: -8519526941590909627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 238
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c17188960fdce0800000000000000
+      internalID: -1378375708875570473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 238
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc6f1b967234c130800000000000000
+      internalID: 3586046688283815155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_25
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 238
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca74e62bb5877b80800000000000000
+      internalID: -8397095941351114034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b64e45a62c4690800000000000000
+      internalID: -7616670378365635554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 126
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e235641a2f4a45d0800000000000000
+      internalID: -3077560353204915481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 126
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c89acd5bbddb010800000000000000
+      internalID: 1206361849342823511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 126
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b927095ddab550560800000000000000
+      internalID: 7279325174884758171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_30
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 126
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5b4edf52ee15a0800000000000000
+      internalID: -6548547906770871532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 126
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58d3dfc2ba67200800000000000000
+      internalID: 177517445043291582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_32
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 126
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955180eea3f596b80800000000000000
+      internalID: -8401078923176700583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_33
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 126
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a5863c714275c0800000000000000
+      internalID: -4219237899146254225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883fac1d1dfbc4aa0800000000000000
+      internalID: -6175350081142983800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 14
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b9f56b126d433b0800000000000000
+      internalID: -5533562601849513198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 14
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6667926ed6cdfb70800000000000000
+      internalID: 8934515894212060781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 14
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb8a8e177fdcde80800000000000000
+      internalID: -8152395522740941881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_38
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 14
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0338e371a84b5e100800000000000000
+      internalID: 136713868893127472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_39
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 14
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70bff1907aefca20800000000000000
+      internalID: 3084942038978769020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_40
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d001cb538325fa40800000000000000
+      internalID: 5401262375187841234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSentryFrames_41
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 14
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c871b86e43981fa0800000000000000
+      internalID: -5829747752657913658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastSentryFrames_0: -8735099823494194115
+      CastSentryFrames_1: -3006535906419917476
+      CastSentryFrames_10: -7807894506104254368
+      CastSentryFrames_11: -1163055698211170245
+      CastSentryFrames_12: -5506395743110867337
+      CastSentryFrames_13: 7228454996159502030
+      CastSentryFrames_14: 7084245584402758473
+      CastSentryFrames_15: 5814122531289037628
+      CastSentryFrames_16: -2920127336147619335
+      CastSentryFrames_17: 5800440874261860302
+      CastSentryFrames_18: -6482177470462749431
+      CastSentryFrames_19: 3052416001011836431
+      CastSentryFrames_2: 539032377087668569
+      CastSentryFrames_20: -7275597141694763647
+      CastSentryFrames_21: -3763817636150806613
+      CastSentryFrames_22: -8519526941590909627
+      CastSentryFrames_23: -1378375708875570473
+      CastSentryFrames_24: 3586046688283815155
+      CastSentryFrames_25: -8397095941351114034
+      CastSentryFrames_26: -7616670378365635554
+      CastSentryFrames_27: -3077560353204915481
+      CastSentryFrames_28: 1206361849342823511
+      CastSentryFrames_29: 7279325174884758171
+      CastSentryFrames_3: -1035841335733946950
+      CastSentryFrames_30: -6548547906770871532
+      CastSentryFrames_31: 177517445043291582
+      CastSentryFrames_32: -8401078923176700583
+      CastSentryFrames_33: -4219237899146254225
+      CastSentryFrames_34: -6175350081142983800
+      CastSentryFrames_35: -5533562601849513198
+      CastSentryFrames_36: 8934515894212060781
+      CastSentryFrames_37: -8152395522740941881
+      CastSentryFrames_38: 136713868893127472
+      CastSentryFrames_39: 3084942038978769020
+      CastSentryFrames_4: -4920430133031758090
+      CastSentryFrames_40: 5401262375187841234
+      CastSentryFrames_41: -5829747752657913658
+      CastSentryFrames_5: -6287679659334374198
+      CastSentryFrames_6: 8401678627175527690
+      CastSentryFrames_7: 1389586392114715245
+      CastSentryFrames_8: 2134522534455726842
+      CastSentryFrames_9: -6394153752907387599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

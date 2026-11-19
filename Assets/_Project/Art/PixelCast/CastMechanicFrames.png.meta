@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 6be505d82d67b50469de777ea40cf3ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5026460362464212134
+    second: CastMechanicFrames_0
+  - first:
+      213: -7549936212977493681
+    second: CastMechanicFrames_1
+  - first:
+      213: 6367312061280167194
+    second: CastMechanicFrames_2
+  - first:
+      213: -4635607638390428513
+    second: CastMechanicFrames_3
+  - first:
+      213: 3784412684615043730
+    second: CastMechanicFrames_4
+  - first:
+      213: -7421047039056468810
+    second: CastMechanicFrames_5
+  - first:
+      213: 4604174992355162626
+    second: CastMechanicFrames_6
+  - first:
+      213: -7710284536079547096
+    second: CastMechanicFrames_7
+  - first:
+      213: -2000954095214340510
+    second: CastMechanicFrames_8
+  - first:
+      213: -8609522695700264010
+    second: CastMechanicFrames_9
+  - first:
+      213: -363951741322451469
+    second: CastMechanicFrames_10
+  - first:
+      213: 5361978839261981192
+    second: CastMechanicFrames_11
+  - first:
+      213: 2234621521993601426
+    second: CastMechanicFrames_12
+  - first:
+      213: -3025346628876418745
+    second: CastMechanicFrames_13
+  - first:
+      213: -1682505146270989039
+    second: CastMechanicFrames_14
+  - first:
+      213: -1323024869271185589
+    second: CastMechanicFrames_15
+  - first:
+      213: -2743322668261700348
+    second: CastMechanicFrames_16
+  - first:
+      213: -1144250597337150991
+    second: CastMechanicFrames_17
+  - first:
+      213: -7369047716971922998
+    second: CastMechanicFrames_18
+  - first:
+      213: -322450139918914621
+    second: CastMechanicFrames_19
+  - first:
+      213: 7120084580954599583
+    second: CastMechanicFrames_20
+  - first:
+      213: -228516073967184725
+    second: CastMechanicFrames_21
+  - first:
+      213: -6625110198926050723
+    second: CastMechanicFrames_22
+  - first:
+      213: -4464658009685142125
+    second: CastMechanicFrames_23
+  - first:
+      213: -8611575498277429751
+    second: CastMechanicFrames_24
+  - first:
+      213: 2583817858004709565
+    second: CastMechanicFrames_25
+  - first:
+      213: -6532566780628720485
+    second: CastMechanicFrames_26
+  - first:
+      213: 4650629554270994707
+    second: CastMechanicFrames_27
+  - first:
+      213: -4971296740771091399
+    second: CastMechanicFrames_28
+  - first:
+      213: 1426227724070366000
+    second: CastMechanicFrames_29
+  - first:
+      213: 4611056082514385899
+    second: CastMechanicFrames_30
+  - first:
+      213: -770773245549171693
+    second: CastMechanicFrames_31
+  - first:
+      213: -6655029593777967713
+    second: CastMechanicFrames_32
+  - first:
+      213: -4619523029972197056
+    second: CastMechanicFrames_33
+  - first:
+      213: 739602900654268510
+    second: CastMechanicFrames_34
+  - first:
+      213: -5982526529939331620
+    second: CastMechanicFrames_35
+  - first:
+      213: 6884938700834125894
+    second: CastMechanicFrames_36
+  - first:
+      213: -8375696821648412445
+    second: CastMechanicFrames_37
+  - first:
+      213: -2460100429115747434
+    second: CastMechanicFrames_38
+  - first:
+      213: -4747887382241991208
+    second: CastMechanicFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastMechanicFrames_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b4db18eec6e3ab0800000000000000
+      internalID: -5026460362464212134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 462
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495e9cf30d393790800000000000000
+      internalID: -7549936212977493681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 462
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a152aa2959c3d5850800000000000000
+      internalID: 6367312061280167194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 462
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca6a3d9630bafb0800000000000000
+      internalID: -4635607638390428513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 462
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a46f5394fe48430800000000000000
+      internalID: 3784412684615043730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 462
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4239f4905230990800000000000000
+      internalID: -7421047039056468810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 462
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af017f2c055ef30800000000000000
+      internalID: 4604174992355162626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 462
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8258ac5b0119ff490800000000000000
+      internalID: -7710284536079547096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 350
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d2e61ade2b34e0800000000000000
+      internalID: -2000954095214340510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 350
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4f1539b4d48880800000000000000
+      internalID: -8609522695700264010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 350
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5271fc1dbf2faf0800000000000000
+      internalID: -363951741322451469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 350
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2f576853996a40800000000000000
+      internalID: 5361978839261981192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 350
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911fd94f68f20f10800000000000000
+      internalID: 2234621521993601426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 350
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741456f154fc306d0800000000000000
+      internalID: -3025346628876418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 350
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11540c7db7a86a8e0800000000000000
+      internalID: -1682505146270989039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 350
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47551e14eba3ade0800000000000000
+      internalID: -1323024869271185589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 238
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0cf56192cde9d0800000000000000
+      internalID: -2743322668261700348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 238
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9c0bbe42ece10f0800000000000000
+      internalID: -1144250597337150991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 238
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93cf0f422ebb990800000000000000
+      internalID: -7369047716971922998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 238
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbab506e4d668bf0800000000000000
+      internalID: -322450139918914621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_20
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 238
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f88ad33f9fc260800000000000000
+      internalID: 7120084580954599583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_21
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 238
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba418b967d524dcf0800000000000000
+      internalID: -228516073967184725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 238
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af13b1061ee04a0800000000000000
+      internalID: -6625110198926050723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 238
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955d19e1395a02c0800000000000000
+      internalID: -4464658009685142125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e57bcd5b98d7880800000000000000
+      internalID: -8611575498277429751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 126
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db07ea6f6a09bd320800000000000000
+      internalID: 2583817858004709565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 126
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ab11cf19a755a0800000000000000
+      internalID: -6532566780628720485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 126
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311814480fa5a8040800000000000000
+      internalID: 4650629554270994707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 126
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c284d04f7620bb0800000000000000
+      internalID: -4971296740771091399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 126
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b270efe8afac310800000000000000
+      internalID: 1426227724070366000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 126
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb9cad9313cdff30800000000000000
+      internalID: 4611056082514385899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 126
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31caaa021d9ad45f0800000000000000
+      internalID: -770773245549171693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de62528d594a3a0800000000000000
+      internalID: -6655029593777967713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04165ce874824efb0800000000000000
+      internalID: -4619523029972197056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a8586be8934a00800000000000000
+      internalID: 739602900654268510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 14
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ad9b51dbc9fca0800000000000000
+      internalID: -5982526529939331620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 14
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648be8b35473c8f50800000000000000
+      internalID: 6884938700834125894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_37
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 14
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03747fd1c83cb80800000000000000
+      internalID: -8375696821648412445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 14
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69315c2a1b7fbddd0800000000000000
+      internalID: -2460100429115747434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMechanicFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 14
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d528ebc49d1c1eb0800000000000000
+      internalID: -4747887382241991208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastMechanicFrames_0: -5026460362464212134
+      CastMechanicFrames_1: -7549936212977493681
+      CastMechanicFrames_10: -363951741322451469
+      CastMechanicFrames_11: 5361978839261981192
+      CastMechanicFrames_12: 2234621521993601426
+      CastMechanicFrames_13: -3025346628876418745
+      CastMechanicFrames_14: -1682505146270989039
+      CastMechanicFrames_15: -1323024869271185589
+      CastMechanicFrames_16: -2743322668261700348
+      CastMechanicFrames_17: -1144250597337150991
+      CastMechanicFrames_18: -7369047716971922998
+      CastMechanicFrames_19: -322450139918914621
+      CastMechanicFrames_2: 6367312061280167194
+      CastMechanicFrames_20: 7120084580954599583
+      CastMechanicFrames_21: -228516073967184725
+      CastMechanicFrames_22: -6625110198926050723
+      CastMechanicFrames_23: -4464658009685142125
+      CastMechanicFrames_24: -8611575498277429751
+      CastMechanicFrames_25: 2583817858004709565
+      CastMechanicFrames_26: -6532566780628720485
+      CastMechanicFrames_27: 4650629554270994707
+      CastMechanicFrames_28: -4971296740771091399
+      CastMechanicFrames_29: 1426227724070366000
+      CastMechanicFrames_3: -4635607638390428513
+      CastMechanicFrames_30: 4611056082514385899
+      CastMechanicFrames_31: -770773245549171693
+      CastMechanicFrames_32: -6655029593777967713
+      CastMechanicFrames_33: -4619523029972197056
+      CastMechanicFrames_34: 739602900654268510
+      CastMechanicFrames_35: -5982526529939331620
+      CastMechanicFrames_36: 6884938700834125894
+      CastMechanicFrames_37: -8375696821648412445
+      CastMechanicFrames_38: -2460100429115747434
+      CastMechanicFrames_39: -4747887382241991208
+      CastMechanicFrames_4: 3784412684615043730
+      CastMechanicFrames_5: -7421047039056468810
+      CastMechanicFrames_6: 4604174992355162626
+      CastMechanicFrames_7: -7710284536079547096
+      CastMechanicFrames_8: -2000954095214340510
+      CastMechanicFrames_9: -8609522695700264010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

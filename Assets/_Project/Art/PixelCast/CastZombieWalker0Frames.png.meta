@@ -1,0 +1,3473 @@
+fileFormatVersion: 2
+guid: bc20f3aa3657a7e42af4dd13da60e12f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2563322268569373710
+    second: CastZombieWalker0Frames_0
+  - first:
+      213: -882590839762365059
+    second: CastZombieWalker0Frames_1
+  - first:
+      213: -1046429474801186866
+    second: CastZombieWalker0Frames_2
+  - first:
+      213: -374650100069526924
+    second: CastZombieWalker0Frames_3
+  - first:
+      213: 1682053865594805899
+    second: CastZombieWalker0Frames_4
+  - first:
+      213: 6698523423728136205
+    second: CastZombieWalker0Frames_5
+  - first:
+      213: -6486314687226702219
+    second: CastZombieWalker0Frames_6
+  - first:
+      213: 5537180656343098920
+    second: CastZombieWalker0Frames_7
+  - first:
+      213: -5507612095760903378
+    second: CastZombieWalker0Frames_8
+  - first:
+      213: 4934293067882265839
+    second: CastZombieWalker0Frames_9
+  - first:
+      213: 6674254058466263839
+    second: CastZombieWalker0Frames_10
+  - first:
+      213: 1847486885650599662
+    second: CastZombieWalker0Frames_11
+  - first:
+      213: -6932047883930016972
+    second: CastZombieWalker0Frames_12
+  - first:
+      213: -8644205433832292218
+    second: CastZombieWalker0Frames_13
+  - first:
+      213: -7154042260806920461
+    second: CastZombieWalker0Frames_14
+  - first:
+      213: -7578789918768041695
+    second: CastZombieWalker0Frames_15
+  - first:
+      213: 8078177290499171687
+    second: CastZombieWalker0Frames_16
+  - first:
+      213: -4867576854903736534
+    second: CastZombieWalker0Frames_17
+  - first:
+      213: 2829342225418452780
+    second: CastZombieWalker0Frames_18
+  - first:
+      213: 2419969413567714161
+    second: CastZombieWalker0Frames_19
+  - first:
+      213: -6189369522196216304
+    second: CastZombieWalker0Frames_20
+  - first:
+      213: -7208441554854187117
+    second: CastZombieWalker0Frames_21
+  - first:
+      213: -5238581540991834405
+    second: CastZombieWalker0Frames_22
+  - first:
+      213: 704025082646993355
+    second: CastZombieWalker0Frames_23
+  - first:
+      213: 530776511715136968
+    second: CastZombieWalker0Frames_24
+  - first:
+      213: 8262326188811362138
+    second: CastZombieWalker0Frames_25
+  - first:
+      213: -260796155840534788
+    second: CastZombieWalker0Frames_26
+  - first:
+      213: 6119658095530787069
+    second: CastZombieWalker0Frames_27
+  - first:
+      213: 346664384260826271
+    second: CastZombieWalker0Frames_28
+  - first:
+      213: 9181584437984839348
+    second: CastZombieWalker0Frames_29
+  - first:
+      213: 29972487731275839
+    second: CastZombieWalker0Frames_30
+  - first:
+      213: -4031897180861557950
+    second: CastZombieWalker0Frames_31
+  - first:
+      213: 6187048529408949510
+    second: CastZombieWalker0Frames_32
+  - first:
+      213: -1616516733227756460
+    second: CastZombieWalker0Frames_33
+  - first:
+      213: -2942452478923696009
+    second: CastZombieWalker0Frames_34
+  - first:
+      213: -2142414012548011640
+    second: CastZombieWalker0Frames_35
+  - first:
+      213: 5937387030581027490
+    second: CastZombieWalker0Frames_36
+  - first:
+      213: -1732945428171143403
+    second: CastZombieWalker0Frames_37
+  - first:
+      213: 1826560663912635694
+    second: CastZombieWalker0Frames_38
+  - first:
+      213: 5502307166362288820
+    second: CastZombieWalker0Frames_39
+  - first:
+      213: 8032987699959674059
+    second: CastZombieWalker0Frames_40
+  - first:
+      213: -8971365944395391077
+    second: CastZombieWalker0Frames_41
+  - first:
+      213: -1191582855114764654
+    second: CastZombieWalker0Frames_42
+  - first:
+      213: 1941650991866577267
+    second: CastZombieWalker0Frames_43
+  - first:
+      213: 5245888739297281924
+    second: CastZombieWalker0Frames_44
+  - first:
+      213: 5594517967689056165
+    second: CastZombieWalker0Frames_45
+  - first:
+      213: 1892123799705871927
+    second: CastZombieWalker0Frames_46
+  - first:
+      213: -4280098429788909816
+    second: CastZombieWalker0Frames_47
+  - first:
+      213: -2248519982221092849
+    second: CastZombieWalker0Frames_48
+  - first:
+      213: 8234836266268086647
+    second: CastZombieWalker0Frames_49
+  - first:
+      213: -5638342887954804342
+    second: CastZombieWalker0Frames_50
+  - first:
+      213: 6902983341878114350
+    second: CastZombieWalker0Frames_51
+  - first:
+      213: -4349863965065217257
+    second: CastZombieWalker0Frames_52
+  - first:
+      213: 3359284949281213362
+    second: CastZombieWalker0Frames_53
+  - first:
+      213: -7021422610632684145
+    second: CastZombieWalker0Frames_54
+  - first:
+      213: -7846783265132157771
+    second: CastZombieWalker0Frames_55
+  - first:
+      213: 8172799266435409843
+    second: CastZombieWalker0Frames_56
+  - first:
+      213: 4416628445354619143
+    second: CastZombieWalker0Frames_57
+  - first:
+      213: 8363743643129351154
+    second: CastZombieWalker0Frames_58
+  - first:
+      213: 1713817316388983056
+    second: CastZombieWalker0Frames_59
+  - first:
+      213: 181001132033783122
+    second: CastZombieWalker0Frames_60
+  - first:
+      213: 6833794880602984207
+    second: CastZombieWalker0Frames_61
+  - first:
+      213: 8985023133992647183
+    second: CastZombieWalker0Frames_62
+  - first:
+      213: -6022501069765863530
+    second: CastZombieWalker0Frames_63
+  - first:
+      213: -1109961229616537070
+    second: CastZombieWalker0Frames_64
+  - first:
+      213: 5569266975334577699
+    second: CastZombieWalker0Frames_65
+  - first:
+      213: -6572429944098704700
+    second: CastZombieWalker0Frames_66
+  - first:
+      213: -2228293378825511939
+    second: CastZombieWalker0Frames_67
+  - first:
+      213: 987402090486871808
+    second: CastZombieWalker0Frames_68
+  - first:
+      213: -4017448552624072852
+    second: CastZombieWalker0Frames_69
+  - first:
+      213: 5989459061892994552
+    second: CastZombieWalker0Frames_70
+  - first:
+      213: 2102950675548552947
+    second: CastZombieWalker0Frames_71
+  - first:
+      213: 4002090923435317654
+    second: CastZombieWalker0Frames_72
+  - first:
+      213: -7030354826261021495
+    second: CastZombieWalker0Frames_73
+  - first:
+      213: -8132491901583631742
+    second: CastZombieWalker0Frames_74
+  - first:
+      213: -9098672684601301629
+    second: CastZombieWalker0Frames_75
+  - first:
+      213: 1199655378088202645
+    second: CastZombieWalker0Frames_76
+  - first:
+      213: 578274569937894213
+    second: CastZombieWalker0Frames_77
+  - first:
+      213: 2094845381985889492
+    second: CastZombieWalker0Frames_78
+  - first:
+      213: -2669207033829140467
+    second: CastZombieWalker0Frames_79
+  - first:
+      213: 5336876334627654879
+    second: CastZombieWalker0Frames_80
+  - first:
+      213: 1168318834710015671
+    second: CastZombieWalker0Frames_81
+  - first:
+      213: 5514577858542968248
+    second: CastZombieWalker0Frames_82
+  - first:
+      213: -2984503271433497554
+    second: CastZombieWalker0Frames_83
+  - first:
+      213: 3639441862402073349
+    second: CastZombieWalker0Frames_84
+  - first:
+      213: -2886639920715881878
+    second: CastZombieWalker0Frames_85
+  - first:
+      213: -7836490534647457993
+    second: CastZombieWalker0Frames_86
+  - first:
+      213: 5319496195412559921
+    second: CastZombieWalker0Frames_87
+  - first:
+      213: 3513674768608874116
+    second: CastZombieWalker0Frames_88
+  - first:
+      213: 4380226095016470707
+    second: CastZombieWalker0Frames_89
+  - first:
+      213: -5833741631383210383
+    second: CastZombieWalker0Frames_90
+  - first:
+      213: -3157501915719779745
+    second: CastZombieWalker0Frames_91
+  - first:
+      213: 8219408288068408480
+    second: CastZombieWalker0Frames_92
+  - first:
+      213: 1569371330778207555
+    second: CastZombieWalker0Frames_93
+  - first:
+      213: 3204690589094000473
+    second: CastZombieWalker0Frames_94
+  - first:
+      213: -2655481954010100702
+    second: CastZombieWalker0Frames_95
+  - first:
+      213: 4755501488219353615
+    second: CastZombieWalker0Frames_96
+  - first:
+      213: 6499042558987444986
+    second: CastZombieWalker0Frames_97
+  - first:
+      213: -3043908886158519907
+    second: CastZombieWalker0Frames_98
+  - first:
+      213: 2694140731311374916
+    second: CastZombieWalker0Frames_99
+  - first:
+      213: -5183596988015282159
+    second: CastZombieWalker0Frames_100
+  - first:
+      213: 942091219031841491
+    second: CastZombieWalker0Frames_101
+  - first:
+      213: -385603586213263164
+    second: CastZombieWalker0Frames_102
+  - first:
+      213: 5483255128960207659
+    second: CastZombieWalker0Frames_103
+  - first:
+      213: 3771251027922713434
+    second: CastZombieWalker0Frames_104
+  - first:
+      213: 5367828790025316125
+    second: CastZombieWalker0Frames_105
+  - first:
+      213: 7490764434199356511
+    second: CastZombieWalker0Frames_106
+  - first:
+      213: -8849036526582558647
+    second: CastZombieWalker0Frames_107
+  - first:
+      213: 4812291569413557342
+    second: CastZombieWalker0Frames_108
+  - first:
+      213: 3926057427155038077
+    second: CastZombieWalker0Frames_109
+  - first:
+      213: -2981077437385308107
+    second: CastZombieWalker0Frames_110
+  - first:
+      213: -1892615339053741446
+    second: CastZombieWalker0Frames_111
+  - first:
+      213: -5949901968081597057
+    second: CastZombieWalker0Frames_112
+  - first:
+      213: 1686633502351688154
+    second: CastZombieWalker0Frames_113
+  - first:
+      213: 1961490061800750646
+    second: CastZombieWalker0Frames_114
+  - first:
+      213: 2854222900639811347
+    second: CastZombieWalker0Frames_115
+  - first:
+      213: 6482872553618384001
+    second: CastZombieWalker0Frames_116
+  - first:
+      213: -180324524485764925
+    second: CastZombieWalker0Frames_117
+  - first:
+      213: 6103455955844772080
+    second: CastZombieWalker0Frames_118
+  - first:
+      213: 1693710310579837625
+    second: CastZombieWalker0Frames_119
+  - first:
+      213: -3199192736269969572
+    second: CastZombieWalker0Frames_120
+  - first:
+      213: 1904091871913702738
+    second: CastZombieWalker0Frames_121
+  - first:
+      213: -3832995994573457154
+    second: CastZombieWalker0Frames_122
+  - first:
+      213: 4392996530140791501
+    second: CastZombieWalker0Frames_123
+  - first:
+      213: 3069246643076023386
+    second: CastZombieWalker0Frames_124
+  - first:
+      213: 2636025888280063858
+    second: CastZombieWalker0Frames_125
+  - first:
+      213: -3749932898208432634
+    second: CastZombieWalker0Frames_126
+  - first:
+      213: -3346040706731908042
+    second: CastZombieWalker0Frames_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1694
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0deea500c29320800000000000000
+      internalID: 2563322268569373710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1694
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7553f1be4860c3f0800000000000000
+      internalID: -882590839762365059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1694
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70af7dfe55a71f0800000000000000
+      internalID: -1046429474801186866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1694
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4729a4e08b9fccaf0800000000000000
+      internalID: -374650100069526924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1694
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed9df241bd75710800000000000000
+      internalID: 1682053865594805899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1694
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00f2f6409fe5fc50800000000000000
+      internalID: 6698523423728136205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1694
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576147e682bfbf5a0800000000000000
+      internalID: -6486314687226702219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_7
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1694
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ae7e387408dc40800000000000000
+      internalID: 5537180656343098920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1582
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d68fbaf70193b0800000000000000
+      internalID: -5507612095760903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1582
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7bc8f6612a7440800000000000000
+      internalID: 4934293067882265839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1582
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13479754b6bf9c50800000000000000
+      internalID: 6674254058466263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1582
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee856ab88793a910800000000000000
+      internalID: 1847486885650599662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1582
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336a585d2b6ccf90800000000000000
+      internalID: -6932047883930016972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1582
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680cce6f4fc990880800000000000000
+      internalID: -8644205433832292218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_14
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1582
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69870b77cb7bc90800000000000000
+      internalID: -7154042260806920461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_15
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1582
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f48819bab2d690800000000000000
+      internalID: -7578789918768041695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a4d812737b1070800000000000000
+      internalID: 8078177290499171687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27bc86d3a4e27cb0800000000000000
+      internalID: -4867576854903736534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f741673c7d34720800000000000000
+      internalID: 2829342225418452780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173930f2c55759120800000000000000
+      internalID: 2419969413567714161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0168dd55631fa1aa0800000000000000
+      internalID: -6189369522196216304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_21
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f60ca099876fb90800000000000000
+      internalID: -7208441554854187117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_22
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6634af7d1dc47b0800000000000000
+      internalID: -5238581540991834405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_23
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1470
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99324251335c900800000000000000
+      internalID: 704025082646993355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1358
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5d6ebdc62bd5700800000000000000
+      internalID: 530776511715136968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1358
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f128e94eda9a270800000000000000
+      internalID: 8262326188811362138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1358
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6665c2747716cf0800000000000000
+      internalID: -260796155840534788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_27
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1358
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0c4f25d946de450800000000000000
+      internalID: 6119658095530787069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1358
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946528bb699fc400800000000000000
+      internalID: 346664384260826271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_29
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1358
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b64755766a8b6f70800000000000000
+      internalID: 9181584437984839348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_30
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1358
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38e14c91db7a6000800000000000000
+      internalID: 29972487731275839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_31
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1358
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24319db30e2db08c0800000000000000
+      internalID: -4031897180861557950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1246
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df58b6bdfccd550800000000000000
+      internalID: 6187048529408949510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1246
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541c76889af099e0800000000000000
+      internalID: -1616516733227756460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1246
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77819496f0f4a27d0800000000000000
+      internalID: -2942452478923696009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1246
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a14c7ecd9442e0800000000000000
+      internalID: -2142414012548011640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1246
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22bc3fb06d56250800000000000000
+      internalID: 5937387030581027490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1246
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517c8ba805753f7e0800000000000000
+      internalID: -1732945428171143403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_38
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1246
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd63d0f3f395910800000000000000
+      internalID: 1826560663912635694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_39
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1246
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b24c10273f1c5c40800000000000000
+      internalID: 5502307166362288820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1134
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bd25a0c7ea7f60800000000000000
+      internalID: 8032987699959674059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1134
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f9646b43e4f7380800000000000000
+      internalID: -8971365944395391077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1134
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e4070e4b5a67fe0800000000000000
+      internalID: -1191582855114764654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_43
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1134
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3710eff2a4122fa10800000000000000
+      internalID: 1941650991866577267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1134
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4874905b3042dc840800000000000000
+      internalID: 5245888739297281924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_45
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1134
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af75a95378b3ad40800000000000000
+      internalID: 5594517967689056165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_46
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1134
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e788229c224a10800000000000000
+      internalID: 1892123799705871927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_47
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1134
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f89b0b7290a94c0800000000000000
+      internalID: -4280098429788909816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1022
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0818554df6abc0e0800000000000000
+      internalID: -2248519982221092849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1022
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d96244f3084270800000000000000
+      internalID: 8234836266268086647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1022
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819a91440590c1b0800000000000000
+      internalID: -5638342887954804342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_51
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1022
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28751f96c25ccf50800000000000000
+      internalID: 6902983341878114350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_52
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1022
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf30535cd22a3c0800000000000000
+      internalID: -4349863965065217257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_53
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1022
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb0935fcd39e9e20800000000000000
+      internalID: 3359284949281213362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_54
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1022
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc7533655ee8e90800000000000000
+      internalID: -7021422610632684145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_55
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1022
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46154c130aa1390800000000000000
+      internalID: -7846783265132157771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 910
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7a478a1ad9b6170800000000000000
+      internalID: 8172799266435409843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 910
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7017f36bb240b4d30800000000000000
+      internalID: 4416628445354619143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 910
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0829c78cf11470800000000000000
+      internalID: 8363743643129351154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_59
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 910
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115741e4c3b8c710800000000000000
+      internalID: 1713817316388983056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_60
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 910
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25531d2129b038200800000000000000
+      internalID: 181001132033783122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_61
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 910
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f4936ac3486de50800000000000000
+      internalID: 6833794880602984207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_62
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 910
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a7c488fe631bc70800000000000000
+      internalID: 8985023133992647183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_63
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 910
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69712358f27cb6ca0800000000000000
+      internalID: -6022501069765863530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 798
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212204a7420a890f0800000000000000
+      internalID: -1109961229616537070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 798
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b12c8ec20a4d40800000000000000
+      internalID: 5569266975334577699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_66
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 798
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23bdeb9c90ac4a0800000000000000
+      internalID: -6572429944098704700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_67
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 798
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb10cb5af28311e0800000000000000
+      internalID: -2228293378825511939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 798
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b2f548f4f3bd00800000000000000
+      internalID: 987402090486871808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_69
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 798
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c675f65a3d72f38c0800000000000000
+      internalID: -4017448552624072852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_70
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 798
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f550e48845de1350800000000000000
+      internalID: 5989459061892994552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_71
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 798
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3d3c5f7e2f2d10800000000000000
+      internalID: 2102950675548552947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 686
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6995d2aad784a8730800000000000000
+      internalID: 4002090923435317654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 686
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc32cfa8892f6e90800000000000000
+      internalID: -7030354826261021495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_74
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 686
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28add5b04b5932f80800000000000000
+      internalID: -8132491901583631742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_75
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 686
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852ac276650bb180800000000000000
+      internalID: -9098672684601301629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_76
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 686
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59195d7d53806a010800000000000000
+      internalID: 1199655378088202645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_77
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 686
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3ac358a1760800800000000000000
+      internalID: 578274569937894213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_78
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 686
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce2a4a6c2621d10800000000000000
+      internalID: 2094845381985889492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_79
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 686
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08d3a4485215fad0800000000000000
+      internalID: -2669207033829140467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 574
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8ba710c4601a40800000000000000
+      internalID: 5336876334627654879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 574
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee9474ac3b63010800000000000000
+      internalID: 1168318834710015671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 574
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd10b84857b78c40800000000000000
+      internalID: 5514577858542968248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e241733561ae496d0800000000000000
+      internalID: -2984503271433497554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_84
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 574
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503692d5715e18230800000000000000
+      internalID: 3639441862402073349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_85
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 574
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a443494890f7d0800000000000000
+      internalID: -2886639920715881878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_86
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 574
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73790a4d0613f3390800000000000000
+      internalID: -7836490534647457993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_87
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 574
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388b971b95a2d940800000000000000
+      internalID: 5319496195412559921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 462
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4f27f59413c030800000000000000
+      internalID: 3513674768608874116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_89
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 462
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86a5d0d60b9cc30800000000000000
+      internalID: 4380226095016470707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_90
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 462
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176fefd05e26a0fa0800000000000000
+      internalID: -5833741631383210383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_91
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 462
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a38ef9cbc4e24d0800000000000000
+      internalID: -3157501915719779745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 462
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4183a2a44311270800000000000000
+      internalID: 8219408288068408480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_93
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 462
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34597b319e687c510800000000000000
+      internalID: 1569371330778207555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_94
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 462
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573cf19c19597c20800000000000000
+      internalID: 3204690589094000473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_95
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 462
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c84cf6b35d52bd0800000000000000
+      internalID: -2655481954010100702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f726686feef140800000000000000
+      internalID: 4755501488219353615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 350
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a79426cc313a50800000000000000
+      internalID: 6499042558987444986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 350
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91dddfcefcd1c5d0800000000000000
+      internalID: -3043908886158519907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 350
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c9b098b2836520800000000000000
+      internalID: 2694140731311374916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_100
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 350
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1187096d00a2018b0800000000000000
+      internalID: -5183596988015282159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_101
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 350
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da5868e8faf21d00800000000000000
+      internalID: 942091219031841491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_102
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 350
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c844a3d49f06aaf0800000000000000
+      internalID: -385603586213263164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_103
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 350
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b038efc7f681c40800000000000000
+      internalID: 5483255128960207659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 238
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf82634dc265430800000000000000
+      internalID: 3771251027922713434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 238
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e29438db5e7a40800000000000000
+      internalID: 5367828790025316125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_106
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 238
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54259ca09a84f760800000000000000
+      internalID: 7490764434199356511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_107
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 238
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940179cc928e13580800000000000000
+      internalID: -8849036526582558647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 238
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c808e8fa1b8c240800000000000000
+      internalID: 4812291569413557342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_109
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 238
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2c59cd682c7630800000000000000
+      internalID: 3926057427155038077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_110
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 238
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53887b87dd511a6d0800000000000000
+      internalID: -2981077437385308107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_111
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 238
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0f3b60641cb5e0800000000000000
+      internalID: -1892615339053741446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_112
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d49181fa3bd6da0800000000000000
+      internalID: -5949901968081597057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad102f5fb30286710800000000000000
+      internalID: 1686633502351688154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_114
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 126
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb71c91dc983b10800000000000000
+      internalID: 1961490061800750646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_115
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 126
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317cb661b9c3c9720800000000000000
+      internalID: 2854222900639811347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_116
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184ad826d3ac7f950800000000000000
+      internalID: 6482872553618384001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_117
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 126
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81cb5eccb5f7df0800000000000000
+      internalID: -180324524485764925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_118
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 126
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0be56bad4d3b450800000000000000
+      internalID: 6103455955844772080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_119
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 126
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1786cd84418710800000000000000
+      internalID: 1693710310579837625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_120
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575e9a082f2a93d0800000000000000
+      internalID: -3199192736269969572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 14
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ff1d1871bc6a10800000000000000
+      internalID: 1904091871913702738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_122
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 14
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef834f573767ecac0800000000000000
+      internalID: -3832995994573457154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_123
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 14
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c09ea11f07fc30800000000000000
+      internalID: 4392996530140791501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_124
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 14
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a544b907f87289a20800000000000000
+      internalID: 3069246643076023386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_125
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 14
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27faaa1449b059420800000000000000
+      internalID: 2636025888280063858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_126
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 14
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e3cb6a5ef85fbc0800000000000000
+      internalID: -3749932898208432634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieWalker0Frames_127
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 14
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6346f3f84b97091d0800000000000000
+      internalID: -3346040706731908042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastZombieWalker0Frames_0: 2563322268569373710
+      CastZombieWalker0Frames_1: -882590839762365059
+      CastZombieWalker0Frames_10: 6674254058466263839
+      CastZombieWalker0Frames_100: -5183596988015282159
+      CastZombieWalker0Frames_101: 942091219031841491
+      CastZombieWalker0Frames_102: -385603586213263164
+      CastZombieWalker0Frames_103: 5483255128960207659
+      CastZombieWalker0Frames_104: 3771251027922713434
+      CastZombieWalker0Frames_105: 5367828790025316125
+      CastZombieWalker0Frames_106: 7490764434199356511
+      CastZombieWalker0Frames_107: -8849036526582558647
+      CastZombieWalker0Frames_108: 4812291569413557342
+      CastZombieWalker0Frames_109: 3926057427155038077
+      CastZombieWalker0Frames_11: 1847486885650599662
+      CastZombieWalker0Frames_110: -2981077437385308107
+      CastZombieWalker0Frames_111: -1892615339053741446
+      CastZombieWalker0Frames_112: -5949901968081597057
+      CastZombieWalker0Frames_113: 1686633502351688154
+      CastZombieWalker0Frames_114: 1961490061800750646
+      CastZombieWalker0Frames_115: 2854222900639811347
+      CastZombieWalker0Frames_116: 6482872553618384001
+      CastZombieWalker0Frames_117: -180324524485764925
+      CastZombieWalker0Frames_118: 6103455955844772080
+      CastZombieWalker0Frames_119: 1693710310579837625
+      CastZombieWalker0Frames_12: -6932047883930016972
+      CastZombieWalker0Frames_120: -3199192736269969572
+      CastZombieWalker0Frames_121: 1904091871913702738
+      CastZombieWalker0Frames_122: -3832995994573457154
+      CastZombieWalker0Frames_123: 4392996530140791501
+      CastZombieWalker0Frames_124: 3069246643076023386
+      CastZombieWalker0Frames_125: 2636025888280063858
+      CastZombieWalker0Frames_126: -3749932898208432634
+      CastZombieWalker0Frames_127: -3346040706731908042
+      CastZombieWalker0Frames_13: -8644205433832292218
+      CastZombieWalker0Frames_14: -7154042260806920461
+      CastZombieWalker0Frames_15: -7578789918768041695
+      CastZombieWalker0Frames_16: 8078177290499171687
+      CastZombieWalker0Frames_17: -4867576854903736534
+      CastZombieWalker0Frames_18: 2829342225418452780
+      CastZombieWalker0Frames_19: 2419969413567714161
+      CastZombieWalker0Frames_2: -1046429474801186866
+      CastZombieWalker0Frames_20: -6189369522196216304
+      CastZombieWalker0Frames_21: -7208441554854187117
+      CastZombieWalker0Frames_22: -5238581540991834405
+      CastZombieWalker0Frames_23: 704025082646993355
+      CastZombieWalker0Frames_24: 530776511715136968
+      CastZombieWalker0Frames_25: 8262326188811362138
+      CastZombieWalker0Frames_26: -260796155840534788
+      CastZombieWalker0Frames_27: 6119658095530787069
+      CastZombieWalker0Frames_28: 346664384260826271
+      CastZombieWalker0Frames_29: 9181584437984839348
+      CastZombieWalker0Frames_3: -374650100069526924
+      CastZombieWalker0Frames_30: 29972487731275839
+      CastZombieWalker0Frames_31: -4031897180861557950
+      CastZombieWalker0Frames_32: 6187048529408949510
+      CastZombieWalker0Frames_33: -1616516733227756460
+      CastZombieWalker0Frames_34: -2942452478923696009
+      CastZombieWalker0Frames_35: -2142414012548011640
+      CastZombieWalker0Frames_36: 5937387030581027490
+      CastZombieWalker0Frames_37: -1732945428171143403
+      CastZombieWalker0Frames_38: 1826560663912635694
+      CastZombieWalker0Frames_39: 5502307166362288820
+      CastZombieWalker0Frames_4: 1682053865594805899
+      CastZombieWalker0Frames_40: 8032987699959674059
+      CastZombieWalker0Frames_41: -8971365944395391077
+      CastZombieWalker0Frames_42: -1191582855114764654
+      CastZombieWalker0Frames_43: 1941650991866577267
+      CastZombieWalker0Frames_44: 5245888739297281924
+      CastZombieWalker0Frames_45: 5594517967689056165
+      CastZombieWalker0Frames_46: 1892123799705871927
+      CastZombieWalker0Frames_47: -4280098429788909816
+      CastZombieWalker0Frames_48: -2248519982221092849
+      CastZombieWalker0Frames_49: 8234836266268086647
+      CastZombieWalker0Frames_5: 6698523423728136205
+      CastZombieWalker0Frames_50: -5638342887954804342
+      CastZombieWalker0Frames_51: 6902983341878114350
+      CastZombieWalker0Frames_52: -4349863965065217257
+      CastZombieWalker0Frames_53: 3359284949281213362
+      CastZombieWalker0Frames_54: -7021422610632684145
+      CastZombieWalker0Frames_55: -7846783265132157771
+      CastZombieWalker0Frames_56: 8172799266435409843
+      CastZombieWalker0Frames_57: 4416628445354619143
+      CastZombieWalker0Frames_58: 8363743643129351154
+      CastZombieWalker0Frames_59: 1713817316388983056
+      CastZombieWalker0Frames_6: -6486314687226702219
+      CastZombieWalker0Frames_60: 181001132033783122
+      CastZombieWalker0Frames_61: 6833794880602984207
+      CastZombieWalker0Frames_62: 8985023133992647183
+      CastZombieWalker0Frames_63: -6022501069765863530
+      CastZombieWalker0Frames_64: -1109961229616537070
+      CastZombieWalker0Frames_65: 5569266975334577699
+      CastZombieWalker0Frames_66: -6572429944098704700
+      CastZombieWalker0Frames_67: -2228293378825511939
+      CastZombieWalker0Frames_68: 987402090486871808
+      CastZombieWalker0Frames_69: -4017448552624072852
+      CastZombieWalker0Frames_7: 5537180656343098920
+      CastZombieWalker0Frames_70: 5989459061892994552
+      CastZombieWalker0Frames_71: 2102950675548552947
+      CastZombieWalker0Frames_72: 4002090923435317654
+      CastZombieWalker0Frames_73: -7030354826261021495
+      CastZombieWalker0Frames_74: -8132491901583631742
+      CastZombieWalker0Frames_75: -9098672684601301629
+      CastZombieWalker0Frames_76: 1199655378088202645
+      CastZombieWalker0Frames_77: 578274569937894213
+      CastZombieWalker0Frames_78: 2094845381985889492
+      CastZombieWalker0Frames_79: -2669207033829140467
+      CastZombieWalker0Frames_8: -5507612095760903378
+      CastZombieWalker0Frames_80: 5336876334627654879
+      CastZombieWalker0Frames_81: 1168318834710015671
+      CastZombieWalker0Frames_82: 5514577858542968248
+      CastZombieWalker0Frames_83: -2984503271433497554
+      CastZombieWalker0Frames_84: 3639441862402073349
+      CastZombieWalker0Frames_85: -2886639920715881878
+      CastZombieWalker0Frames_86: -7836490534647457993
+      CastZombieWalker0Frames_87: 5319496195412559921
+      CastZombieWalker0Frames_88: 3513674768608874116
+      CastZombieWalker0Frames_89: 4380226095016470707
+      CastZombieWalker0Frames_9: 4934293067882265839
+      CastZombieWalker0Frames_90: -5833741631383210383
+      CastZombieWalker0Frames_91: -3157501915719779745
+      CastZombieWalker0Frames_92: 8219408288068408480
+      CastZombieWalker0Frames_93: 1569371330778207555
+      CastZombieWalker0Frames_94: 3204690589094000473
+      CastZombieWalker0Frames_95: -2655481954010100702
+      CastZombieWalker0Frames_96: 4755501488219353615
+      CastZombieWalker0Frames_97: 6499042558987444986
+      CastZombieWalker0Frames_98: -3043908886158519907
+      CastZombieWalker0Frames_99: 2694140731311374916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

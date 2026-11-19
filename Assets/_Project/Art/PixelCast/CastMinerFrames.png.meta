@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 250e60a11f4adb045830a68619739157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1696366699719364774
+    second: CastMinerFrames_0
+  - first:
+      213: 2265384499687905255
+    second: CastMinerFrames_1
+  - first:
+      213: -3694918430362617328
+    second: CastMinerFrames_2
+  - first:
+      213: 1164132281126692656
+    second: CastMinerFrames_3
+  - first:
+      213: 1526823140027585603
+    second: CastMinerFrames_4
+  - first:
+      213: -3388287362253388943
+    second: CastMinerFrames_5
+  - first:
+      213: 693721950627696159
+    second: CastMinerFrames_6
+  - first:
+      213: -5075833882076638846
+    second: CastMinerFrames_7
+  - first:
+      213: 4262471411912926888
+    second: CastMinerFrames_8
+  - first:
+      213: 2355657994819090298
+    second: CastMinerFrames_9
+  - first:
+      213: 4141805100011176463
+    second: CastMinerFrames_10
+  - first:
+      213: 7526399678362596244
+    second: CastMinerFrames_11
+  - first:
+      213: -5235242744525727283
+    second: CastMinerFrames_12
+  - first:
+      213: -8614689946686503209
+    second: CastMinerFrames_13
+  - first:
+      213: -1936692626544130405
+    second: CastMinerFrames_14
+  - first:
+      213: 3864244189968608441
+    second: CastMinerFrames_15
+  - first:
+      213: -7220832285453688061
+    second: CastMinerFrames_16
+  - first:
+      213: -1276613344479274203
+    second: CastMinerFrames_17
+  - first:
+      213: -3999786631943090037
+    second: CastMinerFrames_18
+  - first:
+      213: -6792674158385751216
+    second: CastMinerFrames_19
+  - first:
+      213: 7679111739328653959
+    second: CastMinerFrames_20
+  - first:
+      213: 7191445526847180049
+    second: CastMinerFrames_21
+  - first:
+      213: 8274990421325324860
+    second: CastMinerFrames_22
+  - first:
+      213: -2085868271668576709
+    second: CastMinerFrames_23
+  - first:
+      213: -4849681572148599801
+    second: CastMinerFrames_24
+  - first:
+      213: 2676899590150818010
+    second: CastMinerFrames_25
+  - first:
+      213: -1094120477942968341
+    second: CastMinerFrames_26
+  - first:
+      213: -8743806834682797245
+    second: CastMinerFrames_27
+  - first:
+      213: -599884988439505374
+    second: CastMinerFrames_28
+  - first:
+      213: 5403806322203571026
+    second: CastMinerFrames_29
+  - first:
+      213: 8772753277878025299
+    second: CastMinerFrames_30
+  - first:
+      213: 7198613608372618700
+    second: CastMinerFrames_31
+  - first:
+      213: 6074996006626905142
+    second: CastMinerFrames_32
+  - first:
+      213: 8350800041651809935
+    second: CastMinerFrames_33
+  - first:
+      213: 2799454792497874317
+    second: CastMinerFrames_34
+  - first:
+      213: -8396684102784552744
+    second: CastMinerFrames_35
+  - first:
+      213: 8474872154707846477
+    second: CastMinerFrames_36
+  - first:
+      213: -1096510465413498360
+    second: CastMinerFrames_37
+  - first:
+      213: 1445381972509048501
+    second: CastMinerFrames_38
+  - first:
+      213: -6764449491906168919
+    second: CastMinerFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastMinerFrames_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 462
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fec6e697b4578e0800000000000000
+      internalID: -1696366699719364774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 462
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d29f2333407f10800000000000000
+      internalID: 2265384499687905255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 462
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a313c934309bcc0800000000000000
+      internalID: -3694918430362617328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 462
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372f105424d72010800000000000000
+      internalID: 1164132281126692656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 462
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344d0307e8d503510800000000000000
+      internalID: 1526823140027585603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 462
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17301ff88926af0d0800000000000000
+      internalID: -3388287362253388943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 462
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e0e08407890a900800000000000000
+      internalID: 693721950627696159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 462
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2811ee72af30f89b0800000000000000
+      internalID: -5075833882076638846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e3546a27572b30800000000000000
+      internalID: 4262471411912926888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 350
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a773089277af0b020800000000000000
+      internalID: 2355657994819090298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 350
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0241135bc5aa7930800000000000000
+      internalID: 4141805100011176463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 350
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ba6281a4237860800000000000000
+      internalID: 7526399678362596244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 350
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc95a9b167ea857b0800000000000000
+      internalID: -5235242744525727283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 350
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d64f95d229727880800000000000000
+      internalID: -8614689946686503209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 350
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9608b3315c7f15e0800000000000000
+      internalID: -1936692626544130405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 350
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc227cfd9d80a530800000000000000
+      internalID: 3864244189968608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 238
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3036cd24b437acb90800000000000000
+      internalID: -7220832285453688061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b1ace4dee884ee0800000000000000
+      internalID: -1276613344479274203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 238
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b801da10047ed78c0800000000000000
+      internalID: -3999786631943090037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 238
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b117297d29bb1a0800000000000000
+      internalID: -6792674158385751216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_20
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 238
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6735f07fa19a60800000000000000
+      internalID: 7679111739328653959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 238
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d4c41da952dc360800000000000000
+      internalID: 7191445526847180049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 238
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c322bd602fba6d270800000000000000
+      internalID: 8274990421325324860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 238
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ebfeabbd18d03e0800000000000000
+      internalID: -2085868271668576709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 126
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704235a0e4872bcb0800000000000000
+      internalID: -4849681572148599801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 126
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad804529ef1462520800000000000000
+      internalID: 2676899590150818010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 126
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8ab2e837e0d0f0800000000000000
+      internalID: -1094120477942968341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_27
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 126
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3436912b202c7a680800000000000000
+      internalID: -8743806834682797245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_28
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 126
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22659f508c7cca7f0800000000000000
+      internalID: -599884988439505374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 126
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25334fd283d2efa40800000000000000
+      internalID: 5403806322203571026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 126
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c301e40a41fb970800000000000000
+      internalID: 8772753277878025299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 126
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c75adfec96e360800000000000000
+      internalID: 7198613608372618700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc9ea6ea8be4450800000000000000
+      internalID: 6074996006626905142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e29f8b46004e370800000000000000
+      internalID: 8350800041651809935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 14
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c9973d49a9d620800000000000000
+      internalID: 2799454792497874317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 14
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d07b5acb4cf87b80800000000000000
+      internalID: -8396684102784552744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 14
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e53aa25bcc9570800000000000000
+      internalID: 8474872154707846477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_37
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 14
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ab7809a8968c0f0800000000000000
+      internalID: -1096510465413498360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 14
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb72cfe370f0410800000000000000
+      internalID: 1445381972509048501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMinerFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 14
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77cd5d609df12a0800000000000000
+      internalID: -6764449491906168919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastMinerFrames_0: -1696366699719364774
+      CastMinerFrames_1: 2265384499687905255
+      CastMinerFrames_10: 4141805100011176463
+      CastMinerFrames_11: 7526399678362596244
+      CastMinerFrames_12: -5235242744525727283
+      CastMinerFrames_13: -8614689946686503209
+      CastMinerFrames_14: -1936692626544130405
+      CastMinerFrames_15: 3864244189968608441
+      CastMinerFrames_16: -7220832285453688061
+      CastMinerFrames_17: -1276613344479274203
+      CastMinerFrames_18: -3999786631943090037
+      CastMinerFrames_19: -6792674158385751216
+      CastMinerFrames_2: -3694918430362617328
+      CastMinerFrames_20: 7679111739328653959
+      CastMinerFrames_21: 7191445526847180049
+      CastMinerFrames_22: 8274990421325324860
+      CastMinerFrames_23: -2085868271668576709
+      CastMinerFrames_24: -4849681572148599801
+      CastMinerFrames_25: 2676899590150818010
+      CastMinerFrames_26: -1094120477942968341
+      CastMinerFrames_27: -8743806834682797245
+      CastMinerFrames_28: -599884988439505374
+      CastMinerFrames_29: 5403806322203571026
+      CastMinerFrames_3: 1164132281126692656
+      CastMinerFrames_30: 8772753277878025299
+      CastMinerFrames_31: 7198613608372618700
+      CastMinerFrames_32: 6074996006626905142
+      CastMinerFrames_33: 8350800041651809935
+      CastMinerFrames_34: 2799454792497874317
+      CastMinerFrames_35: -8396684102784552744
+      CastMinerFrames_36: 8474872154707846477
+      CastMinerFrames_37: -1096510465413498360
+      CastMinerFrames_38: 1445381972509048501
+      CastMinerFrames_39: -6764449491906168919
+      CastMinerFrames_4: 1526823140027585603
+      CastMinerFrames_5: -3388287362253388943
+      CastMinerFrames_6: 693721950627696159
+      CastMinerFrames_7: -5075833882076638846
+      CastMinerFrames_8: 4262471411912926888
+      CastMinerFrames_9: 2355657994819090298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

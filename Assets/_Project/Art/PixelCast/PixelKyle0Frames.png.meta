@@ -1,0 +1,2667 @@
+fileFormatVersion: 2
+guid: 9eaef9040c7aa8c47955e00d0d3b034d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1608120504720210313
+    second: PixelKyle0Frames_0
+  - first:
+      213: -4468925715564630945
+    second: PixelKyle0Frames_1
+  - first:
+      213: -500607482962058664
+    second: PixelKyle0Frames_2
+  - first:
+      213: -831509271377110320
+    second: PixelKyle0Frames_3
+  - first:
+      213: -785273625362373670
+    second: PixelKyle0Frames_4
+  - first:
+      213: -8729442610487627991
+    second: PixelKyle0Frames_5
+  - first:
+      213: 2208245008834613962
+    second: PixelKyle0Frames_6
+  - first:
+      213: 5297033191717838468
+    second: PixelKyle0Frames_7
+  - first:
+      213: 1833106192047469660
+    second: PixelKyle0Frames_8
+  - first:
+      213: 1114352300092211133
+    second: PixelKyle0Frames_9
+  - first:
+      213: -2212144513667543867
+    second: PixelKyle0Frames_10
+  - first:
+      213: 1268042043338265013
+    second: PixelKyle0Frames_11
+  - first:
+      213: 6817622787216313346
+    second: PixelKyle0Frames_12
+  - first:
+      213: 833985199871369958
+    second: PixelKyle0Frames_13
+  - first:
+      213: -3812754648431364329
+    second: PixelKyle0Frames_14
+  - first:
+      213: -3924859885185464634
+    second: PixelKyle0Frames_15
+  - first:
+      213: 3850401505464893959
+    second: PixelKyle0Frames_16
+  - first:
+      213: -6440356898352497076
+    second: PixelKyle0Frames_17
+  - first:
+      213: 6387000281310713730
+    second: PixelKyle0Frames_18
+  - first:
+      213: -8481074228347823540
+    second: PixelKyle0Frames_19
+  - first:
+      213: 8474578009481296683
+    second: PixelKyle0Frames_20
+  - first:
+      213: -5835332386195363930
+    second: PixelKyle0Frames_21
+  - first:
+      213: 7473255778266964027
+    second: PixelKyle0Frames_22
+  - first:
+      213: 8443084562036354903
+    second: PixelKyle0Frames_23
+  - first:
+      213: -4576090509266781860
+    second: PixelKyle0Frames_24
+  - first:
+      213: 1729622071110027196
+    second: PixelKyle0Frames_25
+  - first:
+      213: -766519836531867880
+    second: PixelKyle0Frames_26
+  - first:
+      213: 1963079248886758648
+    second: PixelKyle0Frames_27
+  - first:
+      213: 5874873817339287666
+    second: PixelKyle0Frames_28
+  - first:
+      213: 6662801971522220488
+    second: PixelKyle0Frames_29
+  - first:
+      213: -7680299117545833424
+    second: PixelKyle0Frames_30
+  - first:
+      213: 2573005423644462576
+    second: PixelKyle0Frames_31
+  - first:
+      213: 4195247177460096971
+    second: PixelKyle0Frames_32
+  - first:
+      213: 2445557822104236321
+    second: PixelKyle0Frames_33
+  - first:
+      213: 2563491608438539206
+    second: PixelKyle0Frames_34
+  - first:
+      213: 170456584797356151
+    second: PixelKyle0Frames_35
+  - first:
+      213: 2833936601255395460
+    second: PixelKyle0Frames_36
+  - first:
+      213: -5043061271845807836
+    second: PixelKyle0Frames_37
+  - first:
+      213: -8863304138671195290
+    second: PixelKyle0Frames_38
+  - first:
+      213: -5447483062870672225
+    second: PixelKyle0Frames_39
+  - first:
+      213: 2527058196435456690
+    second: PixelKyle0Frames_40
+  - first:
+      213: 5069139414037156450
+    second: PixelKyle0Frames_41
+  - first:
+      213: -3198713588492598616
+    second: PixelKyle0Frames_42
+  - first:
+      213: 3203800670381087643
+    second: PixelKyle0Frames_43
+  - first:
+      213: 9078959200161727584
+    second: PixelKyle0Frames_44
+  - first:
+      213: 7301105241994892688
+    second: PixelKyle0Frames_45
+  - first:
+      213: 4570325906182922465
+    second: PixelKyle0Frames_46
+  - first:
+      213: 5348587921108228762
+    second: PixelKyle0Frames_47
+  - first:
+      213: -1393448495108632311
+    second: PixelKyle0Frames_48
+  - first:
+      213: -1359793024863623543
+    second: PixelKyle0Frames_49
+  - first:
+      213: -4777217738737765193
+    second: PixelKyle0Frames_50
+  - first:
+      213: -4615563935376481336
+    second: PixelKyle0Frames_51
+  - first:
+      213: 2640923551035396812
+    second: PixelKyle0Frames_52
+  - first:
+      213: -442091067905817397
+    second: PixelKyle0Frames_53
+  - first:
+      213: -2014910326963134442
+    second: PixelKyle0Frames_54
+  - first:
+      213: -7329716053420867920
+    second: PixelKyle0Frames_55
+  - first:
+      213: -8458604910407745152
+    second: PixelKyle0Frames_56
+  - first:
+      213: -2628249332323371072
+    second: PixelKyle0Frames_57
+  - first:
+      213: 2230428766189984252
+    second: PixelKyle0Frames_58
+  - first:
+      213: -8881967570638494764
+    second: PixelKyle0Frames_59
+  - first:
+      213: 98738160250914793
+    second: PixelKyle0Frames_60
+  - first:
+      213: -1820234340972905484
+    second: PixelKyle0Frames_61
+  - first:
+      213: 3637302329840168642
+    second: PixelKyle0Frames_62
+  - first:
+      213: 4322542659413193398
+    second: PixelKyle0Frames_63
+  - first:
+      213: 4515817051595694807
+    second: PixelKyle0Frames_64
+  - first:
+      213: 116373638640336734
+    second: PixelKyle0Frames_65
+  - first:
+      213: -3271146666619999770
+    second: PixelKyle0Frames_66
+  - first:
+      213: -6509659284180378290
+    second: PixelKyle0Frames_67
+  - first:
+      213: -6151698720577092645
+    second: PixelKyle0Frames_68
+  - first:
+      213: 5571880407820681837
+    second: PixelKyle0Frames_69
+  - first:
+      213: 4681642497491297737
+    second: PixelKyle0Frames_70
+  - first:
+      213: 1962763439961275856
+    second: PixelKyle0Frames_71
+  - first:
+      213: -5860593130784277968
+    second: PixelKyle0Frames_72
+  - first:
+      213: -3559844498899875169
+    second: PixelKyle0Frames_73
+  - first:
+      213: -4665826466375581162
+    second: PixelKyle0Frames_74
+  - first:
+      213: 3811122341743397220
+    second: PixelKyle0Frames_75
+  - first:
+      213: 1087632576839777477
+    second: PixelKyle0Frames_76
+  - first:
+      213: 5822098466446734357
+    second: PixelKyle0Frames_77
+  - first:
+      213: 8231399260694859070
+    second: PixelKyle0Frames_78
+  - first:
+      213: -5544370096176839781
+    second: PixelKyle0Frames_79
+  - first:
+      213: 3891139731064209742
+    second: PixelKyle0Frames_80
+  - first:
+      213: -1060726970603120583
+    second: PixelKyle0Frames_81
+  - first:
+      213: -1515412471774300503
+    second: PixelKyle0Frames_82
+  - first:
+      213: 8329076542346900316
+    second: PixelKyle0Frames_83
+  - first:
+      213: -1187373499478058675
+    second: PixelKyle0Frames_84
+  - first:
+      213: -8438937133610630064
+    second: PixelKyle0Frames_85
+  - first:
+      213: 1025257061939615846
+    second: PixelKyle0Frames_86
+  - first:
+      213: 4623777925782340738
+    second: PixelKyle0Frames_87
+  - first:
+      213: 4611148297708959348
+    second: PixelKyle0Frames_88
+  - first:
+      213: -2506474479016048
+    second: PixelKyle0Frames_89
+  - first:
+      213: -868000098319907977
+    second: PixelKyle0Frames_90
+  - first:
+      213: -549563737339464065
+    second: PixelKyle0Frames_91
+  - first:
+      213: 7415347725113518216
+    second: PixelKyle0Frames_92
+  - first:
+      213: 1814897515035885676
+    second: PixelKyle0Frames_93
+  - first:
+      213: 7785112137347623726
+    second: PixelKyle0Frames_94
+  - first:
+      213: -9205850474353831945
+    second: PixelKyle0Frames_95
+  - first:
+      213: -3823725246186423773
+    second: PixelKyle0Frames_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelKyle0Frames_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1246
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7764120dbeecea9e0800000000000000
+      internalID: -1608120504720210313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1246
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c69243dbf2bf1c0800000000000000
+      internalID: -4468925715564630945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1246
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e426852c7d09f0800000000000000
+      internalID: -500607482962058664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1246
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9f1429b2e574f0800000000000000
+      internalID: -831509271377110320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1246
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3eacc5cc52a15f0800000000000000
+      internalID: -785273625362373670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1246
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe9b2423acad680800000000000000
+      internalID: -8729442610487627991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_6
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1246
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2dd90c22345ae10800000000000000
+      internalID: 2208245008834613962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1246
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e9bcb7f97d28940800000000000000
+      internalID: 5297033191717838468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1134
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54fe849e50807910800000000000000
+      internalID: 1833106192047469660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1134
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfb2a94389f67f00800000000000000
+      internalID: 1114352300092211133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1134
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc44070942ec41e0800000000000000
+      internalID: -2212144513667543867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1134
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11071258df89110800000000000000
+      internalID: 1268042043338265013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1134
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c03acbdcf0d9e50800000000000000
+      internalID: 6817622787216313346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_13
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1134
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22442ee19e29b00800000000000000
+      internalID: 833985199871369958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1134
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717778c19df561bc0800000000000000
+      internalID: -3812754648431364329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_15
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1134
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6075eaab81889c0800000000000000
+      internalID: -3924859885185464634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1022
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024dd7d4cf5f6530800000000000000
+      internalID: 3850401505464893959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1022
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e76fef5814f96a0800000000000000
+      internalID: -6440356898352497076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1022
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28758d38aee23a850800000000000000
+      internalID: 6387000281310713730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1022
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a9b998ceb2d4a80800000000000000
+      internalID: -8481074228347823540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1022
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3874accfbb9570800000000000000
+      internalID: 8474578009481296683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1022
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72e769c1cb40fa0800000000000000
+      internalID: -5835332386195363930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_22
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1022
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30ec3b098656b760800000000000000
+      internalID: 7473255778266964027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_23
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1022
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe2c00dacdb2570800000000000000
+      internalID: 8443084562036354903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59fd1f4de57e70c0800000000000000
+      internalID: -4576090509266781860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 910
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb740381c1ad00810800000000000000
+      internalID: 1729622071110027196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 910
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3a361546cc55f0800000000000000
+      internalID: -766519836531867880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 910
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf5df0d224e3b10800000000000000
+      internalID: 1963079248886758648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 910
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27850c64c9eb78150800000000000000
+      internalID: 5874873817339287666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_29
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 910
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ba519717077c50800000000000000
+      internalID: 6662801971522220488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 910
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c3fe105a81a6590800000000000000
+      internalID: -7680299117545833424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_31
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 910
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd4b79ecc625b320800000000000000
+      internalID: 2573005423644462576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 798
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf187d9413883a30800000000000000
+      internalID: 4195247177460096971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 798
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217330d1ed50f120800000000000000
+      internalID: 2445557822104236321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 798
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38ca1390a539320800000000000000
+      internalID: 2563491608438539206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_35
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 798
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770097a5c559d5200800000000000000
+      internalID: 170456584797356151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_36
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 798
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4804ec1f25a245720800000000000000
+      internalID: 2833936601255395460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_37
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 798
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d9171e72730ab0800000000000000
+      internalID: -5043061271845807836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_38
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 798
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bf04e78d73ff480800000000000000
+      internalID: -8863304138671195290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_39
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 798
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf2ad2407a664b0800000000000000
+      internalID: -5447483062870672225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 686
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2564d6a0ae11320800000000000000
+      internalID: 2527058196435456690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 686
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262dd9a8073395640800000000000000
+      internalID: 5069139414037156450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 686
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a20fa350f2eb93d0800000000000000
+      internalID: -3198713588492598616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_43
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 686
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b19393cbf267c20800000000000000
+      internalID: 3203800670381087643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_44
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 686
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06487e74a41fefd70800000000000000
+      internalID: 9078959200161727584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_45
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 686
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09519d0e88cb25560800000000000000
+      internalID: 7301105241994892688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_46
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 686
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06cc1723f0d6f30800000000000000
+      internalID: 4570325906182922465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_47
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 686
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad99f40600a3a40800000000000000
+      internalID: 5348587921108228762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 574
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9015f3cf9f979ace0800000000000000
+      internalID: -1393448495108632311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 574
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98623f8c27b012de0800000000000000
+      internalID: -1359793024863623543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 574
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b437d307c9e3bdb0800000000000000
+      internalID: -4777217738737765193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e7c91e0932ffb0800000000000000
+      internalID: -4615563935376481336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_52
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 574
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc29d6a3af176a420800000000000000
+      internalID: 2640923551035396812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_53
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 574
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c91b14806dd9f0800000000000000
+      internalID: -442091067905817397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_54
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 574
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610a81babb99904e0800000000000000
+      internalID: -2014910326963134442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_55
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 574
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0befe5b751e974a90800000000000000
+      internalID: -7329716053420867920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 462
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08185cb46affc9a80800000000000000
+      internalID: -8458604910407745152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c735b54825968bd0800000000000000
+      internalID: -2628249332323371072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 462
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91191452314fe10800000000000000
+      internalID: 2230428766189984252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 462
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ad8d9d89ecb480800000000000000
+      internalID: -8881967570638494764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_60
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 462
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7088765d9ce5100800000000000000
+      internalID: 98738160250914793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_61
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 462
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb75ac28a3db6e0800000000000000
+      internalID: -1820234340972905484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_62
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 462
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee2de923b4a7230800000000000000
+      internalID: 3637302329840168642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_63
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 462
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2bbcc95a1ccfb30800000000000000
+      internalID: 4322542659413193398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_64
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 462
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2630fbea76bae30800000000000000
+      internalID: 4515817051595694807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 350
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f706035317d9100800000000000000
+      internalID: 116373638640336734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 350
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e969ef107d8a92d0800000000000000
+      internalID: -3271146666619999770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 350
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dda95ee5b09a5a0800000000000000
+      internalID: -6509659284180378290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_68
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 350
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd307c25b96c0aaa0800000000000000
+      internalID: -6151698720577092645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 350
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d624c17b5bb435d40800000000000000
+      internalID: 5571880407820681837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_70
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 350
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5675c0c0988f040800000000000000
+      internalID: 4681642497491297737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_71
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 350
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf30113f22d3b10800000000000000
+      internalID: 1962763439961275856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_72
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 350
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a328a299dfaaea0800000000000000
+      internalID: -5860593130784277968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 238
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac1730a44e89ec0800000000000000
+      internalID: -3559844498899875169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124118ac87af3fb0800000000000000
+      internalID: -4665826466375581162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_75
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 238
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698b2fd393d3e430800000000000000
+      internalID: 3811122341743397220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_76
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 238
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc7dace01c081f00800000000000000
+      internalID: 1087632576839777477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_77
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 238
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51477eb55bf3cc050800000000000000
+      internalID: 5822098466446734357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_78
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 238
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d412a040ecb3270800000000000000
+      internalID: 8231399260694859070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_79
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 238
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c41ad5c07e03b0800000000000000
+      internalID: -5544370096176839781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_80
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 238
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41cd7128fa100630800000000000000
+      internalID: 3891139731064209742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9385681b07a8741f0800000000000000
+      internalID: -1060726970603120583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_82
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a632bbc26c28fae0800000000000000
+      internalID: -1515412471774300503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_83
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 126
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5330a56cf2d69370800000000000000
+      internalID: 8329076542346900316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 126
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d5ebd71a958fe0800000000000000
+      internalID: -1187373499478058675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 126
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054094d636fd2ea80800000000000000
+      internalID: -8438937133610630064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_86
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 126
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6681f54add17a3e00800000000000000
+      internalID: 1025257061939615846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_87
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 126
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2848c829685fa2040800000000000000
+      internalID: 4623777925782340738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_88
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 126
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f69322f61eff30800000000000000
+      internalID: 4611148297708959348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0972a0fef5817fff0800000000000000
+      internalID: -2506474479016048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 14
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77343aa628e34f3f0800000000000000
+      internalID: -868000098319907977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_91
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 14
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f17e41be8f58f0800000000000000
+      internalID: -549563737339464065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_92
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 14
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886461c77b98e660800000000000000
+      internalID: 7415347725113518216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_93
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 14
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6004779cafcf2910800000000000000
+      internalID: 1814897515035885676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_94
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 14
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bef2bdd364a0c60800000000000000
+      internalID: 7785112137347623726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_95
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 14
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff47cca4cf3e3080800000000000000
+      internalID: -9205850474353831945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyle0Frames_96
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 14
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7d56c5266feac0800000000000000
+      internalID: -3823725246186423773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelKyle0Frames_0: -1608120504720210313
+      PixelKyle0Frames_1: -4468925715564630945
+      PixelKyle0Frames_10: -2212144513667543867
+      PixelKyle0Frames_11: 1268042043338265013
+      PixelKyle0Frames_12: 6817622787216313346
+      PixelKyle0Frames_13: 833985199871369958
+      PixelKyle0Frames_14: -3812754648431364329
+      PixelKyle0Frames_15: -3924859885185464634
+      PixelKyle0Frames_16: 3850401505464893959
+      PixelKyle0Frames_17: -6440356898352497076
+      PixelKyle0Frames_18: 6387000281310713730
+      PixelKyle0Frames_19: -8481074228347823540
+      PixelKyle0Frames_2: -500607482962058664
+      PixelKyle0Frames_20: 8474578009481296683
+      PixelKyle0Frames_21: -5835332386195363930
+      PixelKyle0Frames_22: 7473255778266964027
+      PixelKyle0Frames_23: 8443084562036354903
+      PixelKyle0Frames_24: -4576090509266781860
+      PixelKyle0Frames_25: 1729622071110027196
+      PixelKyle0Frames_26: -766519836531867880
+      PixelKyle0Frames_27: 1963079248886758648
+      PixelKyle0Frames_28: 5874873817339287666
+      PixelKyle0Frames_29: 6662801971522220488
+      PixelKyle0Frames_3: -831509271377110320
+      PixelKyle0Frames_30: -7680299117545833424
+      PixelKyle0Frames_31: 2573005423644462576
+      PixelKyle0Frames_32: 4195247177460096971
+      PixelKyle0Frames_33: 2445557822104236321
+      PixelKyle0Frames_34: 2563491608438539206
+      PixelKyle0Frames_35: 170456584797356151
+      PixelKyle0Frames_36: 2833936601255395460
+      PixelKyle0Frames_37: -5043061271845807836
+      PixelKyle0Frames_38: -8863304138671195290
+      PixelKyle0Frames_39: -5447483062870672225
+      PixelKyle0Frames_4: -785273625362373670
+      PixelKyle0Frames_40: 2527058196435456690
+      PixelKyle0Frames_41: 5069139414037156450
+      PixelKyle0Frames_42: -3198713588492598616
+      PixelKyle0Frames_43: 3203800670381087643
+      PixelKyle0Frames_44: 9078959200161727584
+      PixelKyle0Frames_45: 7301105241994892688
+      PixelKyle0Frames_46: 4570325906182922465
+      PixelKyle0Frames_47: 5348587921108228762
+      PixelKyle0Frames_48: -1393448495108632311
+      PixelKyle0Frames_49: -1359793024863623543
+      PixelKyle0Frames_5: -8729442610487627991
+      PixelKyle0Frames_50: -4777217738737765193
+      PixelKyle0Frames_51: -4615563935376481336
+      PixelKyle0Frames_52: 2640923551035396812
+      PixelKyle0Frames_53: -442091067905817397
+      PixelKyle0Frames_54: -2014910326963134442
+      PixelKyle0Frames_55: -7329716053420867920
+      PixelKyle0Frames_56: -8458604910407745152
+      PixelKyle0Frames_57: -2628249332323371072
+      PixelKyle0Frames_58: 2230428766189984252
+      PixelKyle0Frames_59: -8881967570638494764
+      PixelKyle0Frames_6: 2208245008834613962
+      PixelKyle0Frames_60: 98738160250914793
+      PixelKyle0Frames_61: -1820234340972905484
+      PixelKyle0Frames_62: 3637302329840168642
+      PixelKyle0Frames_63: 4322542659413193398
+      PixelKyle0Frames_64: 4515817051595694807
+      PixelKyle0Frames_65: 116373638640336734
+      PixelKyle0Frames_66: -3271146666619999770
+      PixelKyle0Frames_67: -6509659284180378290
+      PixelKyle0Frames_68: -6151698720577092645
+      PixelKyle0Frames_69: 5571880407820681837
+      PixelKyle0Frames_7: 5297033191717838468
+      PixelKyle0Frames_70: 4681642497491297737
+      PixelKyle0Frames_71: 1962763439961275856
+      PixelKyle0Frames_72: -5860593130784277968
+      PixelKyle0Frames_73: -3559844498899875169
+      PixelKyle0Frames_74: -4665826466375581162
+      PixelKyle0Frames_75: 3811122341743397220
+      PixelKyle0Frames_76: 1087632576839777477
+      PixelKyle0Frames_77: 5822098466446734357
+      PixelKyle0Frames_78: 8231399260694859070
+      PixelKyle0Frames_79: -5544370096176839781
+      PixelKyle0Frames_8: 1833106192047469660
+      PixelKyle0Frames_80: 3891139731064209742
+      PixelKyle0Frames_81: -1060726970603120583
+      PixelKyle0Frames_82: -1515412471774300503
+      PixelKyle0Frames_83: 8329076542346900316
+      PixelKyle0Frames_84: -1187373499478058675
+      PixelKyle0Frames_85: -8438937133610630064
+      PixelKyle0Frames_86: 1025257061939615846
+      PixelKyle0Frames_87: 4623777925782340738
+      PixelKyle0Frames_88: 4611148297708959348
+      PixelKyle0Frames_89: -2506474479016048
+      PixelKyle0Frames_9: 1114352300092211133
+      PixelKyle0Frames_90: -868000098319907977
+      PixelKyle0Frames_91: -549563737339464065
+      PixelKyle0Frames_92: 7415347725113518216
+      PixelKyle0Frames_93: 1814897515035885676
+      PixelKyle0Frames_94: 7785112137347623726
+      PixelKyle0Frames_95: -9205850474353831945
+      PixelKyle0Frames_96: -3823725246186423773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 2
+  assetBundleName: 
+  assetBundleVariant: 

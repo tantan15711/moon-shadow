@@ -1,0 +1,3473 @@
+fileFormatVersion: 2
+guid: c5005c29a6d15bc458c42b627e41bd48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8571697170556572510
+    second: PixelKyleDusterBroadFrames_0
+  - first:
+      213: 3462389728883328491
+    second: PixelKyleDusterBroadFrames_1
+  - first:
+      213: 9113820353824490586
+    second: PixelKyleDusterBroadFrames_2
+  - first:
+      213: 4205874750368774027
+    second: PixelKyleDusterBroadFrames_3
+  - first:
+      213: -6954625578054596655
+    second: PixelKyleDusterBroadFrames_4
+  - first:
+      213: -4167273583952038082
+    second: PixelKyleDusterBroadFrames_5
+  - first:
+      213: -6616600087988722085
+    second: PixelKyleDusterBroadFrames_6
+  - first:
+      213: -6624447466368128479
+    second: PixelKyleDusterBroadFrames_7
+  - first:
+      213: 1876940471479553676
+    second: PixelKyleDusterBroadFrames_8
+  - first:
+      213: -2235160117219367947
+    second: PixelKyleDusterBroadFrames_9
+  - first:
+      213: 407107390785105875
+    second: PixelKyleDusterBroadFrames_10
+  - first:
+      213: 2756158176107928294
+    second: PixelKyleDusterBroadFrames_11
+  - first:
+      213: -3172473720396554136
+    second: PixelKyleDusterBroadFrames_12
+  - first:
+      213: 3637297403198871662
+    second: PixelKyleDusterBroadFrames_13
+  - first:
+      213: -118289510902443565
+    second: PixelKyleDusterBroadFrames_14
+  - first:
+      213: 7024562580096196861
+    second: PixelKyleDusterBroadFrames_15
+  - first:
+      213: -3519347315626640799
+    second: PixelKyleDusterBroadFrames_16
+  - first:
+      213: -3116035301882001152
+    second: PixelKyleDusterBroadFrames_17
+  - first:
+      213: -1686198540367694129
+    second: PixelKyleDusterBroadFrames_18
+  - first:
+      213: 7234195554604022585
+    second: PixelKyleDusterBroadFrames_19
+  - first:
+      213: -2894827448110161512
+    second: PixelKyleDusterBroadFrames_20
+  - first:
+      213: -3719507249268323029
+    second: PixelKyleDusterBroadFrames_21
+  - first:
+      213: -7239011973749866073
+    second: PixelKyleDusterBroadFrames_22
+  - first:
+      213: -3346924017455571336
+    second: PixelKyleDusterBroadFrames_23
+  - first:
+      213: -2763792775792438150
+    second: PixelKyleDusterBroadFrames_24
+  - first:
+      213: 8315878715125006068
+    second: PixelKyleDusterBroadFrames_25
+  - first:
+      213: -4787866621647774649
+    second: PixelKyleDusterBroadFrames_26
+  - first:
+      213: -3353002151523229822
+    second: PixelKyleDusterBroadFrames_27
+  - first:
+      213: 2155833817025781703
+    second: PixelKyleDusterBroadFrames_28
+  - first:
+      213: -141417599688774322
+    second: PixelKyleDusterBroadFrames_29
+  - first:
+      213: 6878030578449757190
+    second: PixelKyleDusterBroadFrames_30
+  - first:
+      213: 6092017614913116967
+    second: PixelKyleDusterBroadFrames_31
+  - first:
+      213: 5054026207158885696
+    second: PixelKyleDusterBroadFrames_32
+  - first:
+      213: 5664182899700003787
+    second: PixelKyleDusterBroadFrames_33
+  - first:
+      213: 8216489475961722207
+    second: PixelKyleDusterBroadFrames_34
+  - first:
+      213: -7980369438490023747
+    second: PixelKyleDusterBroadFrames_35
+  - first:
+      213: 3449575023121184051
+    second: PixelKyleDusterBroadFrames_36
+  - first:
+      213: -4394890246436684676
+    second: PixelKyleDusterBroadFrames_37
+  - first:
+      213: -6485702097301215313
+    second: PixelKyleDusterBroadFrames_38
+  - first:
+      213: 494989198647043391
+    second: PixelKyleDusterBroadFrames_39
+  - first:
+      213: 6178087887430033773
+    second: PixelKyleDusterBroadFrames_40
+  - first:
+      213: -2362569663598366724
+    second: PixelKyleDusterBroadFrames_41
+  - first:
+      213: -8714813935933139577
+    second: PixelKyleDusterBroadFrames_42
+  - first:
+      213: -1620305504522683307
+    second: PixelKyleDusterBroadFrames_43
+  - first:
+      213: 3782573623362923723
+    second: PixelKyleDusterBroadFrames_44
+  - first:
+      213: -8974856732584747943
+    second: PixelKyleDusterBroadFrames_45
+  - first:
+      213: 9170912873467556977
+    second: PixelKyleDusterBroadFrames_46
+  - first:
+      213: -3427858013611371274
+    second: PixelKyleDusterBroadFrames_47
+  - first:
+      213: 5653195471903632356
+    second: PixelKyleDusterBroadFrames_48
+  - first:
+      213: 2299187018524103688
+    second: PixelKyleDusterBroadFrames_49
+  - first:
+      213: -6217437275376207843
+    second: PixelKyleDusterBroadFrames_50
+  - first:
+      213: 5137062588657917295
+    second: PixelKyleDusterBroadFrames_51
+  - first:
+      213: -7365994810895124999
+    second: PixelKyleDusterBroadFrames_52
+  - first:
+      213: 2972039007212608292
+    second: PixelKyleDusterBroadFrames_53
+  - first:
+      213: -1618097103858977527
+    second: PixelKyleDusterBroadFrames_54
+  - first:
+      213: 5821819128058738177
+    second: PixelKyleDusterBroadFrames_55
+  - first:
+      213: -5572516193163664534
+    second: PixelKyleDusterBroadFrames_56
+  - first:
+      213: 5637510398392713166
+    second: PixelKyleDusterBroadFrames_57
+  - first:
+      213: 5410062465290994662
+    second: PixelKyleDusterBroadFrames_58
+  - first:
+      213: 5324692764398305761
+    second: PixelKyleDusterBroadFrames_59
+  - first:
+      213: -4562434504685788026
+    second: PixelKyleDusterBroadFrames_60
+  - first:
+      213: -6076386595120072090
+    second: PixelKyleDusterBroadFrames_61
+  - first:
+      213: 7912549444020918204
+    second: PixelKyleDusterBroadFrames_62
+  - first:
+      213: 8175785134637134589
+    second: PixelKyleDusterBroadFrames_63
+  - first:
+      213: 7613115165705304134
+    second: PixelKyleDusterBroadFrames_64
+  - first:
+      213: 6510739795585453986
+    second: PixelKyleDusterBroadFrames_65
+  - first:
+      213: 8739356004206157148
+    second: PixelKyleDusterBroadFrames_66
+  - first:
+      213: 2248749689621905044
+    second: PixelKyleDusterBroadFrames_67
+  - first:
+      213: -1848672864970502054
+    second: PixelKyleDusterBroadFrames_68
+  - first:
+      213: 789163741261635435
+    second: PixelKyleDusterBroadFrames_69
+  - first:
+      213: 5626960928558074928
+    second: PixelKyleDusterBroadFrames_70
+  - first:
+      213: -533183039240665674
+    second: PixelKyleDusterBroadFrames_71
+  - first:
+      213: -6349727389565300278
+    second: PixelKyleDusterBroadFrames_72
+  - first:
+      213: 4286681904858947246
+    second: PixelKyleDusterBroadFrames_73
+  - first:
+      213: -90543586010631068
+    second: PixelKyleDusterBroadFrames_74
+  - first:
+      213: -5037180100101225031
+    second: PixelKyleDusterBroadFrames_75
+  - first:
+      213: 6079131066142211801
+    second: PixelKyleDusterBroadFrames_76
+  - first:
+      213: -919979256896289021
+    second: PixelKyleDusterBroadFrames_77
+  - first:
+      213: 8581972128237045375
+    second: PixelKyleDusterBroadFrames_78
+  - first:
+      213: 634731828120558861
+    second: PixelKyleDusterBroadFrames_79
+  - first:
+      213: -8338000766778689179
+    second: PixelKyleDusterBroadFrames_80
+  - first:
+      213: 2520186398398148204
+    second: PixelKyleDusterBroadFrames_81
+  - first:
+      213: -550160530668124026
+    second: PixelKyleDusterBroadFrames_82
+  - first:
+      213: 3910089332508469338
+    second: PixelKyleDusterBroadFrames_83
+  - first:
+      213: -3910093719347329483
+    second: PixelKyleDusterBroadFrames_84
+  - first:
+      213: -8494694312344881075
+    second: PixelKyleDusterBroadFrames_85
+  - first:
+      213: 5666410186794339399
+    second: PixelKyleDusterBroadFrames_86
+  - first:
+      213: 9057700105450513788
+    second: PixelKyleDusterBroadFrames_87
+  - first:
+      213: 8961504677392076004
+    second: PixelKyleDusterBroadFrames_88
+  - first:
+      213: -1318943421289649428
+    second: PixelKyleDusterBroadFrames_89
+  - first:
+      213: 2577674467458268677
+    second: PixelKyleDusterBroadFrames_90
+  - first:
+      213: -1586126963041216628
+    second: PixelKyleDusterBroadFrames_91
+  - first:
+      213: 506270195870087365
+    second: PixelKyleDusterBroadFrames_92
+  - first:
+      213: -192823866423142418
+    second: PixelKyleDusterBroadFrames_93
+  - first:
+      213: 1925704607332154485
+    second: PixelKyleDusterBroadFrames_94
+  - first:
+      213: 6998626404618555536
+    second: PixelKyleDusterBroadFrames_95
+  - first:
+      213: -1984911500447737206
+    second: PixelKyleDusterBroadFrames_96
+  - first:
+      213: 8201165595575092892
+    second: PixelKyleDusterBroadFrames_97
+  - first:
+      213: -8751998559028760381
+    second: PixelKyleDusterBroadFrames_98
+  - first:
+      213: -8222580497670332467
+    second: PixelKyleDusterBroadFrames_99
+  - first:
+      213: 4965932740695796023
+    second: PixelKyleDusterBroadFrames_100
+  - first:
+      213: 283319971856033173
+    second: PixelKyleDusterBroadFrames_101
+  - first:
+      213: -1969419699999181341
+    second: PixelKyleDusterBroadFrames_102
+  - first:
+      213: 4221572462456565917
+    second: PixelKyleDusterBroadFrames_103
+  - first:
+      213: -3542725330633104580
+    second: PixelKyleDusterBroadFrames_104
+  - first:
+      213: 4738419139362292055
+    second: PixelKyleDusterBroadFrames_105
+  - first:
+      213: -5473938151561241776
+    second: PixelKyleDusterBroadFrames_106
+  - first:
+      213: -8078127527651013083
+    second: PixelKyleDusterBroadFrames_107
+  - first:
+      213: 2936250755594257980
+    second: PixelKyleDusterBroadFrames_108
+  - first:
+      213: -7054212076963336927
+    second: PixelKyleDusterBroadFrames_109
+  - first:
+      213: 8193695112211644769
+    second: PixelKyleDusterBroadFrames_110
+  - first:
+      213: 4252252165016057534
+    second: PixelKyleDusterBroadFrames_111
+  - first:
+      213: 8493623764815620941
+    second: PixelKyleDusterBroadFrames_112
+  - first:
+      213: -1322998832618703188
+    second: PixelKyleDusterBroadFrames_113
+  - first:
+      213: -1546389819310245395
+    second: PixelKyleDusterBroadFrames_114
+  - first:
+      213: -5295506370035059046
+    second: PixelKyleDusterBroadFrames_115
+  - first:
+      213: -5628685087344091352
+    second: PixelKyleDusterBroadFrames_116
+  - first:
+      213: 1676664244604531807
+    second: PixelKyleDusterBroadFrames_117
+  - first:
+      213: 1592389939283048338
+    second: PixelKyleDusterBroadFrames_118
+  - first:
+      213: 5516662435775540118
+    second: PixelKyleDusterBroadFrames_119
+  - first:
+      213: 5349289914939731563
+    second: PixelKyleDusterBroadFrames_120
+  - first:
+      213: 2873407881858599458
+    second: PixelKyleDusterBroadFrames_121
+  - first:
+      213: 472725339745336691
+    second: PixelKyleDusterBroadFrames_122
+  - first:
+      213: 3840132180811086304
+    second: PixelKyleDusterBroadFrames_123
+  - first:
+      213: 6854271805935879466
+    second: PixelKyleDusterBroadFrames_124
+  - first:
+      213: 3219950426452328875
+    second: PixelKyleDusterBroadFrames_125
+  - first:
+      213: 1956203249421798439
+    second: PixelKyleDusterBroadFrames_126
+  - first:
+      213: -9150698936951546420
+    second: PixelKyleDusterBroadFrames_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1694
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac21c296d63b0980800000000000000
+      internalID: -8571697170556572510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1694
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be54d082d11ec0030800000000000000
+      internalID: 3462389728883328491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1694
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540f60235bca7e70800000000000000
+      internalID: 9113820353824490586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1694
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f3814dc44e5a30800000000000000
+      internalID: 4205874750368774027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1694
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c53a42e43c7f90800000000000000
+      internalID: -6954625578054596655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1694
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e377baa21ceda26c0800000000000000
+      internalID: -4167273583952038082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1694
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562d96b64d1d24a0800000000000000
+      internalID: -6616600087988722085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1694
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a24ed802c3114a0800000000000000
+      internalID: -6624447466368128479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1582
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec7131a6b3c0a10800000000000000
+      internalID: 1876940471479553676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1582
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e40d37bd1bf0e0800000000000000
+      internalID: -2235160117219367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1582
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfae25d30656a500800000000000000
+      internalID: 407107390785105875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1582
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea93b72247df3620800000000000000
+      internalID: 2756158176107928294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1582
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606084b5fb19f3d0800000000000000
+      internalID: -3172473720396554136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1582
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689e1c87b64a7230800000000000000
+      internalID: 3637297403198871662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1582
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1510a0150cb5ef0800000000000000
+      internalID: -118289510902443565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1582
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a229e2724c7160800000000000000
+      internalID: 7024562580096196861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1470
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a79d24344c82fc0800000000000000
+      internalID: -3519347315626640799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0090fb3076e91c4d0800000000000000
+      internalID: -3116035301882001152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f9948c5b6998e0800000000000000
+      internalID: -1686198540367694129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf1eb4786056460800000000000000
+      internalID: 7234195554604022585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_20
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e75df5c183d7d0800000000000000
+      internalID: -2894827448110161512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0fd31dd7a16cc0800000000000000
+      internalID: -3719507249268323029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1470
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a107dbb6fcd98b90800000000000000
+      internalID: -7239011973749866073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1470
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5651c6565d81d0800000000000000
+      internalID: -3346924017455571336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1358
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d9161d1905a9d0800000000000000
+      internalID: -2763792775792438150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1358
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef14ac1afe76370800000000000000
+      internalID: 8315878715125006068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1358
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1cb0cca41e8db0800000000000000
+      internalID: -4787866621647774649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_27
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1358
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5653ee4eb771d0800000000000000
+      internalID: -3353002151523229822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1358
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf989a3f6f0bed10800000000000000
+      internalID: 2155833817025781703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_29
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1358
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4def8d3175990ef0800000000000000
+      internalID: -141417599688774322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1358
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604b5c6ae5ca37f50800000000000000
+      internalID: 6878030578449757190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1358
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b915e6eb13b8450800000000000000
+      internalID: 6092017614913116967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1246
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d583bde02832640800000000000000
+      internalID: 5054026207158885696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1246
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f57f46583b9e40800000000000000
+      internalID: 5664182899700003787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1246
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f551f6345a5d60270800000000000000
+      internalID: 8216489475961722207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1246
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82b6a0748004190800000000000000
+      internalID: -7980369438490023747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_36
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1246
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335b237f43a5fdf20800000000000000
+      internalID: 3449575023121184051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_37
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1246
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cff422b963203c0800000000000000
+      internalID: -4394890246436684676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1246
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ea532e482ef5a0800000000000000
+      internalID: -6485702097301215313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1246
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352309bd0e8ed600800000000000000
+      internalID: 494989198647043391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1134
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612961633afcb550800000000000000
+      internalID: 6178087887430033773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1134
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffea1c8867763fd0800000000000000
+      internalID: -2362569663598366724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1134
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d419f5e2ce0780800000000000000
+      internalID: -8714813935933139577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_43
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1134
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb0577ab48389e0800000000000000
+      internalID: -1620305504522683307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1134
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2f456ba66e7430800000000000000
+      internalID: 3782573623362923723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_45
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1134
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c53404a57e27380800000000000000
+      internalID: -8974856732584747943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_46
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1134
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17437193ba0a54f70800000000000000
+      internalID: 9170912873467556977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1134
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4d7365c4dcd60d0800000000000000
+      internalID: -3427858013611371274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1022
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba9ac645f247e40800000000000000
+      internalID: 5653195471903632356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1022
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8049157696a58ef10800000000000000
+      internalID: 2299187018524103688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1022
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18bdeb4db937b9a0800000000000000
+      internalID: -6217437275376207843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1022
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d57e105338a4740800000000000000
+      internalID: 5137062588657917295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_52
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1022
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b9370fbab6c990800000000000000
+      internalID: -7365994810895124999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_53
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1022
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b13830bbdce3920800000000000000
+      internalID: 2972039007212608292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_54
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1022
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b560d14d5b89e0800000000000000
+      internalID: -1618097103858977527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_55
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1022
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106f382d6a14bc050800000000000000
+      internalID: 5821819128058738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 910
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a632e59fb027aa2b0800000000000000
+      internalID: -5572516193163664534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 910
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb4c9a6d57c3e40800000000000000
+      internalID: 5637510398392713166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 910
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e308500627641b40800000000000000
+      internalID: 5410062465290994662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_59
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 910
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1cd089bdb15e940800000000000000
+      internalID: 5324692764398305761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_60
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 910
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e735adf9fea0c0800000000000000
+      internalID: -4562434504685788026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_61
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 910
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a3ce7f5965caba0800000000000000
+      internalID: -6076386595120072090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_62
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 910
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d49efbc50fcd60800000000000000
+      internalID: 7912549444020918204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_63
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 910
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df237f54349367170800000000000000
+      internalID: 8175785134637134589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 798
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f00e38e737a960800000000000000
+      internalID: 7613115165705304134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afced4495bca5a50800000000000000
+      internalID: 6510739795585453986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_66
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d92649bfd684970800000000000000
+      internalID: 8739356004206157148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49efea6ade9253f10800000000000000
+      internalID: 2248749689621905044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_68
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509781f2d13856e0800000000000000
+      internalID: -1848672864970502054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_69
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9483dd3ca3fa00800000000000000
+      internalID: 789163741261635435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_70
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cc4bfc62bf61e40800000000000000
+      internalID: 5626960928558074928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_71
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 798
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b50cc9c9d0c998f0800000000000000
+      internalID: -533183039240665674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 686
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1546cd49c31e7a0800000000000000
+      internalID: -6349727389565300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 686
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae563c0b7a5d7b30800000000000000
+      internalID: 4286681904858947246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_74
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 686
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464752796135ebef0800000000000000
+      internalID: -90543586010631068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_75
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 686
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5ccc71367581ab0800000000000000
+      internalID: -5037180100101225031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_76
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 686
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb27cfe796d5450800000000000000
+      internalID: 6079131066142211801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_77
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 686
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30708f77db39b33f0800000000000000
+      internalID: -919979256896289021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_78
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 686
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764fdf6e2a491770800000000000000
+      internalID: 8581972128237045375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_79
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 686
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d92c61c350fc800800000000000000
+      internalID: 634731828120558861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 574
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569b83faa78794c80800000000000000
+      internalID: -8338000766778689179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_81
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 574
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eea444d2089f220800000000000000
+      internalID: 2520186398398148204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 574
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688061889ef6d58f0800000000000000
+      internalID: -550160530668124026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 574
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582638088d634630800000000000000
+      internalID: 3910089332508469338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 574
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53601d39a7e8cb9c0800000000000000
+      internalID: -3910093719347329483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_85
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 574
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f62d9788cc1a80800000000000000
+      internalID: -8494694312344881075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_86
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 574
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c088ffa0223ae40800000000000000
+      internalID: 5666410186794339399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_87
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 574
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756563914a63bd70800000000000000
+      internalID: 9057700105450513788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 462
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc4f42609ad5c70800000000000000
+      internalID: 8961504677392076004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 462
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea213742fb22bde0800000000000000
+      internalID: -1318943421289649428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_90
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 462
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eb173654db5c320800000000000000
+      internalID: 2577674467458268677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_91
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 462
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8752474ee1fcf9e0800000000000000
+      internalID: -1586126963041216628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_92
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 462
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c834319f02a60700800000000000000
+      internalID: 506270195870087365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_93
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 462
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee791a117b3f25df0800000000000000
+      internalID: -192823866423142418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_94
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 462
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbd56332a79ba10800000000000000
+      internalID: 1925704607332154485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_95
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 462
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09055fa72ad102160800000000000000
+      internalID: 6998626404618555536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 350
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a9931c18d2474e0800000000000000
+      internalID: -1984911500447737206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_97
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 350
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96886458a460d170800000000000000
+      internalID: 8201165595575092892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_98
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 350
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c03c5e3ea7aa8680800000000000000
+      internalID: -8751998559028760381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 350
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1e4b3a9683ed80800000000000000
+      internalID: -8222580497670332467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_100
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 350
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a7ab54898ae440800000000000000
+      internalID: 4965932740695796023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_101
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 350
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a048630e8ee300800000000000000
+      internalID: 283319971856033173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_102
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 350
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e574ef97373ba4e0800000000000000
+      internalID: -1969419699999181341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_103
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 350
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907b4aa9c9069a30800000000000000
+      internalID: 4221572462456565917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 238
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e5daf416b5dec0800000000000000
+      internalID: -3542725330633104580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_105
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7510a9e1a1f32c140800000000000000
+      internalID: 4738419139362292055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_106
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 238
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bdbb9d04aa804b0800000000000000
+      internalID: -5473938151561241776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_107
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 238
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e8e0830d9b4ef80800000000000000
+      internalID: -8078127527651013083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_108
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 238
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c360baa5188afb820800000000000000
+      internalID: 2936250755594257980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_109
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 238
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d6456ad776a1e90800000000000000
+      internalID: -7054212076963336927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_110
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 238
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161ca31ea4ad5b170800000000000000
+      internalID: 8193695112211644769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_111
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 238
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6fa2f80d8030b30800000000000000
+      internalID: 4252252165016057534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_112
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba6ad10d96fd570800000000000000
+      internalID: 8493623764815620941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_113
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 126
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6718f3293c3ade0800000000000000
+      internalID: -1322998832618703188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_114
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 126
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de97bb707ae1a8ae0800000000000000
+      internalID: -1546389819310245395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_115
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 126
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96fd3463059286b0800000000000000
+      internalID: -5295506370035059046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_116
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f11503cb4e2e1b0800000000000000
+      internalID: -5628685087344091352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_117
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 126
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5470434f35b44710800000000000000
+      internalID: 1676664244604531807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_118
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 126
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2973fd2863e491610800000000000000
+      internalID: 1592389939283048338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_119
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 126
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b642eb14f1f8c40800000000000000
+      internalID: 5516662435775540118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_120
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 14
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eef8cf5de7c3a40800000000000000
+      internalID: 5349289914939731563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_121
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4dfc9e3560e720800000000000000
+      internalID: 2873407881858599458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_122
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37db8df11357f8600800000000000000
+      internalID: 472725339745336691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_123
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97acf5fd3ea4530800000000000000
+      internalID: 3840132180811086304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_124
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 14
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2588ca54e34f1f50800000000000000
+      internalID: 6854271805935879466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_125
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 14
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10f035adf8fac20800000000000000
+      internalID: 3219950426452328875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_126
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 14
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c404ead74d52b10800000000000000
+      internalID: 1956203249421798439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelKyleDusterBroadFrames_127
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 14
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd5570accf220180800000000000000
+      internalID: -9150698936951546420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelKyleDusterBroadFrames_0: -8571697170556572510
+      PixelKyleDusterBroadFrames_1: 3462389728883328491
+      PixelKyleDusterBroadFrames_10: 407107390785105875
+      PixelKyleDusterBroadFrames_100: 4965932740695796023
+      PixelKyleDusterBroadFrames_101: 283319971856033173
+      PixelKyleDusterBroadFrames_102: -1969419699999181341
+      PixelKyleDusterBroadFrames_103: 4221572462456565917
+      PixelKyleDusterBroadFrames_104: -3542725330633104580
+      PixelKyleDusterBroadFrames_105: 4738419139362292055
+      PixelKyleDusterBroadFrames_106: -5473938151561241776
+      PixelKyleDusterBroadFrames_107: -8078127527651013083
+      PixelKyleDusterBroadFrames_108: 2936250755594257980
+      PixelKyleDusterBroadFrames_109: -7054212076963336927
+      PixelKyleDusterBroadFrames_11: 2756158176107928294
+      PixelKyleDusterBroadFrames_110: 8193695112211644769
+      PixelKyleDusterBroadFrames_111: 4252252165016057534
+      PixelKyleDusterBroadFrames_112: 8493623764815620941
+      PixelKyleDusterBroadFrames_113: -1322998832618703188
+      PixelKyleDusterBroadFrames_114: -1546389819310245395
+      PixelKyleDusterBroadFrames_115: -5295506370035059046
+      PixelKyleDusterBroadFrames_116: -5628685087344091352
+      PixelKyleDusterBroadFrames_117: 1676664244604531807
+      PixelKyleDusterBroadFrames_118: 1592389939283048338
+      PixelKyleDusterBroadFrames_119: 5516662435775540118
+      PixelKyleDusterBroadFrames_12: -3172473720396554136
+      PixelKyleDusterBroadFrames_120: 5349289914939731563
+      PixelKyleDusterBroadFrames_121: 2873407881858599458
+      PixelKyleDusterBroadFrames_122: 472725339745336691
+      PixelKyleDusterBroadFrames_123: 3840132180811086304
+      PixelKyleDusterBroadFrames_124: 6854271805935879466
+      PixelKyleDusterBroadFrames_125: 3219950426452328875
+      PixelKyleDusterBroadFrames_126: 1956203249421798439
+      PixelKyleDusterBroadFrames_127: -9150698936951546420
+      PixelKyleDusterBroadFrames_13: 3637297403198871662
+      PixelKyleDusterBroadFrames_14: -118289510902443565
+      PixelKyleDusterBroadFrames_15: 7024562580096196861
+      PixelKyleDusterBroadFrames_16: -3519347315626640799
+      PixelKyleDusterBroadFrames_17: -3116035301882001152
+      PixelKyleDusterBroadFrames_18: -1686198540367694129
+      PixelKyleDusterBroadFrames_19: 7234195554604022585
+      PixelKyleDusterBroadFrames_2: 9113820353824490586
+      PixelKyleDusterBroadFrames_20: -2894827448110161512
+      PixelKyleDusterBroadFrames_21: -3719507249268323029
+      PixelKyleDusterBroadFrames_22: -7239011973749866073
+      PixelKyleDusterBroadFrames_23: -3346924017455571336
+      PixelKyleDusterBroadFrames_24: -2763792775792438150
+      PixelKyleDusterBroadFrames_25: 8315878715125006068
+      PixelKyleDusterBroadFrames_26: -4787866621647774649
+      PixelKyleDusterBroadFrames_27: -3353002151523229822
+      PixelKyleDusterBroadFrames_28: 2155833817025781703
+      PixelKyleDusterBroadFrames_29: -141417599688774322
+      PixelKyleDusterBroadFrames_3: 4205874750368774027
+      PixelKyleDusterBroadFrames_30: 6878030578449757190
+      PixelKyleDusterBroadFrames_31: 6092017614913116967
+      PixelKyleDusterBroadFrames_32: 5054026207158885696
+      PixelKyleDusterBroadFrames_33: 5664182899700003787
+      PixelKyleDusterBroadFrames_34: 8216489475961722207
+      PixelKyleDusterBroadFrames_35: -7980369438490023747
+      PixelKyleDusterBroadFrames_36: 3449575023121184051
+      PixelKyleDusterBroadFrames_37: -4394890246436684676
+      PixelKyleDusterBroadFrames_38: -6485702097301215313
+      PixelKyleDusterBroadFrames_39: 494989198647043391
+      PixelKyleDusterBroadFrames_4: -6954625578054596655
+      PixelKyleDusterBroadFrames_40: 6178087887430033773
+      PixelKyleDusterBroadFrames_41: -2362569663598366724
+      PixelKyleDusterBroadFrames_42: -8714813935933139577
+      PixelKyleDusterBroadFrames_43: -1620305504522683307
+      PixelKyleDusterBroadFrames_44: 3782573623362923723
+      PixelKyleDusterBroadFrames_45: -8974856732584747943
+      PixelKyleDusterBroadFrames_46: 9170912873467556977
+      PixelKyleDusterBroadFrames_47: -3427858013611371274
+      PixelKyleDusterBroadFrames_48: 5653195471903632356
+      PixelKyleDusterBroadFrames_49: 2299187018524103688
+      PixelKyleDusterBroadFrames_5: -4167273583952038082
+      PixelKyleDusterBroadFrames_50: -6217437275376207843
+      PixelKyleDusterBroadFrames_51: 5137062588657917295
+      PixelKyleDusterBroadFrames_52: -7365994810895124999
+      PixelKyleDusterBroadFrames_53: 2972039007212608292
+      PixelKyleDusterBroadFrames_54: -1618097103858977527
+      PixelKyleDusterBroadFrames_55: 5821819128058738177
+      PixelKyleDusterBroadFrames_56: -5572516193163664534
+      PixelKyleDusterBroadFrames_57: 5637510398392713166
+      PixelKyleDusterBroadFrames_58: 5410062465290994662
+      PixelKyleDusterBroadFrames_59: 5324692764398305761
+      PixelKyleDusterBroadFrames_6: -6616600087988722085
+      PixelKyleDusterBroadFrames_60: -4562434504685788026
+      PixelKyleDusterBroadFrames_61: -6076386595120072090
+      PixelKyleDusterBroadFrames_62: 7912549444020918204
+      PixelKyleDusterBroadFrames_63: 8175785134637134589
+      PixelKyleDusterBroadFrames_64: 7613115165705304134
+      PixelKyleDusterBroadFrames_65: 6510739795585453986
+      PixelKyleDusterBroadFrames_66: 8739356004206157148
+      PixelKyleDusterBroadFrames_67: 2248749689621905044
+      PixelKyleDusterBroadFrames_68: -1848672864970502054
+      PixelKyleDusterBroadFrames_69: 789163741261635435
+      PixelKyleDusterBroadFrames_7: -6624447466368128479
+      PixelKyleDusterBroadFrames_70: 5626960928558074928
+      PixelKyleDusterBroadFrames_71: -533183039240665674
+      PixelKyleDusterBroadFrames_72: -6349727389565300278
+      PixelKyleDusterBroadFrames_73: 4286681904858947246
+      PixelKyleDusterBroadFrames_74: -90543586010631068
+      PixelKyleDusterBroadFrames_75: -5037180100101225031
+      PixelKyleDusterBroadFrames_76: 6079131066142211801
+      PixelKyleDusterBroadFrames_77: -919979256896289021
+      PixelKyleDusterBroadFrames_78: 8581972128237045375
+      PixelKyleDusterBroadFrames_79: 634731828120558861
+      PixelKyleDusterBroadFrames_8: 1876940471479553676
+      PixelKyleDusterBroadFrames_80: -8338000766778689179
+      PixelKyleDusterBroadFrames_81: 2520186398398148204
+      PixelKyleDusterBroadFrames_82: -550160530668124026
+      PixelKyleDusterBroadFrames_83: 3910089332508469338
+      PixelKyleDusterBroadFrames_84: -3910093719347329483
+      PixelKyleDusterBroadFrames_85: -8494694312344881075
+      PixelKyleDusterBroadFrames_86: 5666410186794339399
+      PixelKyleDusterBroadFrames_87: 9057700105450513788
+      PixelKyleDusterBroadFrames_88: 8961504677392076004
+      PixelKyleDusterBroadFrames_89: -1318943421289649428
+      PixelKyleDusterBroadFrames_9: -2235160117219367947
+      PixelKyleDusterBroadFrames_90: 2577674467458268677
+      PixelKyleDusterBroadFrames_91: -1586126963041216628
+      PixelKyleDusterBroadFrames_92: 506270195870087365
+      PixelKyleDusterBroadFrames_93: -192823866423142418
+      PixelKyleDusterBroadFrames_94: 1925704607332154485
+      PixelKyleDusterBroadFrames_95: 6998626404618555536
+      PixelKyleDusterBroadFrames_96: -1984911500447737206
+      PixelKyleDusterBroadFrames_97: 8201165595575092892
+      PixelKyleDusterBroadFrames_98: -8751998559028760381
+      PixelKyleDusterBroadFrames_99: -8222580497670332467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

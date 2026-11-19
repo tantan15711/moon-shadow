@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 1364db97f3dcc484e96b947d328014ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1712378109009516011
+    second: CastVanceFrames_0
+  - first:
+      213: 5313079189432119981
+    second: CastVanceFrames_1
+  - first:
+      213: -5754493025772328691
+    second: CastVanceFrames_2
+  - first:
+      213: 5984652509441463556
+    second: CastVanceFrames_3
+  - first:
+      213: -5921751123662294891
+    second: CastVanceFrames_4
+  - first:
+      213: -8903610123864123702
+    second: CastVanceFrames_5
+  - first:
+      213: -4348776788049800588
+    second: CastVanceFrames_6
+  - first:
+      213: 7537072691451459147
+    second: CastVanceFrames_7
+  - first:
+      213: -6846830395449760876
+    second: CastVanceFrames_8
+  - first:
+      213: 5436508633489066201
+    second: CastVanceFrames_9
+  - first:
+      213: 3308050097641827835
+    second: CastVanceFrames_10
+  - first:
+      213: -5109065383608258837
+    second: CastVanceFrames_11
+  - first:
+      213: -2613980459512044453
+    second: CastVanceFrames_12
+  - first:
+      213: -2475648883979551808
+    second: CastVanceFrames_13
+  - first:
+      213: 99094216372081739
+    second: CastVanceFrames_14
+  - first:
+      213: -6041252791870807999
+    second: CastVanceFrames_15
+  - first:
+      213: -8484046789976483546
+    second: CastVanceFrames_16
+  - first:
+      213: -7700311416924062933
+    second: CastVanceFrames_17
+  - first:
+      213: -1140739187141181298
+    second: CastVanceFrames_18
+  - first:
+      213: 7477680331074662581
+    second: CastVanceFrames_19
+  - first:
+      213: -8948049580900271985
+    second: CastVanceFrames_20
+  - first:
+      213: 8704726237534316790
+    second: CastVanceFrames_21
+  - first:
+      213: -5198583032395332004
+    second: CastVanceFrames_22
+  - first:
+      213: 2448152505085851335
+    second: CastVanceFrames_23
+  - first:
+      213: 8093317486039019141
+    second: CastVanceFrames_24
+  - first:
+      213: -7165483701665343766
+    second: CastVanceFrames_25
+  - first:
+      213: -4986624254423460315
+    second: CastVanceFrames_26
+  - first:
+      213: -9096278098401141464
+    second: CastVanceFrames_27
+  - first:
+      213: -2653213129889889911
+    second: CastVanceFrames_28
+  - first:
+      213: 5753559279264865495
+    second: CastVanceFrames_29
+  - first:
+      213: -6745251887381829889
+    second: CastVanceFrames_30
+  - first:
+      213: 7875846144833825442
+    second: CastVanceFrames_31
+  - first:
+      213: 61069472042613083
+    second: CastVanceFrames_32
+  - first:
+      213: 467759595536837258
+    second: CastVanceFrames_33
+  - first:
+      213: 4593806999666216255
+    second: CastVanceFrames_34
+  - first:
+      213: -5692453795659494299
+    second: CastVanceFrames_35
+  - first:
+      213: -8331813255444658710
+    second: CastVanceFrames_36
+  - first:
+      213: 1933007017160127653
+    second: CastVanceFrames_37
+  - first:
+      213: -3438816959232121097
+    second: CastVanceFrames_38
+  - first:
+      213: 746837456724524737
+    second: CastVanceFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastVanceFrames_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 462
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2553be296c38e0800000000000000
+      internalID: -1712378109009516011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 462
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da23f957f59dbb940800000000000000
+      internalID: 5313079189432119981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 462
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a068e41fe320b0800000000000000
+      internalID: -5754493025772328691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 462
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4059861dfb1cd0350800000000000000
+      internalID: 5984652509441463556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 462
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b6d15ab6b1dda0800000000000000
+      internalID: -5921751123662294891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_5
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 462
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d18404c5007480800000000000000
+      internalID: -8903610123864123702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 462
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472d3d45d8a06a3c0800000000000000
+      internalID: -4348776788049800588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 462
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f2440eaf099860800000000000000
+      internalID: 7537072691451459147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 350
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493aed9080c2bf0a0800000000000000
+      internalID: -6846830395449760876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 350
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c57d5ccb527b40800000000000000
+      internalID: 5436508633489066201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 350
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2329790e88ed20800000000000000
+      internalID: 3308050097641827835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 350
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beee8c34a14f819b0800000000000000
+      internalID: -5109065383608258837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_12
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 350
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e8fc1f9649bbd0800000000000000
+      internalID: -2613980459512044453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 350
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7ec1e47ab4add0800000000000000
+      internalID: -2475648883979551808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 350
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44572e2aad006100800000000000000
+      internalID: 99094216372081739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 350
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140243ef798292ca0800000000000000
+      internalID: -6041252791870807999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 238
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62998a9156c924a80800000000000000
+      internalID: -8484046789976483546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 238
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3b56709ff22590800000000000000
+      internalID: -7700311416924062933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 238
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800511d0c74b20f0800000000000000
+      internalID: -1140739187141181298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 238
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b071a584ae06c760800000000000000
+      internalID: 7477680331074662581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_20
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 238
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883bd1a05422d380800000000000000
+      internalID: -8948049580900271985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 238
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f86147b4666dc870800000000000000
+      internalID: 8704726237534316790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 238
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5604ba764cead7b0800000000000000
+      internalID: -5198583032395332004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 238
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ff958bb599f120800000000000000
+      internalID: 2448152505085851335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 126
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e20d19f5d315070800000000000000
+      internalID: 8093317486039019141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d266a9861f8c90800000000000000
+      internalID: -7165483701665343766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 126
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261ebe29a3fbcab0800000000000000
+      internalID: -4986624254423460315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 126
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d52ae734783c180800000000000000
+      internalID: -9096278098401141464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 126
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c28737b4ed2bd0800000000000000
+      internalID: -2653213129889889911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 126
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc1cba4eafb8df40800000000000000
+      internalID: 5753559279264865495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 126
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6a214752d0462a0800000000000000
+      internalID: -6745251887381829889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 126
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa23783750ac4d60800000000000000
+      internalID: 7875846144833825442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5978bb7c56f8d000800000000000000
+      internalID: 61069472042613083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 14
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae044bfd0dd7600800000000000000
+      internalID: 467759595536837258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 14
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcecd802b70cf30800000000000000
+      internalID: 4593806999666216255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_35
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 14
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c4469ce675001b0800000000000000
+      internalID: -5692453795659494299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_36
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 14
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5845eecf37f5c80800000000000000
+      internalID: -8331813255444658710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_37
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 14
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ba2ef3ab63da10800000000000000
+      internalID: 1933007017160127653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 14
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f66169f13ed640d0800000000000000
+      internalID: -3438816959232121097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVanceFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 14
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7501c5bc4d5a00800000000000000
+      internalID: 746837456724524737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastVanceFrames_0: -1712378109009516011
+      CastVanceFrames_1: 5313079189432119981
+      CastVanceFrames_10: 3308050097641827835
+      CastVanceFrames_11: -5109065383608258837
+      CastVanceFrames_12: -2613980459512044453
+      CastVanceFrames_13: -2475648883979551808
+      CastVanceFrames_14: 99094216372081739
+      CastVanceFrames_15: -6041252791870807999
+      CastVanceFrames_16: -8484046789976483546
+      CastVanceFrames_17: -7700311416924062933
+      CastVanceFrames_18: -1140739187141181298
+      CastVanceFrames_19: 7477680331074662581
+      CastVanceFrames_2: -5754493025772328691
+      CastVanceFrames_20: -8948049580900271985
+      CastVanceFrames_21: 8704726237534316790
+      CastVanceFrames_22: -5198583032395332004
+      CastVanceFrames_23: 2448152505085851335
+      CastVanceFrames_24: 8093317486039019141
+      CastVanceFrames_25: -7165483701665343766
+      CastVanceFrames_26: -4986624254423460315
+      CastVanceFrames_27: -9096278098401141464
+      CastVanceFrames_28: -2653213129889889911
+      CastVanceFrames_29: 5753559279264865495
+      CastVanceFrames_3: 5984652509441463556
+      CastVanceFrames_30: -6745251887381829889
+      CastVanceFrames_31: 7875846144833825442
+      CastVanceFrames_32: 61069472042613083
+      CastVanceFrames_33: 467759595536837258
+      CastVanceFrames_34: 4593806999666216255
+      CastVanceFrames_35: -5692453795659494299
+      CastVanceFrames_36: -8331813255444658710
+      CastVanceFrames_37: 1933007017160127653
+      CastVanceFrames_38: -3438816959232121097
+      CastVanceFrames_39: 746837456724524737
+      CastVanceFrames_4: -5921751123662294891
+      CastVanceFrames_5: -8903610123864123702
+      CastVanceFrames_6: -4348776788049800588
+      CastVanceFrames_7: 7537072691451459147
+      CastVanceFrames_8: -6846830395449760876
+      CastVanceFrames_9: 5436508633489066201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

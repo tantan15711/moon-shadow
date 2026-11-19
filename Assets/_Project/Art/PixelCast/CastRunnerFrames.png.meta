@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 92b98e6603ce8a742af8be6c5b0cb59b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7409431949372951213
+    second: CastRunnerFrames_0
+  - first:
+      213: -6931032253907611635
+    second: CastRunnerFrames_1
+  - first:
+      213: -843811079563654967
+    second: CastRunnerFrames_2
+  - first:
+      213: 4879523141611735603
+    second: CastRunnerFrames_3
+  - first:
+      213: -1570856215164526433
+    second: CastRunnerFrames_4
+  - first:
+      213: -1577745928909495617
+    second: CastRunnerFrames_5
+  - first:
+      213: -5233840800485536989
+    second: CastRunnerFrames_6
+  - first:
+      213: -176114990572068765
+    second: CastRunnerFrames_7
+  - first:
+      213: 8875761798053273706
+    second: CastRunnerFrames_8
+  - first:
+      213: -6479910850755157689
+    second: CastRunnerFrames_9
+  - first:
+      213: 3235794796493624484
+    second: CastRunnerFrames_10
+  - first:
+      213: -793674983714423391
+    second: CastRunnerFrames_11
+  - first:
+      213: 2393686380424550363
+    second: CastRunnerFrames_12
+  - first:
+      213: 8730825117509165204
+    second: CastRunnerFrames_13
+  - first:
+      213: 8575942604761187906
+    second: CastRunnerFrames_14
+  - first:
+      213: 1769556094989456164
+    second: CastRunnerFrames_15
+  - first:
+      213: 146692164131255856
+    second: CastRunnerFrames_16
+  - first:
+      213: 7511026926112029726
+    second: CastRunnerFrames_17
+  - first:
+      213: -8925278304285499367
+    second: CastRunnerFrames_18
+  - first:
+      213: -7610981418926434719
+    second: CastRunnerFrames_19
+  - first:
+      213: 6305628074054066790
+    second: CastRunnerFrames_20
+  - first:
+      213: 1690582827546807185
+    second: CastRunnerFrames_21
+  - first:
+      213: 3181949052727627227
+    second: CastRunnerFrames_22
+  - first:
+      213: -5656529098925563302
+    second: CastRunnerFrames_23
+  - first:
+      213: 3376692166397325692
+    second: CastRunnerFrames_24
+  - first:
+      213: 7795274732025765932
+    second: CastRunnerFrames_25
+  - first:
+      213: 4965352273567243676
+    second: CastRunnerFrames_26
+  - first:
+      213: 3164605983059996898
+    second: CastRunnerFrames_27
+  - first:
+      213: -6145589509821719362
+    second: CastRunnerFrames_28
+  - first:
+      213: 2827684169178771243
+    second: CastRunnerFrames_29
+  - first:
+      213: -1794507852036084970
+    second: CastRunnerFrames_30
+  - first:
+      213: 6806410198609243953
+    second: CastRunnerFrames_31
+  - first:
+      213: 3890764552626093027
+    second: CastRunnerFrames_32
+  - first:
+      213: -5599431828299437762
+    second: CastRunnerFrames_33
+  - first:
+      213: 8149162784787916111
+    second: CastRunnerFrames_34
+  - first:
+      213: 5986091244234630624
+    second: CastRunnerFrames_35
+  - first:
+      213: 1210347190295323299
+    second: CastRunnerFrames_36
+  - first:
+      213: -2817374589082485149
+    second: CastRunnerFrames_37
+  - first:
+      213: 5566443359580967570
+    second: CastRunnerFrames_38
+  - first:
+      213: -3565631647089525877
+    second: CastRunnerFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastRunnerFrames_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 462
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0ec1e91793d660800000000000000
+      internalID: 7409431949372951213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 462
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00df0323e600df90800000000000000
+      internalID: -6931032253907611635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 462
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8c1193b4e2a44f0800000000000000
+      internalID: -843811079563654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 462
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac019c17c87b340800000000000000
+      internalID: 4879523141611735603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 462
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9067e55892333ae0800000000000000
+      internalID: -1570856215164526433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 462
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e789df68ba1ae0800000000000000
+      internalID: -1577745928909495617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 462
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b0d14a589ad57b0800000000000000
+      internalID: -5233840800485536989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 462
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a45369505e8df0800000000000000
+      internalID: -176114990572068765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 350
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a2fb545a0d2b70800000000000000
+      internalID: 8875761798053273706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 350
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412a8cc96bb216a0800000000000000
+      internalID: -6479910850755157689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 350
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45f03393ad7ec20800000000000000
+      internalID: 3235794796493624484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 350
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7690becc4cf4f0800000000000000
+      internalID: -793674983714423391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 350
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd755e8a415183120800000000000000
+      internalID: 2393686380424550363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 350
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490213dbf2f1a2970800000000000000
+      internalID: 8730825117509165204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 350
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cdea9c5ed30770800000000000000
+      internalID: 8575942604761187906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 350
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42359f394e9be8810800000000000000
+      internalID: 1769556094989456164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 238
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036706efeb7290200800000000000000
+      internalID: 146692164131255856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 238
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c3d45b1378c3860800000000000000
+      internalID: 7511026926112029726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 238
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ef8f9baa032480800000000000000
+      internalID: -8925278304285499367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 238
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669ac469bc506690800000000000000
+      internalID: -7610981418926434719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 238
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66229bf1357128750800000000000000
+      internalID: 6305628074054066790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_21
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 238
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b8d43ef18267710800000000000000
+      internalID: 1690582827546807185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 238
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd88350ecd882c20800000000000000
+      internalID: 3181949052727627227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 238
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a1ec01c8ff71b0800000000000000
+      internalID: -5656529098925563302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 126
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f4f582ab6cde20800000000000000
+      internalID: 3376692166397325692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2069f051116e2c60800000000000000
+      internalID: 7795274732025765932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 126
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d57a2d59978e440800000000000000
+      internalID: 4965352273567243676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 126
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0fd52ff50faeb20800000000000000
+      internalID: 3164605983059996898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_28
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 126
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc95bbc6ea76baa0800000000000000
+      internalID: -6145589509821719362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 126
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f65e825c3fd3720800000000000000
+      internalID: 2827684169178771243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 126
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b6db4cd90a817e0800000000000000
+      internalID: -1794507852036084970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 126
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f23b3830a357e50800000000000000
+      internalID: 6806410198609243953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb5f71fb5cef530800000000000000
+      internalID: 3890764552626093027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 14
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3922325b62da42b0800000000000000
+      internalID: -5599431828299437762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 14
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ed1c6064a71170800000000000000
+      internalID: 8149162784787916111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56ead554ed21350800000000000000
+      internalID: 5986091244234630624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_36
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 14
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e17c5b540cc010800000000000000
+      internalID: 1210347190295323299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_37
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 14
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eb6820dbca6e8d0800000000000000
+      internalID: -2817374589082485149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d7264ebaff3d40800000000000000
+      internalID: 5566443359580967570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastRunnerFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 14
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b765398e4548ec0800000000000000
+      internalID: -3565631647089525877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastRunnerFrames_0: 7409431949372951213
+      CastRunnerFrames_1: -6931032253907611635
+      CastRunnerFrames_10: 3235794796493624484
+      CastRunnerFrames_11: -793674983714423391
+      CastRunnerFrames_12: 2393686380424550363
+      CastRunnerFrames_13: 8730825117509165204
+      CastRunnerFrames_14: 8575942604761187906
+      CastRunnerFrames_15: 1769556094989456164
+      CastRunnerFrames_16: 146692164131255856
+      CastRunnerFrames_17: 7511026926112029726
+      CastRunnerFrames_18: -8925278304285499367
+      CastRunnerFrames_19: -7610981418926434719
+      CastRunnerFrames_2: -843811079563654967
+      CastRunnerFrames_20: 6305628074054066790
+      CastRunnerFrames_21: 1690582827546807185
+      CastRunnerFrames_22: 3181949052727627227
+      CastRunnerFrames_23: -5656529098925563302
+      CastRunnerFrames_24: 3376692166397325692
+      CastRunnerFrames_25: 7795274732025765932
+      CastRunnerFrames_26: 4965352273567243676
+      CastRunnerFrames_27: 3164605983059996898
+      CastRunnerFrames_28: -6145589509821719362
+      CastRunnerFrames_29: 2827684169178771243
+      CastRunnerFrames_3: 4879523141611735603
+      CastRunnerFrames_30: -1794507852036084970
+      CastRunnerFrames_31: 6806410198609243953
+      CastRunnerFrames_32: 3890764552626093027
+      CastRunnerFrames_33: -5599431828299437762
+      CastRunnerFrames_34: 8149162784787916111
+      CastRunnerFrames_35: 5986091244234630624
+      CastRunnerFrames_36: 1210347190295323299
+      CastRunnerFrames_37: -2817374589082485149
+      CastRunnerFrames_38: 5566443359580967570
+      CastRunnerFrames_39: -3565631647089525877
+      CastRunnerFrames_4: -1570856215164526433
+      CastRunnerFrames_5: -1577745928909495617
+      CastRunnerFrames_6: -5233840800485536989
+      CastRunnerFrames_7: -176114990572068765
+      CastRunnerFrames_8: 8875761798053273706
+      CastRunnerFrames_9: -6479910850755157689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

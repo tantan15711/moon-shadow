@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: c11580e6ef59227409442ad44fe2d1cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6150798529661875085
+    second: CastVulkanoFrames_0
+  - first:
+      213: 2059888047244405413
+    second: CastVulkanoFrames_1
+  - first:
+      213: 2946542218794767751
+    second: CastVulkanoFrames_2
+  - first:
+      213: 1416947791022948609
+    second: CastVulkanoFrames_3
+  - first:
+      213: -4562143153140562213
+    second: CastVulkanoFrames_4
+  - first:
+      213: -8681950494696444733
+    second: CastVulkanoFrames_5
+  - first:
+      213: 6753901229911259256
+    second: CastVulkanoFrames_6
+  - first:
+      213: -683745472507312822
+    second: CastVulkanoFrames_7
+  - first:
+      213: 3999791942878458069
+    second: CastVulkanoFrames_8
+  - first:
+      213: -8945809340104876307
+    second: CastVulkanoFrames_9
+  - first:
+      213: 8930121906705201655
+    second: CastVulkanoFrames_10
+  - first:
+      213: -340160062464500488
+    second: CastVulkanoFrames_11
+  - first:
+      213: 5783786476253662064
+    second: CastVulkanoFrames_12
+  - first:
+      213: 5103547492009920408
+    second: CastVulkanoFrames_13
+  - first:
+      213: 7621460311313628532
+    second: CastVulkanoFrames_14
+  - first:
+      213: -4561088708103184142
+    second: CastVulkanoFrames_15
+  - first:
+      213: -6572494513736923907
+    second: CastVulkanoFrames_16
+  - first:
+      213: -1398251577877577811
+    second: CastVulkanoFrames_17
+  - first:
+      213: 1403430526952535953
+    second: CastVulkanoFrames_18
+  - first:
+      213: 2980008317652101768
+    second: CastVulkanoFrames_19
+  - first:
+      213: 8490444746984843623
+    second: CastVulkanoFrames_20
+  - first:
+      213: -9140252317385739294
+    second: CastVulkanoFrames_21
+  - first:
+      213: -1472611307862917422
+    second: CastVulkanoFrames_22
+  - first:
+      213: 2430157745064134799
+    second: CastVulkanoFrames_23
+  - first:
+      213: -406106099050331471
+    second: CastVulkanoFrames_24
+  - first:
+      213: 5920207497953546685
+    second: CastVulkanoFrames_25
+  - first:
+      213: 8673729756833526607
+    second: CastVulkanoFrames_26
+  - first:
+      213: -4057513709551561121
+    second: CastVulkanoFrames_27
+  - first:
+      213: -862184011605950085
+    second: CastVulkanoFrames_28
+  - first:
+      213: 3611692036068249236
+    second: CastVulkanoFrames_29
+  - first:
+      213: -6418226930928509896
+    second: CastVulkanoFrames_30
+  - first:
+      213: 5131576576305335271
+    second: CastVulkanoFrames_31
+  - first:
+      213: -6610332808863987427
+    second: CastVulkanoFrames_32
+  - first:
+      213: -2260576774872653810
+    second: CastVulkanoFrames_33
+  - first:
+      213: 822663518761114884
+    second: CastVulkanoFrames_34
+  - first:
+      213: 6373780674851329646
+    second: CastVulkanoFrames_35
+  - first:
+      213: -5489545540201917548
+    second: CastVulkanoFrames_36
+  - first:
+      213: 641623767444693427
+    second: CastVulkanoFrames_37
+  - first:
+      213: 176697869497129089
+    second: CastVulkanoFrames_38
+  - first:
+      213: 3639594435090236348
+    second: CastVulkanoFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastVulkanoFrames_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 462
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c428a5359f3aaa0800000000000000
+      internalID: -6150798529661875085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 462
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa6315e341369c10800000000000000
+      internalID: 2059888047244405413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 462
+        width: 104
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78514fa598834e820800000000000000
+      internalID: 2946542218794767751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 462
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101823532820aa310800000000000000
+      internalID: 1416947791022948609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 462
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6839639f200b0c0800000000000000
+      internalID: -4562143153140562213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 462
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc67162604838780800000000000000
+      internalID: -8681950494696444733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 462
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8783fe8826daabd50800000000000000
+      internalID: 6753901229911259256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 462
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458b6a8d19d286f0800000000000000
+      internalID: -683745472507312822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 350
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07dba849d128730800000000000000
+      internalID: 3999791942878458069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5da65dc91ad380800000000000000
+      internalID: -8945809340104876307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 350
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f8127f8a2eeb70800000000000000
+      internalID: 8930121906705201655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 350
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5706b932874bf0800000000000000
+      internalID: -340160062464500488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 350
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bcec50823244050800000000000000
+      internalID: 5783786476253662064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 350
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897469b776173d640800000000000000
+      internalID: 5103547492009920408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 350
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d369dd5cdd4c960800000000000000
+      internalID: 7621460311313628532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 350
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0e6745cf1c3b0c0800000000000000
+      internalID: -4561088708103184142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 238
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4c184ff0fc9c4a0800000000000000
+      internalID: -6572494513736923907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 238
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3af12999689ce0800000000000000
+      internalID: -1398251577877577811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 238
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197f1f9e0acf97310800000000000000
+      internalID: 1403430526952535953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 238
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aec51b6cd1b5920800000000000000
+      internalID: 2980008317652101768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 238
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ec19538e14d570800000000000000
+      internalID: 8490444746984843623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 238
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e338c8c1fc472180800000000000000
+      internalID: -9140252317385739294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 238
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7b9651db309be0800000000000000
+      internalID: -1472611307862917422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 238
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8846b6f797a9b120800000000000000
+      internalID: 2430157745064134799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 126
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b24cf097a83d5af0800000000000000
+      internalID: -406106099050331471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 126
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db110205a5dc82250800000000000000
+      internalID: 5920207497953546685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 126
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433cc922474f5870800000000000000
+      internalID: 8673729756833526607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 126
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d6ee57c0d0b7c0800000000000000
+      internalID: -4057513709551561121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_28
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 126
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71c431a538e804f0800000000000000
+      internalID: -862184011605950085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_29
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 126
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e84ff65ce4f1230800000000000000
+      internalID: 3611692036068249236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 126
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c192e8c90ede6a0800000000000000
+      internalID: -6418226930928509896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 126
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb056835b5073740800000000000000
+      internalID: 5131576576305335271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194d8855516344a0800000000000000
+      internalID: -6610332808863987427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 14
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a73a7661d0a0e0800000000000000
+      internalID: -2260576774872653810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_34
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 14
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ddd659c10ba6b00800000000000000
+      internalID: 822663518761114884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 14
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6653c801c7347850800000000000000
+      internalID: 6373780674851329646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 14
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935fe18a6731d3b0800000000000000
+      internalID: -5489545540201917548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_37
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 14
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b12df1ca6187e800800000000000000
+      internalID: 641623767444693427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 14
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d1ffa6c1c37200800000000000000
+      internalID: 176697869497129089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastVulkanoFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 14
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ca06fadf628230800000000000000
+      internalID: 3639594435090236348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastVulkanoFrames_0: -6150798529661875085
+      CastVulkanoFrames_1: 2059888047244405413
+      CastVulkanoFrames_10: 8930121906705201655
+      CastVulkanoFrames_11: -340160062464500488
+      CastVulkanoFrames_12: 5783786476253662064
+      CastVulkanoFrames_13: 5103547492009920408
+      CastVulkanoFrames_14: 7621460311313628532
+      CastVulkanoFrames_15: -4561088708103184142
+      CastVulkanoFrames_16: -6572494513736923907
+      CastVulkanoFrames_17: -1398251577877577811
+      CastVulkanoFrames_18: 1403430526952535953
+      CastVulkanoFrames_19: 2980008317652101768
+      CastVulkanoFrames_2: 2946542218794767751
+      CastVulkanoFrames_20: 8490444746984843623
+      CastVulkanoFrames_21: -9140252317385739294
+      CastVulkanoFrames_22: -1472611307862917422
+      CastVulkanoFrames_23: 2430157745064134799
+      CastVulkanoFrames_24: -406106099050331471
+      CastVulkanoFrames_25: 5920207497953546685
+      CastVulkanoFrames_26: 8673729756833526607
+      CastVulkanoFrames_27: -4057513709551561121
+      CastVulkanoFrames_28: -862184011605950085
+      CastVulkanoFrames_29: 3611692036068249236
+      CastVulkanoFrames_3: 1416947791022948609
+      CastVulkanoFrames_30: -6418226930928509896
+      CastVulkanoFrames_31: 5131576576305335271
+      CastVulkanoFrames_32: -6610332808863987427
+      CastVulkanoFrames_33: -2260576774872653810
+      CastVulkanoFrames_34: 822663518761114884
+      CastVulkanoFrames_35: 6373780674851329646
+      CastVulkanoFrames_36: -5489545540201917548
+      CastVulkanoFrames_37: 641623767444693427
+      CastVulkanoFrames_38: 176697869497129089
+      CastVulkanoFrames_39: 3639594435090236348
+      CastVulkanoFrames_4: -4562143153140562213
+      CastVulkanoFrames_5: -8681950494696444733
+      CastVulkanoFrames_6: 6753901229911259256
+      CastVulkanoFrames_7: -683745472507312822
+      CastVulkanoFrames_8: 3999791942878458069
+      CastVulkanoFrames_9: -8945809340104876307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3473 @@
+fileFormatVersion: 2
+guid: be109d57d75ab274fbab2f5f0482bc3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3210791042912712583
+    second: CastZombieSentry0Frames_0
+  - first:
+      213: 6754693164021069350
+    second: CastZombieSentry0Frames_1
+  - first:
+      213: -8901683490368280504
+    second: CastZombieSentry0Frames_2
+  - first:
+      213: -6147768639511962341
+    second: CastZombieSentry0Frames_3
+  - first:
+      213: 1957177397056046475
+    second: CastZombieSentry0Frames_4
+  - first:
+      213: 6344529919778472504
+    second: CastZombieSentry0Frames_5
+  - first:
+      213: 1890892966114874299
+    second: CastZombieSentry0Frames_6
+  - first:
+      213: -7093963926296092034
+    second: CastZombieSentry0Frames_7
+  - first:
+      213: 3687318244077173622
+    second: CastZombieSentry0Frames_8
+  - first:
+      213: -1793800662131070987
+    second: CastZombieSentry0Frames_9
+  - first:
+      213: 2432186740404141471
+    second: CastZombieSentry0Frames_10
+  - first:
+      213: -3041915627718117839
+    second: CastZombieSentry0Frames_11
+  - first:
+      213: 411842731124385500
+    second: CastZombieSentry0Frames_12
+  - first:
+      213: 6115430221426503368
+    second: CastZombieSentry0Frames_13
+  - first:
+      213: 4848567230868770487
+    second: CastZombieSentry0Frames_14
+  - first:
+      213: 4219822345861047665
+    second: CastZombieSentry0Frames_15
+  - first:
+      213: 4431338328240658611
+    second: CastZombieSentry0Frames_16
+  - first:
+      213: -1967620102200430270
+    second: CastZombieSentry0Frames_17
+  - first:
+      213: -315953641198933790
+    second: CastZombieSentry0Frames_18
+  - first:
+      213: -6405139549325059998
+    second: CastZombieSentry0Frames_19
+  - first:
+      213: -2968487160284979599
+    second: CastZombieSentry0Frames_20
+  - first:
+      213: -3465430814110830744
+    second: CastZombieSentry0Frames_21
+  - first:
+      213: -131097879369357445
+    second: CastZombieSentry0Frames_22
+  - first:
+      213: -6025481376155860827
+    second: CastZombieSentry0Frames_23
+  - first:
+      213: 6068063136114916882
+    second: CastZombieSentry0Frames_24
+  - first:
+      213: 6273735743903491512
+    second: CastZombieSentry0Frames_25
+  - first:
+      213: -4746958654539390373
+    second: CastZombieSentry0Frames_26
+  - first:
+      213: 7071388541423026779
+    second: CastZombieSentry0Frames_27
+  - first:
+      213: -3621172409459939716
+    second: CastZombieSentry0Frames_28
+  - first:
+      213: 6831211267477304991
+    second: CastZombieSentry0Frames_29
+  - first:
+      213: 629912650374196354
+    second: CastZombieSentry0Frames_30
+  - first:
+      213: 8189256837174119491
+    second: CastZombieSentry0Frames_31
+  - first:
+      213: 3861867184533906701
+    second: CastZombieSentry0Frames_32
+  - first:
+      213: 3013101934124278625
+    second: CastZombieSentry0Frames_33
+  - first:
+      213: -3978133388311488878
+    second: CastZombieSentry0Frames_34
+  - first:
+      213: 1797371187847942423
+    second: CastZombieSentry0Frames_35
+  - first:
+      213: -8342704949062677052
+    second: CastZombieSentry0Frames_36
+  - first:
+      213: 8927556463487036718
+    second: CastZombieSentry0Frames_37
+  - first:
+      213: 1125079822628497247
+    second: CastZombieSentry0Frames_38
+  - first:
+      213: -4971781460349925885
+    second: CastZombieSentry0Frames_39
+  - first:
+      213: 4735556893523798376
+    second: CastZombieSentry0Frames_40
+  - first:
+      213: 1061318972230706021
+    second: CastZombieSentry0Frames_41
+  - first:
+      213: -7228183397214551509
+    second: CastZombieSentry0Frames_42
+  - first:
+      213: -3989828675278992425
+    second: CastZombieSentry0Frames_43
+  - first:
+      213: 6387649897579368673
+    second: CastZombieSentry0Frames_44
+  - first:
+      213: 4736648834909320566
+    second: CastZombieSentry0Frames_45
+  - first:
+      213: 9043963072653484043
+    second: CastZombieSentry0Frames_46
+  - first:
+      213: -7677441210775975963
+    second: CastZombieSentry0Frames_47
+  - first:
+      213: 7047913255020184479
+    second: CastZombieSentry0Frames_48
+  - first:
+      213: 1161331477383700366
+    second: CastZombieSentry0Frames_49
+  - first:
+      213: -8014524355804182589
+    second: CastZombieSentry0Frames_50
+  - first:
+      213: 8545669486439409469
+    second: CastZombieSentry0Frames_51
+  - first:
+      213: 2007200069508868416
+    second: CastZombieSentry0Frames_52
+  - first:
+      213: 8816543478357228221
+    second: CastZombieSentry0Frames_53
+  - first:
+      213: -9195122550378459304
+    second: CastZombieSentry0Frames_54
+  - first:
+      213: 7810964707953611931
+    second: CastZombieSentry0Frames_55
+  - first:
+      213: 848181597408846172
+    second: CastZombieSentry0Frames_56
+  - first:
+      213: 8219330248483214591
+    second: CastZombieSentry0Frames_57
+  - first:
+      213: -7020838832409710814
+    second: CastZombieSentry0Frames_58
+  - first:
+      213: 8239473424551117878
+    second: CastZombieSentry0Frames_59
+  - first:
+      213: 143602282695250153
+    second: CastZombieSentry0Frames_60
+  - first:
+      213: -8137534543997091660
+    second: CastZombieSentry0Frames_61
+  - first:
+      213: -5785081079021968364
+    second: CastZombieSentry0Frames_62
+  - first:
+      213: 673632504940454212
+    second: CastZombieSentry0Frames_63
+  - first:
+      213: -5500040955786511283
+    second: CastZombieSentry0Frames_64
+  - first:
+      213: 6416557915919954493
+    second: CastZombieSentry0Frames_65
+  - first:
+      213: -1852838091215441461
+    second: CastZombieSentry0Frames_66
+  - first:
+      213: -182740441267662930
+    second: CastZombieSentry0Frames_67
+  - first:
+      213: -2262545525988395742
+    second: CastZombieSentry0Frames_68
+  - first:
+      213: -8853099545133141244
+    second: CastZombieSentry0Frames_69
+  - first:
+      213: 7865982160168869361
+    second: CastZombieSentry0Frames_70
+  - first:
+      213: -159489042533658964
+    second: CastZombieSentry0Frames_71
+  - first:
+      213: 5157020368350642408
+    second: CastZombieSentry0Frames_72
+  - first:
+      213: 5126519530361946387
+    second: CastZombieSentry0Frames_73
+  - first:
+      213: 728448038417122324
+    second: CastZombieSentry0Frames_74
+  - first:
+      213: -3647172200436253096
+    second: CastZombieSentry0Frames_75
+  - first:
+      213: 5151691392251857881
+    second: CastZombieSentry0Frames_76
+  - first:
+      213: -5574220873721758937
+    second: CastZombieSentry0Frames_77
+  - first:
+      213: 1861273950636933543
+    second: CastZombieSentry0Frames_78
+  - first:
+      213: 8471824668506150094
+    second: CastZombieSentry0Frames_79
+  - first:
+      213: -1478166195351437328
+    second: CastZombieSentry0Frames_80
+  - first:
+      213: 1085873246889270409
+    second: CastZombieSentry0Frames_81
+  - first:
+      213: 4212172783968038852
+    second: CastZombieSentry0Frames_82
+  - first:
+      213: 5238147680813222491
+    second: CastZombieSentry0Frames_83
+  - first:
+      213: -2168583102026962487
+    second: CastZombieSentry0Frames_84
+  - first:
+      213: 4852860980790675983
+    second: CastZombieSentry0Frames_85
+  - first:
+      213: 9172317808731643626
+    second: CastZombieSentry0Frames_86
+  - first:
+      213: -2351840300849305225
+    second: CastZombieSentry0Frames_87
+  - first:
+      213: 564609656207811670
+    second: CastZombieSentry0Frames_88
+  - first:
+      213: -5752608422836894550
+    second: CastZombieSentry0Frames_89
+  - first:
+      213: -5134340591957559012
+    second: CastZombieSentry0Frames_90
+  - first:
+      213: -126784586399008363
+    second: CastZombieSentry0Frames_91
+  - first:
+      213: 261460542759027258
+    second: CastZombieSentry0Frames_92
+  - first:
+      213: -6504116988988672389
+    second: CastZombieSentry0Frames_93
+  - first:
+      213: 981068553035190090
+    second: CastZombieSentry0Frames_94
+  - first:
+      213: -6529680910593061660
+    second: CastZombieSentry0Frames_95
+  - first:
+      213: -8562863371230249831
+    second: CastZombieSentry0Frames_96
+  - first:
+      213: -8305708021868215100
+    second: CastZombieSentry0Frames_97
+  - first:
+      213: 4636684611368336260
+    second: CastZombieSentry0Frames_98
+  - first:
+      213: 2972206593487450392
+    second: CastZombieSentry0Frames_99
+  - first:
+      213: 196469824659420601
+    second: CastZombieSentry0Frames_100
+  - first:
+      213: -7278595036875545877
+    second: CastZombieSentry0Frames_101
+  - first:
+      213: 5184639121451482138
+    second: CastZombieSentry0Frames_102
+  - first:
+      213: -3350517855885585811
+    second: CastZombieSentry0Frames_103
+  - first:
+      213: -1139612881570683546
+    second: CastZombieSentry0Frames_104
+  - first:
+      213: -5065828841230721455
+    second: CastZombieSentry0Frames_105
+  - first:
+      213: -2638009734814928434
+    second: CastZombieSentry0Frames_106
+  - first:
+      213: 4465200314650413976
+    second: CastZombieSentry0Frames_107
+  - first:
+      213: -2587919628715224937
+    second: CastZombieSentry0Frames_108
+  - first:
+      213: -7491341135308645476
+    second: CastZombieSentry0Frames_109
+  - first:
+      213: -3572697857413401705
+    second: CastZombieSentry0Frames_110
+  - first:
+      213: 6709410349006004467
+    second: CastZombieSentry0Frames_111
+  - first:
+      213: -8629898281456109058
+    second: CastZombieSentry0Frames_112
+  - first:
+      213: -4026614890981651457
+    second: CastZombieSentry0Frames_113
+  - first:
+      213: -3245872051426626067
+    second: CastZombieSentry0Frames_114
+  - first:
+      213: 6785344472682909886
+    second: CastZombieSentry0Frames_115
+  - first:
+      213: 7192796475781892352
+    second: CastZombieSentry0Frames_116
+  - first:
+      213: -5193934127691543052
+    second: CastZombieSentry0Frames_117
+  - first:
+      213: 6786070738496266982
+    second: CastZombieSentry0Frames_118
+  - first:
+      213: 3582233963272399513
+    second: CastZombieSentry0Frames_119
+  - first:
+      213: -6093470875042750322
+    second: CastZombieSentry0Frames_120
+  - first:
+      213: 8312186958623965569
+    second: CastZombieSentry0Frames_121
+  - first:
+      213: -630354316386358875
+    second: CastZombieSentry0Frames_122
+  - first:
+      213: 4093536506037292073
+    second: CastZombieSentry0Frames_123
+  - first:
+      213: 4172032259060840793
+    second: CastZombieSentry0Frames_124
+  - first:
+      213: 2547855639474476009
+    second: CastZombieSentry0Frames_125
+  - first:
+      213: 7026912033693267773
+    second: CastZombieSentry0Frames_126
+  - first:
+      213: -32830295365360514
+    second: CastZombieSentry0Frames_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1694
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78771d821750f8c20800000000000000
+      internalID: 3210791042912712583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1694
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6263c3015ad7dbd50800000000000000
+      internalID: 6754693164021069350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1694
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a3a5570ed67480800000000000000
+      internalID: -8901683490368280504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1694
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d5a90aefcbeaaa0800000000000000
+      internalID: -6147768639511962341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1694
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8503f9197a492b10800000000000000
+      internalID: 1957177397056046475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1694
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832cb37e85c4c0850800000000000000
+      internalID: 6344529919778472504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1694
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3df81622dcd3a10800000000000000
+      internalID: 1890892966114874299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_7
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1694
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72afabf46d2d8d90800000000000000
+      internalID: -7093963926296092034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1582
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b7900286cfb2330800000000000000
+      internalID: 3687318244077173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1582
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f721df3dc32b17e0800000000000000
+      internalID: -1793800662131070987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1582
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d343144fcd0c120800000000000000
+      internalID: 2432186740404141471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1582
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f6257ad1f8c5d0800000000000000
+      internalID: -3041915627718117839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1582
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6eefb28c827b500800000000000000
+      internalID: 411842731124385500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_13
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1582
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cea0dca26f5ed450800000000000000
+      internalID: 6115430221426503368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_14
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1582
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be48892532994340800000000000000
+      internalID: 4848567230868770487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_15
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1582
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ad44e012df8a30800000000000000
+      internalID: 4219822345861047665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1470
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89b563bb64f7d30800000000000000
+      internalID: 4431338328240658611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1470
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241fc6321fb91b4e0800000000000000
+      internalID: -1967620102200430270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1470
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a8da56d18d9bf0800000000000000
+      internalID: -315953641198933790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1470
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689ca9048f5c17a0800000000000000
+      internalID: -6405139549325059998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_20
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1470
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ed7eac7a0ddc6d0800000000000000
+      internalID: -2968487160284979599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1470
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2b33090158efc0800000000000000
+      internalID: -3465430814110830744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_22
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1470
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77e16d5c2f3e2ef0800000000000000
+      internalID: -131097879369357445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_23
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1470
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08f7ddc90316ca0800000000000000
+      internalID: -6025481376155860827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1358
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb5c6b547163450800000000000000
+      internalID: 6068063136114916882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1358
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e90e5b69c01750800000000000000
+      internalID: 6273735743903491512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1358
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a6b0114a6f1eb0800000000000000
+      internalID: -4746958654539390373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1358
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b528940a96e922260800000000000000
+      internalID: 7071388541423026779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1358
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e1bf11e20fbdc0800000000000000
+      internalID: -3621172409459939716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1358
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9671a754765dce50800000000000000
+      internalID: 6831211267477304991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_30
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1358
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c2415d736edb800800000000000000
+      internalID: 629912650374196354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_31
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1358
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc33274b516a170800000000000000
+      internalID: 8189256837174119491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1246
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a1e74ebb189530800000000000000
+      internalID: 3861867184533906701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1246
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632587be30b0d920800000000000000
+      internalID: 3013101934124278625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1246
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969298a2c4dac8c0800000000000000
+      internalID: -3978133388311488878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1246
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d23d829b81f810800000000000000
+      internalID: 1797371187847942423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1246
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc935ec02c83c80800000000000000
+      internalID: -8342704949062677052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1246
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2366ad4d05eb70800000000000000
+      internalID: 8927556463487036718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_38
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1246
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572bb343261d9f00800000000000000
+      internalID: 1125079822628497247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_39
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1246
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30648fa7a1fa00bb0800000000000000
+      internalID: -4971781460349925885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1134
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869632497e318b140800000000000000
+      internalID: 4735556893523798376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1134
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a13d6bff8abe00800000000000000
+      internalID: 1061318972230706021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1134
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2286ad2f7550bb90800000000000000
+      internalID: -7228183397214551509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_43
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1134
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db045775f741a8c0800000000000000
+      internalID: -3989828675278992425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1134
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e057c61dbd75a850800000000000000
+      internalID: 6387649897579368673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_45
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1134
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b98ef405fbb140800000000000000
+      internalID: 4736648834909320566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_46
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1134
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e2436f7c928d70800000000000000
+      internalID: 9043963072653484043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_47
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1134
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7c0c745ef347590800000000000000
+      internalID: -7677441210775975963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1022
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93ce3593c73fc160800000000000000
+      internalID: 7047913255020184479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1022
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f5fef53d0ed1010800000000000000
+      internalID: 1161331477383700366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1022
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c74398af80b6c090800000000000000
+      internalID: -8014524355804182589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_51
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1022
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37ad1bfe11589670800000000000000
+      internalID: 8545669486439409469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1022
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049273024d10bdb10800000000000000
+      internalID: 2007200069508868416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_53
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1022
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf44ed497aa5a70800000000000000
+      internalID: 8816543478357228221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_54
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1022
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f028e12cc546080800000000000000
+      internalID: -9195122550378459304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_55
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1022
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9410b2840f166c60800000000000000
+      internalID: 7810964707953611931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e3924ba855cb00800000000000000
+      internalID: 848181597408846172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 910
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff41778205de01270800000000000000
+      internalID: 8219330248483214591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_58
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 910
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f63f8a748f09e90800000000000000
+      internalID: -7020838832409710814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_59
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 910
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63404aecc6d785270800000000000000
+      internalID: 8239473424551117878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_60
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 910
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05cf8e38d2ef100800000000000000
+      internalID: 143602282695250153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_61
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 910
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0459d527ba11f80800000000000000
+      internalID: -8137534543997091660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_62
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 910
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ef08c86347bfa0800000000000000
+      internalID: -5785081079021968364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_63
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 910
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441e126b139395900800000000000000
+      internalID: 673632504940454212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 798
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cbe3424edeba3b0800000000000000
+      internalID: -5500040955786511283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 798
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32312b9d613c0950800000000000000
+      internalID: 6416557915919954493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_66
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 798
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17ac2a2956946e0800000000000000
+      internalID: -1852838091215441461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_67
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 798
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf84207986c67df0800000000000000
+      internalID: -182740441267662930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_68
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 798
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ff43e4d2d990e0800000000000000
+      internalID: -2262545525988395742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_69
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 798
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ba239ed8732580800000000000000
+      internalID: -8853099545133141244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_70
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 798
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddc625915992d60800000000000000
+      internalID: 7865982160168869361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_71
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 798
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec6329f8169cdf0800000000000000
+      internalID: -159489042533658964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 686
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e08ef2b3ba619740800000000000000
+      internalID: 5157020368350642408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_73
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 686
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118355f95e052740800000000000000
+      internalID: 5126519530361946387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_74
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 686
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ce27a1a7fb1a00800000000000000
+      internalID: 728448038417122324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_75
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 686
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e315e0534a26dc0800000000000000
+      internalID: -3647172200436253096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_76
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 686
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db0c93c60c7e7740800000000000000
+      internalID: 5151691392251857881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_77
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 686
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3f3a16a364a2b0800000000000000
+      internalID: -5574220873721758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_78
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 686
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10761fbc294d910800000000000000
+      internalID: 1861273950636933543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_79
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 686
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec453bd76a7f19570800000000000000
+      internalID: 8471824668506150094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 574
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff361f4daf7c7be0800000000000000
+      internalID: -1478166195351437328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_81
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 574
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5feff6fbc11f00800000000000000
+      internalID: 1085873246889270409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_82
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 574
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfabf874d4a47a30800000000000000
+      internalID: 4212172783968038852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_83
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 574
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a88e31093a1b840800000000000000
+      internalID: 5238147680813222491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_84
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 574
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a4c98825a7e1e0800000000000000
+      internalID: -2168583102026962487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_85
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 574
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac168b953d85340800000000000000
+      internalID: 4852860980790675983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_86
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 574
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5074337e9a4f70800000000000000
+      internalID: 9172317808731643626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_87
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 574
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ed6bf4b59c5fd0800000000000000
+      internalID: -2351840300849305225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 462
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a50bad75e5d700800000000000000
+      internalID: 564609656207811670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 462
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa403e83e11aa20b0800000000000000
+      internalID: -5752608422836894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 462
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19308c3f682fb8b0800000000000000
+      internalID: -5134340591957559012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 462
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59931b427129d3ef0800000000000000
+      internalID: -126784586399008363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 462
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32cee57af4e0a300800000000000000
+      internalID: 261460542759027258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_93
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 462
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b763fbd0f0cbcb5a0800000000000000
+      internalID: -6504116988988672389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_94
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 462
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f08fba6a47d9d00800000000000000
+      internalID: 981068553035190090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_95
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 462
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec837bbec9e165a0800000000000000
+      internalID: -6529680910593061660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 350
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cfd91c1299a2980800000000000000
+      internalID: -8562863371230249831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_97
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 350
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ce644f823cbc80800000000000000
+      internalID: -8305708021868215100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 350
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b312c7610d85040800000000000000
+      internalID: 4636684611368336260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 350
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811b4eb36266f3920800000000000000
+      internalID: 2972206593487450392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_100
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 350
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b578ebb3400ab200800000000000000
+      internalID: 196469824659420601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_101
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 350
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ac1ba06c3dfa90800000000000000
+      internalID: -7278595036875545877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_102
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 350
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c75b2cfc983f740800000000000000
+      internalID: 5184639121451482138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_103
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 350
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62165a03c19081d0800000000000000
+      internalID: -3350517855885585811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 238
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66525844f184f20f0800000000000000
+      internalID: -1139612881570683546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_105
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 238
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e9381428f82b9b0800000000000000
+      internalID: -5065828841230721455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_106
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 238
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1755a7f18e36bd0800000000000000
+      internalID: -2638009734814928434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_107
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 238
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b43bd470497fd30800000000000000
+      internalID: 4465200314650413976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 238
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901b2f1fccd51cd0800000000000000
+      internalID: -2587919628715224937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_109
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 238
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b18a2ade8690890800000000000000
+      internalID: -7491341135308645476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_110
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 238
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79333174a3a3b6ec0800000000000000
+      internalID: -3572697857413401705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_111
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 238
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f025d81a2d9c1d50800000000000000
+      internalID: 6709410349006004467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_112
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 126
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9fd067c317c3880800000000000000
+      internalID: -8629898281456109058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_113
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 126
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb8dbf27179e18c0800000000000000
+      internalID: -4026614890981651457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_114
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 126
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f85c019854f2d0800000000000000
+      internalID: -3245872051426626067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_115
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 126
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0dcecf8d26a2e50800000000000000
+      internalID: 6785344472682909886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_116
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 126
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00949a02942f1d360800000000000000
+      internalID: 7192796475781892352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_117
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 126
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdca24fd607be7b0800000000000000
+      internalID: -5193934127691543052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_118
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 126
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22ebce167fc2e50800000000000000
+      internalID: 6786070738496266982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_119
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 126
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ae0336fc6a6b130800000000000000
+      internalID: 3582233963272399513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8063e31684af6ba0800000000000000
+      internalID: -6093470875042750322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_121
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1818a6fbff1da5370800000000000000
+      internalID: 8312186958623965569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_122
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92829c6188047f0800000000000000
+      internalID: -630354316386358875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_123
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 14
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c427583c92fc830800000000000000
+      internalID: 4093536506037292073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_124
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 14
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959bac83c3906e930800000000000000
+      internalID: 4172032259060840793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_125
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 14
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31ad9743dcb5320800000000000000
+      internalID: 2547855639474476009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_126
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 14
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377434b34b948160800000000000000
+      internalID: 7026912033693267773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieSentry0Frames_127
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 14
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7460e2350d5b8ff0800000000000000
+      internalID: -32830295365360514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastZombieSentry0Frames_0: 3210791042912712583
+      CastZombieSentry0Frames_1: 6754693164021069350
+      CastZombieSentry0Frames_10: 2432186740404141471
+      CastZombieSentry0Frames_100: 196469824659420601
+      CastZombieSentry0Frames_101: -7278595036875545877
+      CastZombieSentry0Frames_102: 5184639121451482138
+      CastZombieSentry0Frames_103: -3350517855885585811
+      CastZombieSentry0Frames_104: -1139612881570683546
+      CastZombieSentry0Frames_105: -5065828841230721455
+      CastZombieSentry0Frames_106: -2638009734814928434
+      CastZombieSentry0Frames_107: 4465200314650413976
+      CastZombieSentry0Frames_108: -2587919628715224937
+      CastZombieSentry0Frames_109: -7491341135308645476
+      CastZombieSentry0Frames_11: -3041915627718117839
+      CastZombieSentry0Frames_110: -3572697857413401705
+      CastZombieSentry0Frames_111: 6709410349006004467
+      CastZombieSentry0Frames_112: -8629898281456109058
+      CastZombieSentry0Frames_113: -4026614890981651457
+      CastZombieSentry0Frames_114: -3245872051426626067
+      CastZombieSentry0Frames_115: 6785344472682909886
+      CastZombieSentry0Frames_116: 7192796475781892352
+      CastZombieSentry0Frames_117: -5193934127691543052
+      CastZombieSentry0Frames_118: 6786070738496266982
+      CastZombieSentry0Frames_119: 3582233963272399513
+      CastZombieSentry0Frames_12: 411842731124385500
+      CastZombieSentry0Frames_120: -6093470875042750322
+      CastZombieSentry0Frames_121: 8312186958623965569
+      CastZombieSentry0Frames_122: -630354316386358875
+      CastZombieSentry0Frames_123: 4093536506037292073
+      CastZombieSentry0Frames_124: 4172032259060840793
+      CastZombieSentry0Frames_125: 2547855639474476009
+      CastZombieSentry0Frames_126: 7026912033693267773
+      CastZombieSentry0Frames_127: -32830295365360514
+      CastZombieSentry0Frames_13: 6115430221426503368
+      CastZombieSentry0Frames_14: 4848567230868770487
+      CastZombieSentry0Frames_15: 4219822345861047665
+      CastZombieSentry0Frames_16: 4431338328240658611
+      CastZombieSentry0Frames_17: -1967620102200430270
+      CastZombieSentry0Frames_18: -315953641198933790
+      CastZombieSentry0Frames_19: -6405139549325059998
+      CastZombieSentry0Frames_2: -8901683490368280504
+      CastZombieSentry0Frames_20: -2968487160284979599
+      CastZombieSentry0Frames_21: -3465430814110830744
+      CastZombieSentry0Frames_22: -131097879369357445
+      CastZombieSentry0Frames_23: -6025481376155860827
+      CastZombieSentry0Frames_24: 6068063136114916882
+      CastZombieSentry0Frames_25: 6273735743903491512
+      CastZombieSentry0Frames_26: -4746958654539390373
+      CastZombieSentry0Frames_27: 7071388541423026779
+      CastZombieSentry0Frames_28: -3621172409459939716
+      CastZombieSentry0Frames_29: 6831211267477304991
+      CastZombieSentry0Frames_3: -6147768639511962341
+      CastZombieSentry0Frames_30: 629912650374196354
+      CastZombieSentry0Frames_31: 8189256837174119491
+      CastZombieSentry0Frames_32: 3861867184533906701
+      CastZombieSentry0Frames_33: 3013101934124278625
+      CastZombieSentry0Frames_34: -3978133388311488878
+      CastZombieSentry0Frames_35: 1797371187847942423
+      CastZombieSentry0Frames_36: -8342704949062677052
+      CastZombieSentry0Frames_37: 8927556463487036718
+      CastZombieSentry0Frames_38: 1125079822628497247
+      CastZombieSentry0Frames_39: -4971781460349925885
+      CastZombieSentry0Frames_4: 1957177397056046475
+      CastZombieSentry0Frames_40: 4735556893523798376
+      CastZombieSentry0Frames_41: 1061318972230706021
+      CastZombieSentry0Frames_42: -7228183397214551509
+      CastZombieSentry0Frames_43: -3989828675278992425
+      CastZombieSentry0Frames_44: 6387649897579368673
+      CastZombieSentry0Frames_45: 4736648834909320566
+      CastZombieSentry0Frames_46: 9043963072653484043
+      CastZombieSentry0Frames_47: -7677441210775975963
+      CastZombieSentry0Frames_48: 7047913255020184479
+      CastZombieSentry0Frames_49: 1161331477383700366
+      CastZombieSentry0Frames_5: 6344529919778472504
+      CastZombieSentry0Frames_50: -8014524355804182589
+      CastZombieSentry0Frames_51: 8545669486439409469
+      CastZombieSentry0Frames_52: 2007200069508868416
+      CastZombieSentry0Frames_53: 8816543478357228221
+      CastZombieSentry0Frames_54: -9195122550378459304
+      CastZombieSentry0Frames_55: 7810964707953611931
+      CastZombieSentry0Frames_56: 848181597408846172
+      CastZombieSentry0Frames_57: 8219330248483214591
+      CastZombieSentry0Frames_58: -7020838832409710814
+      CastZombieSentry0Frames_59: 8239473424551117878
+      CastZombieSentry0Frames_6: 1890892966114874299
+      CastZombieSentry0Frames_60: 143602282695250153
+      CastZombieSentry0Frames_61: -8137534543997091660
+      CastZombieSentry0Frames_62: -5785081079021968364
+      CastZombieSentry0Frames_63: 673632504940454212
+      CastZombieSentry0Frames_64: -5500040955786511283
+      CastZombieSentry0Frames_65: 6416557915919954493
+      CastZombieSentry0Frames_66: -1852838091215441461
+      CastZombieSentry0Frames_67: -182740441267662930
+      CastZombieSentry0Frames_68: -2262545525988395742
+      CastZombieSentry0Frames_69: -8853099545133141244
+      CastZombieSentry0Frames_7: -7093963926296092034
+      CastZombieSentry0Frames_70: 7865982160168869361
+      CastZombieSentry0Frames_71: -159489042533658964
+      CastZombieSentry0Frames_72: 5157020368350642408
+      CastZombieSentry0Frames_73: 5126519530361946387
+      CastZombieSentry0Frames_74: 728448038417122324
+      CastZombieSentry0Frames_75: -3647172200436253096
+      CastZombieSentry0Frames_76: 5151691392251857881
+      CastZombieSentry0Frames_77: -5574220873721758937
+      CastZombieSentry0Frames_78: 1861273950636933543
+      CastZombieSentry0Frames_79: 8471824668506150094
+      CastZombieSentry0Frames_8: 3687318244077173622
+      CastZombieSentry0Frames_80: -1478166195351437328
+      CastZombieSentry0Frames_81: 1085873246889270409
+      CastZombieSentry0Frames_82: 4212172783968038852
+      CastZombieSentry0Frames_83: 5238147680813222491
+      CastZombieSentry0Frames_84: -2168583102026962487
+      CastZombieSentry0Frames_85: 4852860980790675983
+      CastZombieSentry0Frames_86: 9172317808731643626
+      CastZombieSentry0Frames_87: -2351840300849305225
+      CastZombieSentry0Frames_88: 564609656207811670
+      CastZombieSentry0Frames_89: -5752608422836894550
+      CastZombieSentry0Frames_9: -1793800662131070987
+      CastZombieSentry0Frames_90: -5134340591957559012
+      CastZombieSentry0Frames_91: -126784586399008363
+      CastZombieSentry0Frames_92: 261460542759027258
+      CastZombieSentry0Frames_93: -6504116988988672389
+      CastZombieSentry0Frames_94: 981068553035190090
+      CastZombieSentry0Frames_95: -6529680910593061660
+      CastZombieSentry0Frames_96: -8562863371230249831
+      CastZombieSentry0Frames_97: -8305708021868215100
+      CastZombieSentry0Frames_98: 4636684611368336260
+      CastZombieSentry0Frames_99: 2972206593487450392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

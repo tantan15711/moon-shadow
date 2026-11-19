@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: c358399c024a7814982a4bbeab694823
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8023185235613460767
+    second: CastWalkerFrames_0
+  - first:
+      213: 5916788060675627387
+    second: CastWalkerFrames_1
+  - first:
+      213: 2493882499783360768
+    second: CastWalkerFrames_2
+  - first:
+      213: 9044251849999885576
+    second: CastWalkerFrames_3
+  - first:
+      213: -7563705617302148211
+    second: CastWalkerFrames_4
+  - first:
+      213: -7007915754685162417
+    second: CastWalkerFrames_5
+  - first:
+      213: 7836102350380369107
+    second: CastWalkerFrames_6
+  - first:
+      213: -599014545344201987
+    second: CastWalkerFrames_7
+  - first:
+      213: -3973220958509671548
+    second: CastWalkerFrames_8
+  - first:
+      213: -3998991283403992621
+    second: CastWalkerFrames_9
+  - first:
+      213: -2971895869855593370
+    second: CastWalkerFrames_10
+  - first:
+      213: 6702762003725306778
+    second: CastWalkerFrames_11
+  - first:
+      213: -1994115034179584556
+    second: CastWalkerFrames_12
+  - first:
+      213: -6147128365169753490
+    second: CastWalkerFrames_13
+  - first:
+      213: -1908384826397512302
+    second: CastWalkerFrames_14
+  - first:
+      213: 6072213041214431926
+    second: CastWalkerFrames_15
+  - first:
+      213: -7344464051752509398
+    second: CastWalkerFrames_16
+  - first:
+      213: 3320130869650002434
+    second: CastWalkerFrames_17
+  - first:
+      213: -823779224257616534
+    second: CastWalkerFrames_18
+  - first:
+      213: -7372272181555337124
+    second: CastWalkerFrames_19
+  - first:
+      213: 1510806915571595279
+    second: CastWalkerFrames_20
+  - first:
+      213: 1884356023557968025
+    second: CastWalkerFrames_21
+  - first:
+      213: 2000612881797320096
+    second: CastWalkerFrames_22
+  - first:
+      213: -4264682989827395850
+    second: CastWalkerFrames_23
+  - first:
+      213: 8592782787743447658
+    second: CastWalkerFrames_24
+  - first:
+      213: 8847864020025371134
+    second: CastWalkerFrames_25
+  - first:
+      213: 6644656570549792227
+    second: CastWalkerFrames_26
+  - first:
+      213: 7512308438910138245
+    second: CastWalkerFrames_27
+  - first:
+      213: 8543363007174863940
+    second: CastWalkerFrames_28
+  - first:
+      213: -5899196079108298215
+    second: CastWalkerFrames_29
+  - first:
+      213: -2574146205517732850
+    second: CastWalkerFrames_30
+  - first:
+      213: -3304567652907647402
+    second: CastWalkerFrames_31
+  - first:
+      213: 7106701515850626545
+    second: CastWalkerFrames_32
+  - first:
+      213: 4496702095689283892
+    second: CastWalkerFrames_33
+  - first:
+      213: -3750738914205512726
+    second: CastWalkerFrames_34
+  - first:
+      213: -4264037866299073991
+    second: CastWalkerFrames_35
+  - first:
+      213: -4731151913211412982
+    second: CastWalkerFrames_36
+  - first:
+      213: 1758737608269648612
+    second: CastWalkerFrames_37
+  - first:
+      213: 4000507515911248744
+    second: CastWalkerFrames_38
+  - first:
+      213: 9080636595319766039
+    second: CastWalkerFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastWalkerFrames_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1926ef8674185f60800000000000000
+      internalID: 8023185235613460767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 462
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d7d78467ac1250800000000000000
+      internalID: 5916788060675627387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 462
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001862f9bec0c9220800000000000000
+      internalID: 2493882499783360768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 462
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a96a9323a38d70800000000000000
+      internalID: 9044251849999885576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 462
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b2417b0d1580790800000000000000
+      internalID: -7563705617302148211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 462
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c902a20c1eebe90800000000000000
+      internalID: -7007915754685162417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 462
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4860af19d6fbc60800000000000000
+      internalID: 7836102350380369107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 462
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa7779d17fdfa7f0800000000000000
+      internalID: -599014545344201987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 350
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd4e9d6984cd8c0800000000000000
+      internalID: -3973220958509671548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 350
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d152d48d9ab088c0800000000000000
+      internalID: -3998991283403992621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 350
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8ecfb374b1c6d0800000000000000
+      internalID: -2971895869855593370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 350
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4806978ef40d50800000000000000
+      internalID: 6702762003725306778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 350
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb57211fa7354e0800000000000000
+      internalID: -1994115034179584556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_13
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 350
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62445d125301baa0800000000000000
+      internalID: -6147128365169753490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 350
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29da4d78c1e0485e0800000000000000
+      internalID: -1908384826397512302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 350
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2a41ac695d44450800000000000000
+      internalID: 6072213041214431926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 238
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206aa98bd8331a90800000000000000
+      internalID: -7344464051752509398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 238
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2021c456f69731e20800000000000000
+      internalID: 3320130869650002434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 238
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6527ccf8295194f0800000000000000
+      internalID: -823779224257616534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 238
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5866e6c28d60b990800000000000000
+      internalID: -7372272181555337124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 238
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0839d692e677f410800000000000000
+      internalID: 1510806915571595279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 238
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905a86d1d3962a10800000000000000
+      internalID: 1884356023557968025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 238
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8998f0da93cb10800000000000000
+      internalID: 2000612881797320096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 238
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feefaf7a6dc0d4c0800000000000000
+      internalID: -4264682989827395850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 126
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6af98f3b62bf3770800000000000000
+      internalID: 8592782787743447658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9629eb27de9ca70800000000000000
+      internalID: 8847864020025371134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 126
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede51e22ff863c50800000000000000
+      internalID: 6644656570549792227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 126
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587786829b4114860800000000000000
+      internalID: 7512308438910138245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_28
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 126
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ceedde36f109670800000000000000
+      internalID: 8543363007174863940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 126
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a6f5cdb68d12ea0800000000000000
+      internalID: -5899196079108298215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 126
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04223c1aabc64cd0800000000000000
+      internalID: -2574146205517732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 126
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e71306a31d322d0800000000000000
+      internalID: -3304567652907647402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 14
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b101306310a260800000000000000
+      internalID: 7106701515850626545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 14
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43970524bbe776e30800000000000000
+      internalID: 4496702095689283892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 14
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebcb8d64d2b2fbc0800000000000000
+      internalID: -3750738914205512726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_35
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 14
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93add66072813d4c0800000000000000
+      internalID: -4264037866299073991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_36
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 14
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ebf92d662975eb0800000000000000
+      internalID: -4731151913211412982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_37
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 14
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2580a598a486810800000000000000
+      internalID: 1758737608269648612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 14
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b9b2fd368a48730800000000000000
+      internalID: 4000507515911248744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastWalkerFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 14
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c72764fd6e40e70800000000000000
+      internalID: 9080636595319766039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastWalkerFrames_0: 8023185235613460767
+      CastWalkerFrames_1: 5916788060675627387
+      CastWalkerFrames_10: -2971895869855593370
+      CastWalkerFrames_11: 6702762003725306778
+      CastWalkerFrames_12: -1994115034179584556
+      CastWalkerFrames_13: -6147128365169753490
+      CastWalkerFrames_14: -1908384826397512302
+      CastWalkerFrames_15: 6072213041214431926
+      CastWalkerFrames_16: -7344464051752509398
+      CastWalkerFrames_17: 3320130869650002434
+      CastWalkerFrames_18: -823779224257616534
+      CastWalkerFrames_19: -7372272181555337124
+      CastWalkerFrames_2: 2493882499783360768
+      CastWalkerFrames_20: 1510806915571595279
+      CastWalkerFrames_21: 1884356023557968025
+      CastWalkerFrames_22: 2000612881797320096
+      CastWalkerFrames_23: -4264682989827395850
+      CastWalkerFrames_24: 8592782787743447658
+      CastWalkerFrames_25: 8847864020025371134
+      CastWalkerFrames_26: 6644656570549792227
+      CastWalkerFrames_27: 7512308438910138245
+      CastWalkerFrames_28: 8543363007174863940
+      CastWalkerFrames_29: -5899196079108298215
+      CastWalkerFrames_3: 9044251849999885576
+      CastWalkerFrames_30: -2574146205517732850
+      CastWalkerFrames_31: -3304567652907647402
+      CastWalkerFrames_32: 7106701515850626545
+      CastWalkerFrames_33: 4496702095689283892
+      CastWalkerFrames_34: -3750738914205512726
+      CastWalkerFrames_35: -4264037866299073991
+      CastWalkerFrames_36: -4731151913211412982
+      CastWalkerFrames_37: 1758737608269648612
+      CastWalkerFrames_38: 4000507515911248744
+      CastWalkerFrames_39: 9080636595319766039
+      CastWalkerFrames_4: -7563705617302148211
+      CastWalkerFrames_5: -7007915754685162417
+      CastWalkerFrames_6: 7836102350380369107
+      CastWalkerFrames_7: -599014545344201987
+      CastWalkerFrames_8: -3973220958509671548
+      CastWalkerFrames_9: -3998991283403992621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

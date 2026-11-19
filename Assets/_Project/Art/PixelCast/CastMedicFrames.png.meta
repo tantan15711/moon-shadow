@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: ff3e3e5316d2b584783678c04c793800
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5031484024962502686
+    second: CastMedicFrames_0
+  - first:
+      213: 6789742228092104415
+    second: CastMedicFrames_1
+  - first:
+      213: -1846118967978196714
+    second: CastMedicFrames_2
+  - first:
+      213: -5611320345201286612
+    second: CastMedicFrames_3
+  - first:
+      213: -6390736454719242152
+    second: CastMedicFrames_4
+  - first:
+      213: -3226141251477146021
+    second: CastMedicFrames_5
+  - first:
+      213: 308771389358690602
+    second: CastMedicFrames_6
+  - first:
+      213: 7653553619870661824
+    second: CastMedicFrames_7
+  - first:
+      213: 7758541102828279887
+    second: CastMedicFrames_8
+  - first:
+      213: 4459869695522813383
+    second: CastMedicFrames_9
+  - first:
+      213: 4940894213598374219
+    second: CastMedicFrames_10
+  - first:
+      213: 5699907104352947217
+    second: CastMedicFrames_11
+  - first:
+      213: 1003345067699109232
+    second: CastMedicFrames_12
+  - first:
+      213: -3467869836150175117
+    second: CastMedicFrames_13
+  - first:
+      213: -5340933244162838833
+    second: CastMedicFrames_14
+  - first:
+      213: -482174374474942118
+    second: CastMedicFrames_15
+  - first:
+      213: -4235032844799195839
+    second: CastMedicFrames_16
+  - first:
+      213: -9113823210597347355
+    second: CastMedicFrames_17
+  - first:
+      213: -6502687971260848026
+    second: CastMedicFrames_18
+  - first:
+      213: -4330037709949253897
+    second: CastMedicFrames_19
+  - first:
+      213: 6598803765700333337
+    second: CastMedicFrames_20
+  - first:
+      213: 7906019685979222275
+    second: CastMedicFrames_21
+  - first:
+      213: 6816495259677777909
+    second: CastMedicFrames_22
+  - first:
+      213: 4356897924507274784
+    second: CastMedicFrames_23
+  - first:
+      213: 4854163503917363610
+    second: CastMedicFrames_24
+  - first:
+      213: -6563235656648994156
+    second: CastMedicFrames_25
+  - first:
+      213: 8796426792920470527
+    second: CastMedicFrames_26
+  - first:
+      213: 7487786328672463108
+    second: CastMedicFrames_27
+  - first:
+      213: 174620691510987952
+    second: CastMedicFrames_28
+  - first:
+      213: 6796754373195410691
+    second: CastMedicFrames_29
+  - first:
+      213: -3249081165306096993
+    second: CastMedicFrames_30
+  - first:
+      213: 2513655102733492012
+    second: CastMedicFrames_31
+  - first:
+      213: 6851518958212477725
+    second: CastMedicFrames_32
+  - first:
+      213: 4292405712368007367
+    second: CastMedicFrames_33
+  - first:
+      213: -1664075343456312245
+    second: CastMedicFrames_34
+  - first:
+      213: 7613949701713196160
+    second: CastMedicFrames_35
+  - first:
+      213: 124417364673414850
+    second: CastMedicFrames_36
+  - first:
+      213: -1240233152332504442
+    second: CastMedicFrames_37
+  - first:
+      213: -2798236704059851965
+    second: CastMedicFrames_38
+  - first:
+      213: -4244353922117374852
+    second: CastMedicFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastMedicFrames_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 462
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efae0fefe39c2ab0800000000000000
+      internalID: -5031484024962502686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 462
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde26e535920a3e50800000000000000
+      internalID: 6789742228092104415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 462
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118c8c64944166e0800000000000000
+      internalID: -1846118967978196714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 462
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ea5740e59022b0800000000000000
+      internalID: -5611320345201286612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 462
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500253dd0b8f47a0800000000000000
+      internalID: -6390736454719242152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 462
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b567876ef917a33d0800000000000000
+      internalID: -3226141251477146021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 462
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21578351f9f84400800000000000000
+      internalID: 308771389358690602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 462
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccbbcd8772e63a60800000000000000
+      internalID: 7653553619870661824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d859c600ebab60800000000000000
+      internalID: 7758541102828279887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 350
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ba22dbd3a4ed30800000000000000
+      internalID: 4459869695522813383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 350
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49605afb15919440800000000000000
+      internalID: 4940894213598374219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 350
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cceafdf432a1f40800000000000000
+      internalID: 5699907104352947217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 350
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d785be5099ced00800000000000000
+      internalID: 1003345067699109232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_13
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 350
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0af0f1c6afdfc0800000000000000
+      internalID: -3467869836150175117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 350
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce699c038131e5b0800000000000000
+      internalID: -5340933244162838833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 350
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59ff9906f8fe49f0800000000000000
+      internalID: -482174374474942118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 238
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c1a9d0142a35c0800000000000000
+      internalID: -4235032844799195839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef82aab312358180800000000000000
+      internalID: -9113823210597347355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 238
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668aacb2ebfc1c5a0800000000000000
+      internalID: -6502687971260848026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 238
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cd62f4ad98e3c0800000000000000
+      internalID: -4330037709949253897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_20
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 238
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f041d1019a39b50800000000000000
+      internalID: 6598803765700333337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 238
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301790a3403d7bd60800000000000000
+      internalID: 7906019685979222275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 238
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff5a36c25e099e50800000000000000
+      internalID: 6816495259677777909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 238
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e84e8149fc67c30800000000000000
+      internalID: 4356897924507274784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f8a40df37d5340800000000000000
+      internalID: 4854163503917363610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 126
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492524c91f3bae4a0800000000000000
+      internalID: -6563235656648994156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 126
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d0cc009f231a70800000000000000
+      internalID: 8796426792920470527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 126
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096c827ef5f9e760800000000000000
+      internalID: 7487786328672463108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc02fff7906c6200800000000000000
+      internalID: 174620691510987952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_29
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 126
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d25e7771ce25e50800000000000000
+      internalID: 6796754373195410691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 126
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92948ff4e1f8e2d0800000000000000
+      internalID: -3249081165306096993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 126
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f174e7ffb42e220800000000000000
+      internalID: 2513655102733492012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13fb1c013c751f50800000000000000
+      internalID: 6851518958212477725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c87d85d040b19b30800000000000000
+      internalID: 4292405712368007367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 14
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ecc1ba4408e8e0800000000000000
+      internalID: -1664075343456312245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 14
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0847e4cc9ee2aa960800000000000000
+      internalID: 7613949701713196160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 14
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6cf391fe40ab100800000000000000
+      internalID: 124417364673414850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_37
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 14
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ee8cd48ec9cee0800000000000000
+      internalID: -1240233152332504442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 14
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b7d091b8aaa29d0800000000000000
+      internalID: -2798236704059851965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastMedicFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 14
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c682b68960915c0800000000000000
+      internalID: -4244353922117374852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastMedicFrames_0: -5031484024962502686
+      CastMedicFrames_1: 6789742228092104415
+      CastMedicFrames_10: 4940894213598374219
+      CastMedicFrames_11: 5699907104352947217
+      CastMedicFrames_12: 1003345067699109232
+      CastMedicFrames_13: -3467869836150175117
+      CastMedicFrames_14: -5340933244162838833
+      CastMedicFrames_15: -482174374474942118
+      CastMedicFrames_16: -4235032844799195839
+      CastMedicFrames_17: -9113823210597347355
+      CastMedicFrames_18: -6502687971260848026
+      CastMedicFrames_19: -4330037709949253897
+      CastMedicFrames_2: -1846118967978196714
+      CastMedicFrames_20: 6598803765700333337
+      CastMedicFrames_21: 7906019685979222275
+      CastMedicFrames_22: 6816495259677777909
+      CastMedicFrames_23: 4356897924507274784
+      CastMedicFrames_24: 4854163503917363610
+      CastMedicFrames_25: -6563235656648994156
+      CastMedicFrames_26: 8796426792920470527
+      CastMedicFrames_27: 7487786328672463108
+      CastMedicFrames_28: 174620691510987952
+      CastMedicFrames_29: 6796754373195410691
+      CastMedicFrames_3: -5611320345201286612
+      CastMedicFrames_30: -3249081165306096993
+      CastMedicFrames_31: 2513655102733492012
+      CastMedicFrames_32: 6851518958212477725
+      CastMedicFrames_33: 4292405712368007367
+      CastMedicFrames_34: -1664075343456312245
+      CastMedicFrames_35: 7613949701713196160
+      CastMedicFrames_36: 124417364673414850
+      CastMedicFrames_37: -1240233152332504442
+      CastMedicFrames_38: -2798236704059851965
+      CastMedicFrames_39: -4244353922117374852
+      CastMedicFrames_4: -6390736454719242152
+      CastMedicFrames_5: -3226141251477146021
+      CastMedicFrames_6: 308771389358690602
+      CastMedicFrames_7: 7653553619870661824
+      CastMedicFrames_8: 7758541102828279887
+      CastMedicFrames_9: 4459869695522813383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

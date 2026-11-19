@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: e9711fcea0fc2f740a67993bf388b1e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6669796125322975445
+    second: CastSofyFrames_0
+  - first:
+      213: 8224972359343779240
+    second: CastSofyFrames_1
+  - first:
+      213: -3146511460745747340
+    second: CastSofyFrames_2
+  - first:
+      213: 3686479424595113714
+    second: CastSofyFrames_3
+  - first:
+      213: -2599614494437119322
+    second: CastSofyFrames_4
+  - first:
+      213: -882667468678505250
+    second: CastSofyFrames_5
+  - first:
+      213: -8976226078862411978
+    second: CastSofyFrames_6
+  - first:
+      213: -387995536107640543
+    second: CastSofyFrames_7
+  - first:
+      213: 3385879619192121998
+    second: CastSofyFrames_8
+  - first:
+      213: -7745898954793616433
+    second: CastSofyFrames_9
+  - first:
+      213: -4567331680284958480
+    second: CastSofyFrames_10
+  - first:
+      213: 2088896223769409588
+    second: CastSofyFrames_11
+  - first:
+      213: -8465869754451383954
+    second: CastSofyFrames_12
+  - first:
+      213: -6315106819918062910
+    second: CastSofyFrames_13
+  - first:
+      213: -8266497900259480565
+    second: CastSofyFrames_14
+  - first:
+      213: -4017678405499762987
+    second: CastSofyFrames_15
+  - first:
+      213: -209502438429665160
+    second: CastSofyFrames_16
+  - first:
+      213: -8551770071543377119
+    second: CastSofyFrames_17
+  - first:
+      213: -8845517390667852628
+    second: CastSofyFrames_18
+  - first:
+      213: -4918164388794723731
+    second: CastSofyFrames_19
+  - first:
+      213: 223684140749109473
+    second: CastSofyFrames_20
+  - first:
+      213: 4752501840023068750
+    second: CastSofyFrames_21
+  - first:
+      213: -130077400029590752
+    second: CastSofyFrames_22
+  - first:
+      213: -1026232082262267023
+    second: CastSofyFrames_23
+  - first:
+      213: 3773007642761133510
+    second: CastSofyFrames_24
+  - first:
+      213: -2228190836463773157
+    second: CastSofyFrames_25
+  - first:
+      213: -1853716581872023053
+    second: CastSofyFrames_26
+  - first:
+      213: -6444303159562717734
+    second: CastSofyFrames_27
+  - first:
+      213: 4611229277898668639
+    second: CastSofyFrames_28
+  - first:
+      213: 6126742894384945146
+    second: CastSofyFrames_29
+  - first:
+      213: 6167877258213534404
+    second: CastSofyFrames_30
+  - first:
+      213: -2932456267708803408
+    second: CastSofyFrames_31
+  - first:
+      213: 5225325760181826137
+    second: CastSofyFrames_32
+  - first:
+      213: 3930014655683009515
+    second: CastSofyFrames_33
+  - first:
+      213: 1513370290961762436
+    second: CastSofyFrames_34
+  - first:
+      213: 5507690776396504222
+    second: CastSofyFrames_35
+  - first:
+      213: -8422969798558113368
+    second: CastSofyFrames_36
+  - first:
+      213: 3144661609470285367
+    second: CastSofyFrames_37
+  - first:
+      213: -2955870321512692267
+    second: CastSofyFrames_38
+  - first:
+      213: -8614790017392126918
+    second: CastSofyFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastSofyFrames_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e8d913cf1073a0800000000000000
+      internalID: -6669796125322975445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 462
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada71678c8f42270800000000000000
+      internalID: 8224972359343779240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 462
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ed845f785554d0800000000000000
+      internalID: -3146511460745747340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 462
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f637ce3181092330800000000000000
+      internalID: 3686479424595113714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 462
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa6e1204605cebd0800000000000000
+      internalID: -2599614494437119322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 462
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcdf922d9220c3f0800000000000000
+      internalID: -882667468678505250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 462
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fec970f90e6380800000000000000
+      internalID: -8976226078862411978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 462
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129edd79d109d9af0800000000000000
+      internalID: -387995536107640543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a6e22139f0dfe20800000000000000
+      internalID: 3385879619192121998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 350
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbf47da0f9018490800000000000000
+      internalID: -7745898954793616433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 350
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02a3919049d90c0800000000000000
+      internalID: -4567331680284958480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 350
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383e6e4c004dfc10800000000000000
+      internalID: 2088896223769409588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 350
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a33bff40338a80800000000000000
+      internalID: -8465869754451383954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 350
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca13206ecb3c58a0800000000000000
+      internalID: -6315106819918062910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 350
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c658e15ff774d80800000000000000
+      internalID: -8266497900259480565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 350
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6cd6ad6c65e38c0800000000000000
+      internalID: -4017678405499762987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 238
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87852d964a2b71df0800000000000000
+      internalID: -209502438429665160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 238
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12317dcdd62025980800000000000000
+      internalID: -8551770071543377119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 238
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d3ba7cc86e3580800000000000000
+      internalID: -8845517390667852628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 238
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621ae2cb8b2fbbb0800000000000000
+      internalID: -4918164388794723731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 238
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83d377a8faa1300800000000000000
+      internalID: 223684140749109473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 238
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4027f06e3744f140800000000000000
+      internalID: 4752501840023068750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 238
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b0ee93b4fd13ef0800000000000000
+      internalID: -130077400029590752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 238
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be5afbb5712c1f0800000000000000
+      internalID: -1026232082262267023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd7c99f57a6c5430800000000000000
+      internalID: 3773007642761133510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1adbcc5d30e311e0800000000000000
+      internalID: -2228190836463773157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 126
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9444717964646e0800000000000000
+      internalID: -1853716581872023053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 126
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad536557b6c3196a0800000000000000
+      internalID: -6444303159562717734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 126
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5af70fc8906eff30800000000000000
+      internalID: 4611229277898668639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 126
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af796f99330960550800000000000000
+      internalID: 6126742894384945146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 126
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca270200b3b89550800000000000000
+      internalID: 6167877258213534404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 126
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b659d3bf82dd47d0800000000000000
+      internalID: -2932456267708803408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f55b0816148840800000000000000
+      internalID: 5225325760181826137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb901ad1873a8630800000000000000
+      internalID: 3930014655683009515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c76ee242900510800000000000000
+      internalID: 1513370290961762436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 14
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1fc3849f3f6c40800000000000000
+      internalID: 5507690776396504222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 14
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a91358999b1b80800000000000000
+      internalID: -8422969798558113368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 14
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d84b921514ab20800000000000000
+      internalID: 3144661609470285367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 14
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5cd1c7a93aaf6d0800000000000000
+      internalID: -2955870321512692267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSofyFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 14
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34d2ce4f1e127880800000000000000
+      internalID: -8614790017392126918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastSofyFrames_0: -6669796125322975445
+      CastSofyFrames_1: 8224972359343779240
+      CastSofyFrames_10: -4567331680284958480
+      CastSofyFrames_11: 2088896223769409588
+      CastSofyFrames_12: -8465869754451383954
+      CastSofyFrames_13: -6315106819918062910
+      CastSofyFrames_14: -8266497900259480565
+      CastSofyFrames_15: -4017678405499762987
+      CastSofyFrames_16: -209502438429665160
+      CastSofyFrames_17: -8551770071543377119
+      CastSofyFrames_18: -8845517390667852628
+      CastSofyFrames_19: -4918164388794723731
+      CastSofyFrames_2: -3146511460745747340
+      CastSofyFrames_20: 223684140749109473
+      CastSofyFrames_21: 4752501840023068750
+      CastSofyFrames_22: -130077400029590752
+      CastSofyFrames_23: -1026232082262267023
+      CastSofyFrames_24: 3773007642761133510
+      CastSofyFrames_25: -2228190836463773157
+      CastSofyFrames_26: -1853716581872023053
+      CastSofyFrames_27: -6444303159562717734
+      CastSofyFrames_28: 4611229277898668639
+      CastSofyFrames_29: 6126742894384945146
+      CastSofyFrames_3: 3686479424595113714
+      CastSofyFrames_30: 6167877258213534404
+      CastSofyFrames_31: -2932456267708803408
+      CastSofyFrames_32: 5225325760181826137
+      CastSofyFrames_33: 3930014655683009515
+      CastSofyFrames_34: 1513370290961762436
+      CastSofyFrames_35: 5507690776396504222
+      CastSofyFrames_36: -8422969798558113368
+      CastSofyFrames_37: 3144661609470285367
+      CastSofyFrames_38: -2955870321512692267
+      CastSofyFrames_39: -8614790017392126918
+      CastSofyFrames_4: -2599614494437119322
+      CastSofyFrames_5: -882667468678505250
+      CastSofyFrames_6: -8976226078862411978
+      CastSofyFrames_7: -387995536107640543
+      CastSofyFrames_8: 3385879619192121998
+      CastSofyFrames_9: -7745898954793616433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: ebbde7d83f60b2a43992cb106ec8f884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5921204523931137484
+    second: CastOrbitalFrames_0
+  - first:
+      213: 3855698310287860367
+    second: CastOrbitalFrames_1
+  - first:
+      213: -6139179182435788855
+    second: CastOrbitalFrames_2
+  - first:
+      213: -6366983089442314802
+    second: CastOrbitalFrames_3
+  - first:
+      213: -4361679775827385089
+    second: CastOrbitalFrames_4
+  - first:
+      213: 2542390829936553520
+    second: CastOrbitalFrames_5
+  - first:
+      213: -3989293938988526559
+    second: CastOrbitalFrames_6
+  - first:
+      213: -6289689882914278355
+    second: CastOrbitalFrames_7
+  - first:
+      213: -1596170615139441644
+    second: CastOrbitalFrames_8
+  - first:
+      213: 1738868828429186728
+    second: CastOrbitalFrames_9
+  - first:
+      213: 6908226655206266222
+    second: CastOrbitalFrames_10
+  - first:
+      213: 5356406455274302489
+    second: CastOrbitalFrames_11
+  - first:
+      213: 2855026294062525037
+    second: CastOrbitalFrames_12
+  - first:
+      213: -2968619584783634455
+    second: CastOrbitalFrames_13
+  - first:
+      213: 4769385976350390056
+    second: CastOrbitalFrames_14
+  - first:
+      213: 3276821665998895548
+    second: CastOrbitalFrames_15
+  - first:
+      213: -4997081504325369884
+    second: CastOrbitalFrames_16
+  - first:
+      213: 8697949385639181348
+    second: CastOrbitalFrames_17
+  - first:
+      213: 4111625583812839749
+    second: CastOrbitalFrames_18
+  - first:
+      213: -5278112710958970707
+    second: CastOrbitalFrames_19
+  - first:
+      213: -8043865085983638591
+    second: CastOrbitalFrames_20
+  - first:
+      213: -6027978418031635626
+    second: CastOrbitalFrames_21
+  - first:
+      213: -5790218614631268710
+    second: CastOrbitalFrames_22
+  - first:
+      213: -7962044013218121046
+    second: CastOrbitalFrames_23
+  - first:
+      213: 9055130280457218978
+    second: CastOrbitalFrames_24
+  - first:
+      213: 3321780989523852427
+    second: CastOrbitalFrames_25
+  - first:
+      213: -3242237272082192035
+    second: CastOrbitalFrames_26
+  - first:
+      213: 8031486798131765906
+    second: CastOrbitalFrames_27
+  - first:
+      213: 7295254634896360360
+    second: CastOrbitalFrames_28
+  - first:
+      213: -2693305021021169066
+    second: CastOrbitalFrames_29
+  - first:
+      213: -2639525064638934886
+    second: CastOrbitalFrames_30
+  - first:
+      213: 684669033224858000
+    second: CastOrbitalFrames_31
+  - first:
+      213: 5522892641342485102
+    second: CastOrbitalFrames_32
+  - first:
+      213: 4657045299084910950
+    second: CastOrbitalFrames_33
+  - first:
+      213: -5756427959236487002
+    second: CastOrbitalFrames_34
+  - first:
+      213: 1370297154279756526
+    second: CastOrbitalFrames_35
+  - first:
+      213: -5250629668295734673
+    second: CastOrbitalFrames_36
+  - first:
+      213: 3691000131628111910
+    second: CastOrbitalFrames_37
+  - first:
+      213: -938810032789153426
+    second: CastOrbitalFrames_38
+  - first:
+      213: -3646033053828872680
+    second: CastOrbitalFrames_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastOrbitalFrames_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 462
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a06ac7bd7a3dda0800000000000000
+      internalID: -5921204523931137484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 462
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8228c15f21328530800000000000000
+      internalID: 3855698310287860367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 462
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c711727f014dcaa0800000000000000
+      internalID: -6139179182435788855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 462
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52fd62d9ee3a7a0800000000000000
+      internalID: -6366983089442314802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 462
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4adc16a533873c0800000000000000
+      internalID: -4361679775827385089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e249a5df2684320800000000000000
+      internalID: 2542390829936553520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_6
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 462
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12458f57c4e23a8c0800000000000000
+      internalID: -3989293938988526559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 462
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24b68d206886b8a0800000000000000
+      internalID: -6289689882914278355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 350
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41462bb484349d9e0800000000000000
+      internalID: -1596170615139441644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 350
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6758d8cf3b12810800000000000000
+      internalID: 1738868828429186728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 350
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e655473aa83fedf50800000000000000
+      internalID: 6908226655206266222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 350
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ceb37aa47c55a40800000000000000
+      internalID: 5356406455274302489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 350
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2ff1b9471f9720800000000000000
+      internalID: 2855026294062525037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_13
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 350
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef24bf47385dc6d0800000000000000
+      internalID: -2968619584783634455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 350
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273815b643403240800000000000000
+      internalID: 4769385976350390056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_15
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 350
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9fa22a1fb997d20800000000000000
+      internalID: 3276821665998895548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 238
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff205f8dcc6aab0800000000000000
+      internalID: -4997081504325369884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 238
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cb95de1e255b870800000000000000
+      internalID: 8697949385639181348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 238
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54982942fad6f0930800000000000000
+      internalID: 4111625583812839749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 238
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da801da347060c6b0800000000000000
+      internalID: -5278112710958970707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 238
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb37c092537e5090800000000000000
+      internalID: -8043865085983638591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_21
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 238
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653d08ff091585ca0800000000000000
+      internalID: -6027978418031635626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_22
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 238
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7c0f09d205afa0800000000000000
+      internalID: -5790218614631268710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_23
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 238
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabb1a9723218190800000000000000
+      internalID: -7962044013218121046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab298193094aad70800000000000000
+      internalID: 9055130280457218978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cf63ed536591e20800000000000000
+      internalID: 3321780989523852427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 126
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59620011624103d0800000000000000
+      internalID: -3242237272082192035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 126
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29222e4b0b2957f60800000000000000
+      internalID: 8031486798131765906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_28
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 126
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305034073fd3560800000000000000
+      internalID: 7295254634896360360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 126
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad1466a557f9ad0800000000000000
+      internalID: -2693305021021169066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_30
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 126
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90d47240f58e5bd0800000000000000
+      internalID: -2639525064638934886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_31
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 126
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e312bbde608900800000000000000
+      internalID: 684669033224858000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 14
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6276d3889145ac40800000000000000
+      internalID: 5522892641342485102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 14
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ebd2860621a040800000000000000
+      internalID: 4657045299084910950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 14
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8159a154f0d10b0800000000000000
+      internalID: -5756427959236487002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 14
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d29d6006440310800000000000000
+      internalID: 1370297154279756526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_36
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 14
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a0b1eb2240227b0800000000000000
+      internalID: -5250629668295734673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_37
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 14
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281d9f5011193330800000000000000
+      internalID: 3691000131628111910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_38
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 14
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69970ccf3da8f2f0800000000000000
+      internalID: -938810032789153426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastOrbitalFrames_39
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 14
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816823b4140b66dc0800000000000000
+      internalID: -3646033053828872680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastOrbitalFrames_0: -5921204523931137484
+      CastOrbitalFrames_1: 3855698310287860367
+      CastOrbitalFrames_10: 6908226655206266222
+      CastOrbitalFrames_11: 5356406455274302489
+      CastOrbitalFrames_12: 2855026294062525037
+      CastOrbitalFrames_13: -2968619584783634455
+      CastOrbitalFrames_14: 4769385976350390056
+      CastOrbitalFrames_15: 3276821665998895548
+      CastOrbitalFrames_16: -4997081504325369884
+      CastOrbitalFrames_17: 8697949385639181348
+      CastOrbitalFrames_18: 4111625583812839749
+      CastOrbitalFrames_19: -5278112710958970707
+      CastOrbitalFrames_2: -6139179182435788855
+      CastOrbitalFrames_20: -8043865085983638591
+      CastOrbitalFrames_21: -6027978418031635626
+      CastOrbitalFrames_22: -5790218614631268710
+      CastOrbitalFrames_23: -7962044013218121046
+      CastOrbitalFrames_24: 9055130280457218978
+      CastOrbitalFrames_25: 3321780989523852427
+      CastOrbitalFrames_26: -3242237272082192035
+      CastOrbitalFrames_27: 8031486798131765906
+      CastOrbitalFrames_28: 7295254634896360360
+      CastOrbitalFrames_29: -2693305021021169066
+      CastOrbitalFrames_3: -6366983089442314802
+      CastOrbitalFrames_30: -2639525064638934886
+      CastOrbitalFrames_31: 684669033224858000
+      CastOrbitalFrames_32: 5522892641342485102
+      CastOrbitalFrames_33: 4657045299084910950
+      CastOrbitalFrames_34: -5756427959236487002
+      CastOrbitalFrames_35: 1370297154279756526
+      CastOrbitalFrames_36: -5250629668295734673
+      CastOrbitalFrames_37: 3691000131628111910
+      CastOrbitalFrames_38: -938810032789153426
+      CastOrbitalFrames_39: -3646033053828872680
+      CastOrbitalFrames_4: -4361679775827385089
+      CastOrbitalFrames_5: 2542390829936553520
+      CastOrbitalFrames_6: -3989293938988526559
+      CastOrbitalFrames_7: -6289689882914278355
+      CastOrbitalFrames_8: -1596170615139441644
+      CastOrbitalFrames_9: 1738868828429186728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 

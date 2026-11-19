@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: c28a866c1c931a2418f630a1760785df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6414715981760606862
+    second: PixelZombieWalkerMotion_0
+  - first:
+      213: 8829260331894162399
+    second: PixelZombieWalkerMotion_1
+  - first:
+      213: 5786528665061131746
+    second: PixelZombieWalkerMotion_2
+  - first:
+      213: -7711995136598339176
+    second: PixelZombieWalkerMotion_3
+  - first:
+      213: -5363297489126734830
+    second: PixelZombieWalkerMotion_4
+  - first:
+      213: -4650905364715833491
+    second: PixelZombieWalkerMotion_5
+  - first:
+      213: 8455914715998264612
+    second: PixelZombieWalkerMotion_6
+  - first:
+      213: -226978067341060484
+    second: PixelZombieWalkerMotion_7
+  - first:
+      213: -6018146156599207459
+    second: PixelZombieWalkerMotion_8
+  - first:
+      213: -4739348634186226729
+    second: PixelZombieWalkerMotion_9
+  - first:
+      213: 1044836435213612300
+    second: PixelZombieWalkerMotion_10
+  - first:
+      213: -8390274788241520542
+    second: PixelZombieWalkerMotion_11
+  - first:
+      213: -7592940967626477902
+    second: PixelZombieWalkerMotion_12
+  - first:
+      213: -3986380813934269055
+    second: PixelZombieWalkerMotion_13
+  - first:
+      213: -7788494374849783724
+    second: PixelZombieWalkerMotion_14
+  - first:
+      213: 8540367492307254042
+    second: PixelZombieWalkerMotion_15
+  - first:
+      213: -8822075595146045297
+    second: PixelZombieWalkerMotion_16
+  - first:
+      213: -4610937497925063127
+    second: PixelZombieWalkerMotion_17
+  - first:
+      213: -8983251675001267028
+    second: PixelZombieWalkerMotion_18
+  - first:
+      213: 6675013616784631100
+    second: PixelZombieWalkerMotion_19
+  - first:
+      213: -4377877332494898302
+    second: PixelZombieWalkerMotion_20
+  - first:
+      213: -1290583915491687446
+    second: PixelZombieWalkerMotion_21
+  - first:
+      213: -5892409799279590764
+    second: PixelZombieWalkerMotion_22
+  - first:
+      213: -279439532318601196
+    second: PixelZombieWalkerMotion_23
+  - first:
+      213: 2773166604465521114
+    second: PixelZombieWalkerMotion_24
+  - first:
+      213: 8290836562666699473
+    second: PixelZombieWalkerMotion_25
+  - first:
+      213: 464201028732005021
+    second: PixelZombieWalkerMotion_26
+  - first:
+      213: -2149724297342380853
+    second: PixelZombieWalkerMotion_27
+  - first:
+      213: 727739693176932942
+    second: PixelZombieWalkerMotion_28
+  - first:
+      213: 2425412809634439800
+    second: PixelZombieWalkerMotion_29
+  - first:
+      213: 1894005432147922317
+    second: PixelZombieWalkerMotion_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 260
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82bcd3e236a50950800000000000000
+      internalID: 6414715981760606862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 927
+        width: 323
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3cfff0e75d78a70800000000000000
+      internalID: 8829260331894162399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5859b9921ed4050800000000000000
+      internalID: 5786528665061131746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891148d784d79f490800000000000000
+      internalID: -7711995136598339176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 953
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144bdf795db195b0800000000000000
+      internalID: -5363297489126734830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 944
+        width: 180
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67772c563aa47fb0800000000000000
+      internalID: -4650905364715833491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 939
+        width: 267
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d131202a1795570800000000000000
+      internalID: 8455914715998264612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 939
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d45c76ac99dcf0800000000000000
+      internalID: -226978067341060484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 636
+        width: 230
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd99581c4ff3b7ca0800000000000000
+      internalID: -6018146156599207459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 616
+        width: 253
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e89007837a3eb0800000000000000
+      internalID: -4739348634186226729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 612
+        width: 240
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05fa49b331008e00800000000000000
+      internalID: 1044836435213612300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 606
+        width: 226
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268c2fe9881cf8b80800000000000000
+      internalID: -8390274788241520542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 318
+        width: 224
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beec184b6470a690800000000000000
+      internalID: -7592940967626477902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 282
+        width: 323
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de30e35c78da8c0800000000000000
+      internalID: -3986380813934269055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 612
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45853fb91a5b9e390800000000000000
+      internalID: -7788494374849783724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 242
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b74464cfa758670800000000000000
+      internalID: 8540367492307254042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f885da1dcf0b19580800000000000000
+      internalID: -8822075595146045297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee5a286c8a200c0800000000000000
+      internalID: -4610937497925063127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 292
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacdd976234155380800000000000000
+      internalID: -8983251675001267028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 292
+        width: 311
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e75bc48962ac50800000000000000
+      internalID: 6675013616784631100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_20
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 284
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2866d2c7ae33c0800000000000000
+      internalID: -4377877332494898302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 252
+        width: 312
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3094444cce61ee0800000000000000
+      internalID: -1290583915491687446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_22
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 276
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c8e2c184f93ea0800000000000000
+      internalID: -5892409799279590764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 275
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d2f3d93b3f1cf0800000000000000
+      internalID: -279439532318601196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 244
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c42a75544c7620800000000000000
+      internalID: 2773166604465521114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_25
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 272
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab1905de7fe0370800000000000000
+      internalID: 8290836562666699473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 0
+        width: 248
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a21fd406c217600800000000000000
+      internalID: 464201028732005021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 232
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc491eb2425aa22e0800000000000000
+      internalID: -2149724297342380853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a43cc2563791a00800000000000000
+      internalID: 727739693176932942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 61
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87261f7991cc8a120800000000000000
+      internalID: 2425412809634439800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelZombieWalkerMotion_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d46d9d7ebd84a10800000000000000
+      internalID: 1894005432147922317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelZombieWalkerMotion_0: 6414715981760606862
+      PixelZombieWalkerMotion_1: 8829260331894162399
+      PixelZombieWalkerMotion_10: 1044836435213612300
+      PixelZombieWalkerMotion_11: -8390274788241520542
+      PixelZombieWalkerMotion_12: -7592940967626477902
+      PixelZombieWalkerMotion_13: -3986380813934269055
+      PixelZombieWalkerMotion_14: -7788494374849783724
+      PixelZombieWalkerMotion_15: 8540367492307254042
+      PixelZombieWalkerMotion_16: -8822075595146045297
+      PixelZombieWalkerMotion_17: -4610937497925063127
+      PixelZombieWalkerMotion_18: -8983251675001267028
+      PixelZombieWalkerMotion_19: 6675013616784631100
+      PixelZombieWalkerMotion_2: 5786528665061131746
+      PixelZombieWalkerMotion_20: -4377877332494898302
+      PixelZombieWalkerMotion_21: -1290583915491687446
+      PixelZombieWalkerMotion_22: -5892409799279590764
+      PixelZombieWalkerMotion_23: -279439532318601196
+      PixelZombieWalkerMotion_24: 2773166604465521114
+      PixelZombieWalkerMotion_25: 8290836562666699473
+      PixelZombieWalkerMotion_26: 464201028732005021
+      PixelZombieWalkerMotion_27: -2149724297342380853
+      PixelZombieWalkerMotion_28: 727739693176932942
+      PixelZombieWalkerMotion_29: 2425412809634439800
+      PixelZombieWalkerMotion_3: -7711995136598339176
+      PixelZombieWalkerMotion_30: 1894005432147922317
+      PixelZombieWalkerMotion_4: -5363297489126734830
+      PixelZombieWalkerMotion_5: -4650905364715833491
+      PixelZombieWalkerMotion_6: 8455914715998264612
+      PixelZombieWalkerMotion_7: -226978067341060484
+      PixelZombieWalkerMotion_8: -6018146156599207459
+      PixelZombieWalkerMotion_9: -4739348634186226729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

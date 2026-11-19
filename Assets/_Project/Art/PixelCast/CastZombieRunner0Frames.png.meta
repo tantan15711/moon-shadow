@@ -1,0 +1,3473 @@
+fileFormatVersion: 2
+guid: e453501563eaad44c8f404f971cab2bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1543663255036742129
+    second: CastZombieRunner0Frames_0
+  - first:
+      213: -7537347681410500334
+    second: CastZombieRunner0Frames_1
+  - first:
+      213: -5544275837103899198
+    second: CastZombieRunner0Frames_2
+  - first:
+      213: -4041435548661149454
+    second: CastZombieRunner0Frames_3
+  - first:
+      213: 7443762886620301148
+    second: CastZombieRunner0Frames_4
+  - first:
+      213: 3983129508466690311
+    second: CastZombieRunner0Frames_5
+  - first:
+      213: 5114275545939780
+    second: CastZombieRunner0Frames_6
+  - first:
+      213: 5821410454549188636
+    second: CastZombieRunner0Frames_7
+  - first:
+      213: 902417000845168612
+    second: CastZombieRunner0Frames_8
+  - first:
+      213: -2369628350155851024
+    second: CastZombieRunner0Frames_9
+  - first:
+      213: 1752802388500314497
+    second: CastZombieRunner0Frames_10
+  - first:
+      213: 977954254209421364
+    second: CastZombieRunner0Frames_11
+  - first:
+      213: -6638348359725134094
+    second: CastZombieRunner0Frames_12
+  - first:
+      213: -1668434004435690056
+    second: CastZombieRunner0Frames_13
+  - first:
+      213: 6279526009874671885
+    second: CastZombieRunner0Frames_14
+  - first:
+      213: 1013801369090724984
+    second: CastZombieRunner0Frames_15
+  - first:
+      213: 7846720685358671108
+    second: CastZombieRunner0Frames_16
+  - first:
+      213: 7018590795814327872
+    second: CastZombieRunner0Frames_17
+  - first:
+      213: 1009275258873292839
+    second: CastZombieRunner0Frames_18
+  - first:
+      213: 2766899129044012123
+    second: CastZombieRunner0Frames_19
+  - first:
+      213: 6005917442711456883
+    second: CastZombieRunner0Frames_20
+  - first:
+      213: -6991531482808214371
+    second: CastZombieRunner0Frames_21
+  - first:
+      213: -3473913219626190753
+    second: CastZombieRunner0Frames_22
+  - first:
+      213: 5106420658479998957
+    second: CastZombieRunner0Frames_23
+  - first:
+      213: 3464473340302658713
+    second: CastZombieRunner0Frames_24
+  - first:
+      213: -7511218139396731723
+    second: CastZombieRunner0Frames_25
+  - first:
+      213: 8407365821111287661
+    second: CastZombieRunner0Frames_26
+  - first:
+      213: 8414176468038172134
+    second: CastZombieRunner0Frames_27
+  - first:
+      213: 651526622634170955
+    second: CastZombieRunner0Frames_28
+  - first:
+      213: 934531915845674649
+    second: CastZombieRunner0Frames_29
+  - first:
+      213: 2594206040090926350
+    second: CastZombieRunner0Frames_30
+  - first:
+      213: 3767466523636458375
+    second: CastZombieRunner0Frames_31
+  - first:
+      213: -1530317002086747088
+    second: CastZombieRunner0Frames_32
+  - first:
+      213: 979153073309763756
+    second: CastZombieRunner0Frames_33
+  - first:
+      213: 4260531880495498366
+    second: CastZombieRunner0Frames_34
+  - first:
+      213: 1099979556868599790
+    second: CastZombieRunner0Frames_35
+  - first:
+      213: -7275120913431509410
+    second: CastZombieRunner0Frames_36
+  - first:
+      213: 5859049635903104824
+    second: CastZombieRunner0Frames_37
+  - first:
+      213: -1982004397734670044
+    second: CastZombieRunner0Frames_38
+  - first:
+      213: -134253709693780062
+    second: CastZombieRunner0Frames_39
+  - first:
+      213: 4878665874949980331
+    second: CastZombieRunner0Frames_40
+  - first:
+      213: 4515226720905630398
+    second: CastZombieRunner0Frames_41
+  - first:
+      213: 6793654030379263027
+    second: CastZombieRunner0Frames_42
+  - first:
+      213: 2732098300965935599
+    second: CastZombieRunner0Frames_43
+  - first:
+      213: -3392299732902996599
+    second: CastZombieRunner0Frames_44
+  - first:
+      213: -7006937513200452358
+    second: CastZombieRunner0Frames_45
+  - first:
+      213: 2644346010829789953
+    second: CastZombieRunner0Frames_46
+  - first:
+      213: 2195576825223811970
+    second: CastZombieRunner0Frames_47
+  - first:
+      213: -3456203061309734678
+    second: CastZombieRunner0Frames_48
+  - first:
+      213: -5333175079405367766
+    second: CastZombieRunner0Frames_49
+  - first:
+      213: 2644239418096998705
+    second: CastZombieRunner0Frames_50
+  - first:
+      213: 3319807038102842294
+    second: CastZombieRunner0Frames_51
+  - first:
+      213: 7430450208173076025
+    second: CastZombieRunner0Frames_52
+  - first:
+      213: -868483801439391249
+    second: CastZombieRunner0Frames_53
+  - first:
+      213: -386133788868612344
+    second: CastZombieRunner0Frames_54
+  - first:
+      213: 3343329002446000918
+    second: CastZombieRunner0Frames_55
+  - first:
+      213: -8812160538619949589
+    second: CastZombieRunner0Frames_56
+  - first:
+      213: 9045262106219459482
+    second: CastZombieRunner0Frames_57
+  - first:
+      213: -6136212082405011332
+    second: CastZombieRunner0Frames_58
+  - first:
+      213: -4609303422118818286
+    second: CastZombieRunner0Frames_59
+  - first:
+      213: 6462824521104465412
+    second: CastZombieRunner0Frames_60
+  - first:
+      213: 6953580030513891397
+    second: CastZombieRunner0Frames_61
+  - first:
+      213: 1949228012116398650
+    second: CastZombieRunner0Frames_62
+  - first:
+      213: 8941769968459411413
+    second: CastZombieRunner0Frames_63
+  - first:
+      213: 7120658905694984479
+    second: CastZombieRunner0Frames_64
+  - first:
+      213: 8559405412591387127
+    second: CastZombieRunner0Frames_65
+  - first:
+      213: -8326839345229320388
+    second: CastZombieRunner0Frames_66
+  - first:
+      213: 1006684180764994052
+    second: CastZombieRunner0Frames_67
+  - first:
+      213: -7703750250964403658
+    second: CastZombieRunner0Frames_68
+  - first:
+      213: 5042555036507812253
+    second: CastZombieRunner0Frames_69
+  - first:
+      213: -1716062868677626344
+    second: CastZombieRunner0Frames_70
+  - first:
+      213: -4114527354882456273
+    second: CastZombieRunner0Frames_71
+  - first:
+      213: 5984233421846127515
+    second: CastZombieRunner0Frames_72
+  - first:
+      213: -8724074506205541833
+    second: CastZombieRunner0Frames_73
+  - first:
+      213: 4991089904438876894
+    second: CastZombieRunner0Frames_74
+  - first:
+      213: -5202980038311846215
+    second: CastZombieRunner0Frames_75
+  - first:
+      213: -5896066851142797645
+    second: CastZombieRunner0Frames_76
+  - first:
+      213: -4774332935842304750
+    second: CastZombieRunner0Frames_77
+  - first:
+      213: -8626003852798859237
+    second: CastZombieRunner0Frames_78
+  - first:
+      213: -2224794055338856597
+    second: CastZombieRunner0Frames_79
+  - first:
+      213: 155895649743648354
+    second: CastZombieRunner0Frames_80
+  - first:
+      213: 733434430046922383
+    second: CastZombieRunner0Frames_81
+  - first:
+      213: -5272612875721070370
+    second: CastZombieRunner0Frames_82
+  - first:
+      213: 2728899675359992182
+    second: CastZombieRunner0Frames_83
+  - first:
+      213: -3593123714514125323
+    second: CastZombieRunner0Frames_84
+  - first:
+      213: -3264968662739598526
+    second: CastZombieRunner0Frames_85
+  - first:
+      213: -7990689411348890818
+    second: CastZombieRunner0Frames_86
+  - first:
+      213: 5891481133419539799
+    second: CastZombieRunner0Frames_87
+  - first:
+      213: 4273045586640349544
+    second: CastZombieRunner0Frames_88
+  - first:
+      213: 3041016652804231758
+    second: CastZombieRunner0Frames_89
+  - first:
+      213: 3329023465463096452
+    second: CastZombieRunner0Frames_90
+  - first:
+      213: -5608876861685271517
+    second: CastZombieRunner0Frames_91
+  - first:
+      213: -5205008360674831312
+    second: CastZombieRunner0Frames_92
+  - first:
+      213: -3509667132146306397
+    second: CastZombieRunner0Frames_93
+  - first:
+      213: 7012561571862960253
+    second: CastZombieRunner0Frames_94
+  - first:
+      213: -5211950379825897285
+    second: CastZombieRunner0Frames_95
+  - first:
+      213: 4186206615934552906
+    second: CastZombieRunner0Frames_96
+  - first:
+      213: -6526847623702694604
+    second: CastZombieRunner0Frames_97
+  - first:
+      213: -4181780873195373884
+    second: CastZombieRunner0Frames_98
+  - first:
+      213: 962434345134881620
+    second: CastZombieRunner0Frames_99
+  - first:
+      213: -5741316883132819470
+    second: CastZombieRunner0Frames_100
+  - first:
+      213: -1376975011609773371
+    second: CastZombieRunner0Frames_101
+  - first:
+      213: -5460718791056798896
+    second: CastZombieRunner0Frames_102
+  - first:
+      213: 5473170090657615354
+    second: CastZombieRunner0Frames_103
+  - first:
+      213: -1449320769144568618
+    second: CastZombieRunner0Frames_104
+  - first:
+      213: 5407028236487368984
+    second: CastZombieRunner0Frames_105
+  - first:
+      213: 4985521036416620652
+    second: CastZombieRunner0Frames_106
+  - first:
+      213: -2800163502984972914
+    second: CastZombieRunner0Frames_107
+  - first:
+      213: 4306405735816878188
+    second: CastZombieRunner0Frames_108
+  - first:
+      213: 3022363127178052804
+    second: CastZombieRunner0Frames_109
+  - first:
+      213: 1006695294419960366
+    second: CastZombieRunner0Frames_110
+  - first:
+      213: -6404053695133465515
+    second: CastZombieRunner0Frames_111
+  - first:
+      213: 430618301594842716
+    second: CastZombieRunner0Frames_112
+  - first:
+      213: 4277411308863154491
+    second: CastZombieRunner0Frames_113
+  - first:
+      213: -2481066197723450548
+    second: CastZombieRunner0Frames_114
+  - first:
+      213: 3097538518727956056
+    second: CastZombieRunner0Frames_115
+  - first:
+      213: -6365300097502370019
+    second: CastZombieRunner0Frames_116
+  - first:
+      213: 1803585490818226509
+    second: CastZombieRunner0Frames_117
+  - first:
+      213: 5018542148942595324
+    second: CastZombieRunner0Frames_118
+  - first:
+      213: 5662859630886588883
+    second: CastZombieRunner0Frames_119
+  - first:
+      213: -6583429610974528592
+    second: CastZombieRunner0Frames_120
+  - first:
+      213: -3544354128145342366
+    second: CastZombieRunner0Frames_121
+  - first:
+      213: 2995795604284130739
+    second: CastZombieRunner0Frames_122
+  - first:
+      213: -3719215879450978795
+    second: CastZombieRunner0Frames_123
+  - first:
+      213: -1715126684563414981
+    second: CastZombieRunner0Frames_124
+  - first:
+      213: -8520512205243763033
+    second: CastZombieRunner0Frames_125
+  - first:
+      213: 6079873469359041928
+    second: CastZombieRunner0Frames_126
+  - first:
+      213: 4633435576385289706
+    second: CastZombieRunner0Frames_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 60
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1694
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0636beb27ec39ae0800000000000000
+      internalID: -1543663255036742129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1694
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b9e4e736f56790800000000000000
+      internalID: -7537347681410500334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1694
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf3a04086ce03b0800000000000000
+      internalID: -5544275837103899198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1694
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09a6be7cfe9e7c0800000000000000
+      internalID: -4041435548661149454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1694
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574d3918ee8d4760800000000000000
+      internalID: 7443762886620301148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1694
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70988863f2be64730800000000000000
+      internalID: 3983129508466690311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_6
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1694
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff231186b221000800000000000000
+      internalID: 5114275545939780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_7
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1694
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10562b17fdc9c050800000000000000
+      internalID: 5821410454549188636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1582
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef46a62b77068c00800000000000000
+      internalID: 902417000845168612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1582
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf34302936d1fd0800000000000000
+      internalID: -2369628350155851024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1582
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18974005c74335810800000000000000
+      internalID: 1752802388500314497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1582
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301cb87634629d00800000000000000
+      internalID: 977954254209421364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1582
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe494b9659dfd3a0800000000000000
+      internalID: -6638348359725134094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1582
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9d6adc1888d8e0800000000000000
+      internalID: -1668434004435690056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_14
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1582
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e768b2ab552750800000000000000
+      internalID: 6279526009874671885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_15
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1582
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874157d49feb11e00800000000000000
+      internalID: 1013801369090724984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1470
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405638eb3e625ec60800000000000000
+      internalID: 7846720685358671108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1470
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046d658842b076160800000000000000
+      internalID: 7018590795814327872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1470
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728abb5208aa10e00800000000000000
+      internalID: 1009275258873292839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1470
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c81042910066620800000000000000
+      internalID: 2766899129044012123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_20
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1470
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c832be71e495350800000000000000
+      internalID: 6005917442711456883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1470
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c914bb82719fe90800000000000000
+      internalID: -6991531482808214371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1470
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b5a3155e2acfc0800000000000000
+      internalID: -3473913219626190753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_23
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1470
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7aa6ea886add640800000000000000
+      internalID: 5106420658479998957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1358
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0d8eb528441030800000000000000
+      internalID: 3464473340302658713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1358
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc89caf5eac2c790800000000000000
+      internalID: -7511218139396731723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1358
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f39109ba6fca470800000000000000
+      internalID: 8407365821111287661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_27
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1358
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edbddedae825c470800000000000000
+      internalID: 8414176468038172134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_28
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1358
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad1d7e200ba0900800000000000000
+      internalID: 651526622634170955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_29
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1358
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9962f3b73df18fc00800000000000000
+      internalID: 934531915845674649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_30
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1358
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ddac516a8700420800000000000000
+      internalID: 2594206040090926350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_31
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1358
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e684a7dab84430800000000000000
+      internalID: 3767466523636458375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1246
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034f0e86bc833cae0800000000000000
+      internalID: -1530317002086747088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1246
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84c5b4886a69d00800000000000000
+      internalID: 979153073309763756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1246
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74492b0c23702b30800000000000000
+      internalID: 4260531880495498366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1246
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef285b3499e34f00800000000000000
+      internalID: 1099979556868599790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1246
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5646e01314990b90800000000000000
+      internalID: -7275120913431509410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1246
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e26de9968f4150800000000000000
+      internalID: 5859049635903104824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_38
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1246
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42153c950818e74e0800000000000000
+      internalID: -1982004397734670044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_39
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1246
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7ceb56f8032ef0800000000000000
+      internalID: -134253709693780062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1134
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c636d3c084b340800000000000000
+      internalID: 4878665874949980331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1134
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29eeba7ce49ae30800000000000000
+      internalID: 4515226720905630398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1134
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33428a7a858e74e50800000000000000
+      internalID: 6793654030379263027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_43
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1134
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d580fdec5ae520800000000000000
+      internalID: 2732098300965935599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1134
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9851aa8bd512ce0d0800000000000000
+      internalID: -3392299732902996599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_45
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1134
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf352c47b52ce90800000000000000
+      internalID: -7006937513200452358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_46
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1134
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b1bbebfaa92b420800000000000000
+      internalID: 2644346010829789953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_47
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1134
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839b886d71487e10800000000000000
+      internalID: 2195576825223811970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1022
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae00403a0a91900d0800000000000000
+      internalID: -3456203061309734678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1022
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec31b8581ccf5b0800000000000000
+      internalID: -5333175079405367766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1022
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139d1c0bdb932b420800000000000000
+      internalID: 2644239418096998705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_51
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1022
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb26fc79e2521e20800000000000000
+      internalID: 3319807038102842294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_52
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1022
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e226b98134e1760800000000000000
+      internalID: 7430450208173076025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_53
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1022
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe13602859682f3f0800000000000000
+      internalID: -868483801439391249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_54
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1022
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe5b66d5d24aaf0800000000000000
+      internalID: -386133788868612344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_55
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1022
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6131e069304e56e20800000000000000
+      internalID: 3343329002446000918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 910
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc7dfcdaae4b580800000000000000
+      internalID: -8812160538619949589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_57
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 910
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93338536f9378d70800000000000000
+      internalID: 9045262106219459482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 910
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c701ac14f9bc7daa0800000000000000
+      internalID: -6136212082405011332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_59
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 910
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e8d9e65f67800c0800000000000000
+      internalID: -4609303422118818286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_60
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 910
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9d1219a090b950800000000000000
+      internalID: 6462824521104465412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_61
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 910
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c7043234108060800000000000000
+      internalID: 6953580030513891397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_62
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 910
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a325070bc8c0d0b10800000000000000
+      internalID: 1949228012116398650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_63
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 910
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6749296c871c70800000000000000
+      internalID: 8941769968459411413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 798
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19dba04c89a1d260800000000000000
+      internalID: 7120658905694984479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 798
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c0128fdd19c670800000000000000
+      internalID: 8559405412591387127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 798
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f2cd5abbf117c80800000000000000
+      internalID: -8326839345229320388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_67
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 798
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa083cde578fd00800000000000000
+      internalID: 1006684180764994052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_68
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 798
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab0f486f7c61590800000000000000
+      internalID: -7703750250964403658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_69
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 798
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b76fc611caf540800000000000000
+      internalID: 5042555036507812253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_70
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 798
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8167b3cb9e15f28e0800000000000000
+      internalID: -1716062868677626344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_71
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 798
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f258a91ab2346e6c0800000000000000
+      internalID: -4114527354882456273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 686
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a82267944c0350800000000000000
+      internalID: 5984233421846127515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 686
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac39f657cdde680800000000000000
+      internalID: -8724074506205541833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 686
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1e1cf2d9e34540800000000000000
+      internalID: 4991089904438876894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_75
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 686
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be59f2c83d4bc7b0800000000000000
+      internalID: -5202980038311846215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_76
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 686
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b67da50076fc2ea0800000000000000
+      internalID: -5896066851142797645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_77
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 686
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21deba78d792ebdb0800000000000000
+      internalID: -4774332935842304750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_78
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 686
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e5cac2374a4880800000000000000
+      internalID: -8626003852798859237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_79
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 686
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f60291891ff11e0800000000000000
+      internalID: -2224794055338856597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_80
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 574
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266bff8744ad92200800000000000000
+      internalID: 155895649743648354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 574
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ecfc6abead2a00800000000000000
+      internalID: 733434430046922383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_82
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 574
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ae78668ae3d6b0800000000000000
+      internalID: -5272612875721070370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_83
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 574
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679d281ebcffed520800000000000000
+      internalID: 2728899675359992182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_84
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 574
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd7a52d409a22ec0800000000000000
+      internalID: -3593123714514125323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_85
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243cf9ebc4080b2d0800000000000000
+      internalID: -3264968662739598526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_86
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 574
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf21e115e5b1190800000000000000
+      internalID: -7990689411348890818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_87
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 574
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d236e50eeb2c150800000000000000
+      internalID: 5891481133419539799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_88
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 462
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869afbc4258ec4b30800000000000000
+      internalID: 4273045586640349544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_89
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 462
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e429172a88cd33a20800000000000000
+      internalID: 3041016652804231758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_90
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 462
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842ed33431133e20800000000000000
+      internalID: 3329023465463096452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_91
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 462
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324775e16344922b0800000000000000
+      internalID: -5608876861685271517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_92
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 462
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d909297814c7b0800000000000000
+      internalID: -5205008360674831312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_93
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 462
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a23e8c96582b4fc0800000000000000
+      internalID: -3509667132146306397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_94
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 462
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785270789f915160800000000000000
+      internalID: 7012561571862960253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_95
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 462
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e38f5ebe6ba7b0800000000000000
+      internalID: -5211950379825897285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_96
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 350
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4b2bdcb4681a30800000000000000
+      internalID: 4186206615934552906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 350
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435391ebaaafb65a0800000000000000
+      internalID: -6526847623702694604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 350
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabaaca37457f5c0800000000000000
+      internalID: -4181780873195373884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_99
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 350
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b766d00f04b5d00800000000000000
+      internalID: 962434345134881620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_100
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 350
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75aeda6beb250b0800000000000000
+      internalID: -5741316883132819470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_101
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 350
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf860c58004ece0800000000000000
+      internalID: -1376975011609773371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_102
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 350
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b42c01131a734b0800000000000000
+      internalID: -5460718791056798896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_103
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 350
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd80f8033b94fb40800000000000000
+      internalID: 5473170090657615354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_104
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 238
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4ca85707af2ebe0800000000000000
+      internalID: -1449320769144568618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811265e888f990b40800000000000000
+      internalID: 5407028236487368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_106
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 238
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6899dbd7f0203540800000000000000
+      internalID: 4985521036416620652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_107
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 238
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8531934122d329d0800000000000000
+      internalID: -2800163502984972914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 238
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68d11e433d63cb30800000000000000
+      internalID: 4306405735816878188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_109
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 238
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4cfa1404791f920800000000000000
+      internalID: 3022363127178052804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_110
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 238
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2285fc590088fd00800000000000000
+      internalID: 1006695294419960366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_111
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 238
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ca0b281b3027a0800000000000000
+      internalID: -6404053695133465515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_112
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b754501dd9f500800000000000000
+      internalID: 430618301594842716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e6073cea6c5b30800000000000000
+      internalID: 4277411308863154491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 126
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f67c307b719dd0800000000000000
+      internalID: -2481066197723450548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_115
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 126
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8569ede0fdaacfa20800000000000000
+      internalID: 3097538518727956056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_116
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 126
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ac9f3949e9a7a0800000000000000
+      internalID: -6365300097502370019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_117
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 126
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d446b27f970910800000000000000
+      internalID: 1803585490818226509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_118
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 126
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf48c0ebe7175a540800000000000000
+      internalID: 5018542148942595324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_119
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 126
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d115e7c4d4869e40800000000000000
+      internalID: 5662859630886588883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_120
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb331a36a5f2a4a0800000000000000
+      internalID: -6583429610974528592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 14
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26025b103bcefcec0800000000000000
+      internalID: -3544354128145342366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 14
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5480dca34339920800000000000000
+      internalID: 2995795604284130739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_123
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 14
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5161556ecd0b26cc0800000000000000
+      internalID: -3719215879450978795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_124
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 14
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30edc51e55a238e0800000000000000
+      internalID: -1715126684563414981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_125
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 14
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b01efa4f01c980800000000000000
+      internalID: -8520512205243763033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_126
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 14
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88da77435bc006450800000000000000
+      internalID: 6079873469359041928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastZombieRunner0Frames_127
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 14
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3a149b154d4040800000000000000
+      internalID: 4633435576385289706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastZombieRunner0Frames_0: -1543663255036742129
+      CastZombieRunner0Frames_1: -7537347681410500334
+      CastZombieRunner0Frames_10: 1752802388500314497
+      CastZombieRunner0Frames_100: -5741316883132819470
+      CastZombieRunner0Frames_101: -1376975011609773371
+      CastZombieRunner0Frames_102: -5460718791056798896
+      CastZombieRunner0Frames_103: 5473170090657615354
+      CastZombieRunner0Frames_104: -1449320769144568618
+      CastZombieRunner0Frames_105: 5407028236487368984
+      CastZombieRunner0Frames_106: 4985521036416620652
+      CastZombieRunner0Frames_107: -2800163502984972914
+      CastZombieRunner0Frames_108: 4306405735816878188
+      CastZombieRunner0Frames_109: 3022363127178052804
+      CastZombieRunner0Frames_11: 977954254209421364
+      CastZombieRunner0Frames_110: 1006695294419960366
+      CastZombieRunner0Frames_111: -6404053695133465515
+      CastZombieRunner0Frames_112: 430618301594842716
+      CastZombieRunner0Frames_113: 4277411308863154491
+      CastZombieRunner0Frames_114: -2481066197723450548
+      CastZombieRunner0Frames_115: 3097538518727956056
+      CastZombieRunner0Frames_116: -6365300097502370019
+      CastZombieRunner0Frames_117: 1803585490818226509
+      CastZombieRunner0Frames_118: 5018542148942595324
+      CastZombieRunner0Frames_119: 5662859630886588883
+      CastZombieRunner0Frames_12: -6638348359725134094
+      CastZombieRunner0Frames_120: -6583429610974528592
+      CastZombieRunner0Frames_121: -3544354128145342366
+      CastZombieRunner0Frames_122: 2995795604284130739
+      CastZombieRunner0Frames_123: -3719215879450978795
+      CastZombieRunner0Frames_124: -1715126684563414981
+      CastZombieRunner0Frames_125: -8520512205243763033
+      CastZombieRunner0Frames_126: 6079873469359041928
+      CastZombieRunner0Frames_127: 4633435576385289706
+      CastZombieRunner0Frames_13: -1668434004435690056
+      CastZombieRunner0Frames_14: 6279526009874671885
+      CastZombieRunner0Frames_15: 1013801369090724984
+      CastZombieRunner0Frames_16: 7846720685358671108
+      CastZombieRunner0Frames_17: 7018590795814327872
+      CastZombieRunner0Frames_18: 1009275258873292839
+      CastZombieRunner0Frames_19: 2766899129044012123
+      CastZombieRunner0Frames_2: -5544275837103899198
+      CastZombieRunner0Frames_20: 6005917442711456883
+      CastZombieRunner0Frames_21: -6991531482808214371
+      CastZombieRunner0Frames_22: -3473913219626190753
+      CastZombieRunner0Frames_23: 5106420658479998957
+      CastZombieRunner0Frames_24: 3464473340302658713
+      CastZombieRunner0Frames_25: -7511218139396731723
+      CastZombieRunner0Frames_26: 8407365821111287661
+      CastZombieRunner0Frames_27: 8414176468038172134
+      CastZombieRunner0Frames_28: 651526622634170955
+      CastZombieRunner0Frames_29: 934531915845674649
+      CastZombieRunner0Frames_3: -4041435548661149454
+      CastZombieRunner0Frames_30: 2594206040090926350
+      CastZombieRunner0Frames_31: 3767466523636458375
+      CastZombieRunner0Frames_32: -1530317002086747088
+      CastZombieRunner0Frames_33: 979153073309763756
+      CastZombieRunner0Frames_34: 4260531880495498366
+      CastZombieRunner0Frames_35: 1099979556868599790
+      CastZombieRunner0Frames_36: -7275120913431509410
+      CastZombieRunner0Frames_37: 5859049635903104824
+      CastZombieRunner0Frames_38: -1982004397734670044
+      CastZombieRunner0Frames_39: -134253709693780062
+      CastZombieRunner0Frames_4: 7443762886620301148
+      CastZombieRunner0Frames_40: 4878665874949980331
+      CastZombieRunner0Frames_41: 4515226720905630398
+      CastZombieRunner0Frames_42: 6793654030379263027
+      CastZombieRunner0Frames_43: 2732098300965935599
+      CastZombieRunner0Frames_44: -3392299732902996599
+      CastZombieRunner0Frames_45: -7006937513200452358
+      CastZombieRunner0Frames_46: 2644346010829789953
+      CastZombieRunner0Frames_47: 2195576825223811970
+      CastZombieRunner0Frames_48: -3456203061309734678
+      CastZombieRunner0Frames_49: -5333175079405367766
+      CastZombieRunner0Frames_5: 3983129508466690311
+      CastZombieRunner0Frames_50: 2644239418096998705
+      CastZombieRunner0Frames_51: 3319807038102842294
+      CastZombieRunner0Frames_52: 7430450208173076025
+      CastZombieRunner0Frames_53: -868483801439391249
+      CastZombieRunner0Frames_54: -386133788868612344
+      CastZombieRunner0Frames_55: 3343329002446000918
+      CastZombieRunner0Frames_56: -8812160538619949589
+      CastZombieRunner0Frames_57: 9045262106219459482
+      CastZombieRunner0Frames_58: -6136212082405011332
+      CastZombieRunner0Frames_59: -4609303422118818286
+      CastZombieRunner0Frames_6: 5114275545939780
+      CastZombieRunner0Frames_60: 6462824521104465412
+      CastZombieRunner0Frames_61: 6953580030513891397
+      CastZombieRunner0Frames_62: 1949228012116398650
+      CastZombieRunner0Frames_63: 8941769968459411413
+      CastZombieRunner0Frames_64: 7120658905694984479
+      CastZombieRunner0Frames_65: 8559405412591387127
+      CastZombieRunner0Frames_66: -8326839345229320388
+      CastZombieRunner0Frames_67: 1006684180764994052
+      CastZombieRunner0Frames_68: -7703750250964403658
+      CastZombieRunner0Frames_69: 5042555036507812253
+      CastZombieRunner0Frames_7: 5821410454549188636
+      CastZombieRunner0Frames_70: -1716062868677626344
+      CastZombieRunner0Frames_71: -4114527354882456273
+      CastZombieRunner0Frames_72: 5984233421846127515
+      CastZombieRunner0Frames_73: -8724074506205541833
+      CastZombieRunner0Frames_74: 4991089904438876894
+      CastZombieRunner0Frames_75: -5202980038311846215
+      CastZombieRunner0Frames_76: -5896066851142797645
+      CastZombieRunner0Frames_77: -4774332935842304750
+      CastZombieRunner0Frames_78: -8626003852798859237
+      CastZombieRunner0Frames_79: -2224794055338856597
+      CastZombieRunner0Frames_8: 902417000845168612
+      CastZombieRunner0Frames_80: 155895649743648354
+      CastZombieRunner0Frames_81: 733434430046922383
+      CastZombieRunner0Frames_82: -5272612875721070370
+      CastZombieRunner0Frames_83: 2728899675359992182
+      CastZombieRunner0Frames_84: -3593123714514125323
+      CastZombieRunner0Frames_85: -3264968662739598526
+      CastZombieRunner0Frames_86: -7990689411348890818
+      CastZombieRunner0Frames_87: 5891481133419539799
+      CastZombieRunner0Frames_88: 4273045586640349544
+      CastZombieRunner0Frames_89: 3041016652804231758
+      CastZombieRunner0Frames_9: -2369628350155851024
+      CastZombieRunner0Frames_90: 3329023465463096452
+      CastZombieRunner0Frames_91: -5608876861685271517
+      CastZombieRunner0Frames_92: -5205008360674831312
+      CastZombieRunner0Frames_93: -3509667132146306397
+      CastZombieRunner0Frames_94: 7012561571862960253
+      CastZombieRunner0Frames_95: -5211950379825897285
+      CastZombieRunner0Frames_96: 4186206615934552906
+      CastZombieRunner0Frames_97: -6526847623702694604
+      CastZombieRunner0Frames_98: -4181780873195373884
+      CastZombieRunner0Frames_99: 962434345134881620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 3
+  assetBundleName: 
+  assetBundleVariant: 
